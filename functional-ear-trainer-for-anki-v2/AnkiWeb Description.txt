@@ -1,0 +1,42 @@
+﻿Your SRS companion to Alain Benbassat's “Functional Ear Trainer”
+– <a href="http://www.miles.be/" rel="nofollow">http://www.miles.be/</a>
+
+Both the desktop version and mobile app implementation of “Functional Ear Trainer” is great but it lacks an SRS component. This deck allows you to further optimize your ear training via Anki's SRS.
+
+<b>NOTE:</b> This deck utilizes HTML5 and Javascript for the custom Tonic Resolution Audio playing. It therefore doesn't work fully with Anki 2 Desktop (i.e., the back side will not play a resolution audio) but works great with the current version of AnkiDroid and possibly in the upcoming Anki 2.1 (Beta).
+
+The ordering of the cards has been pre-randomized, but the sequence of introduction for each card is still faithful to the original desktop program (i.e., you'll get ear training for chapter 3,1/5 first then 3,2/5 and so on...)
+
+<b>Recommended Deck Options</b>
+
+I recommend <b>Pimsleur's graduated-interval recall</b> for a much better learning experience, in which the learning intervals are, 5 seconds, 25 seconds, 2 minutes, 10 minutes, 1 hour, 5 hours, …
+
+I also recommend setting “New cards/day” option to zero, that way you could learn each subdeck separately and at your own pace. When you're ready to learn some new cards, simply use “Custom Study” with the option to “Increase today's new card limit” – I would recommend 4 cards in the beginning, and then eventually 8 cards per day when you're confident enough.
+
+Here's an example configuration that I particularly use:
+
+<b>Options group:</b> Functional Ear Trainer
+
+<b>Tab: New Cards</b>
+Steps (in minutes): 0.083333333333333 0.41666666666667 2 10 60 300
+Order: Show new cards in order added
+New cards/day: 0
+Graduating interval (days): 1
+Bury related new cards until the next day: Ticked
+
+<b>Tab: Reviews</b>
+Maximum reviews/day: 50
+Bury related reviews until the next day: Not Ticked
+
+<b>Tab: Lapses</b>
+Steps (in minutes): 0.083333333333333 0.41666666666667 2 10 60 300
+Minimum interval (days): 1
+
+<b>Tab: General</b>
+Show answer timer: Ticked
+Automatically play audio: Ticked
+When answer shown, replay both question and answer audio: Not Ticked
+
+And that's it! The other omitted options can be whatever you want, but I recommend leaving them to the defaults, as set by Anki. Feel free to customize the options though, especially when they're not working for you.
+
+Have fun!

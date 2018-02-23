@@ -1,0 +1,104 @@
+{{#Tone File(s) in Xb}}
+<p class=color>{{Cadence in Xb}}{{Tone in Xb}}</p>
+<script>
+window.tonicResolutionFiles = "{{text:Resolution File(s) in Xb}}"
+window.toneNumber = "{{text:Tone Number}}"
+window.useChromatics = "{{text:Use Chromatics}}" == 1
+</script>
+{{/Tone File(s) in Xb}}
+<!-- ^ Let's define everything in one place ^ -->
+
+<!--
+WARNING:
+
+The following code snippet after this should not refer to any field.
+This ensures that the card is marked empty if there isn't a tone file.
+-->
+
+<script>if (window.Audio == undefined) document.body.className += " no-audio"</script>
+
+<div style="white-space: nowrap">
+{{^Is Minor}}
+	<div id=chromatics>
+		<div class=tones>
+			<span class>&nbsp;</span>
+			<button><small>#1</small>b2</button>
+			<button><small>#2</small>b3</button>
+			<span class=w>&nbsp;</span>
+		</div>
+		<div class=tones>
+			<button>#4<small>b5</small></button>
+			<button><small>#5</small>b6</button>
+			<button><small>#6</small>b7</button>
+			<span>&nbsp;</span>
+			<span class=wide>&nbsp;</span>
+		</div>
+	</div>
+
+	<div>
+		<div class=tones>
+			<button>1</button>
+			<button>2</button>
+			<button>3</button>
+			<button>4</button>
+		</div>
+		<div class=tones>
+			<button>5</button>
+			<button>6</button>
+			<button>7</button>
+			<button>1</button>
+		</div>
+	</div>
+{{/Is Minor}}
+{{#Is Minor}}
+	<div id=chromatics>
+		<div class=tones>
+			<span class>&nbsp;</span>
+			<button><small>#1</small>b2</button>
+			<span class=w>&nbsp;</span>
+			<button>3</button>
+		</div>
+		<div class=tones>
+			<button>#4<small>b5</small></button>
+			<span class=wide>&nbsp;</span>
+			<button>6</button>
+			<button>7</button>
+			<span>&nbsp;</span>
+		</div>
+	</div>
+
+	<div>
+		<div class=tones>
+			<button>1</button>
+			<button>2</button>
+			<button>b3</button>
+			<button>4</button>
+		</div>
+		<div class=tones>
+			<button>5</button>
+			<button>b6</button>
+			<button>b7</button>
+			<button>1</button>
+		</div>
+	</div>
+{{/Is Minor}}
+</div>
+
+<script>
+var isBack = !!document.getElementById("back");
+var buttons = document.getElementsByTagName("button");
+var hasAccidentals = toneNumber.charAt(0) == "#" || toneNumber.charAt(0) == "b"
+
+if (!useChromatics) {
+	document.getElementById("chromatics").className = "hide";
+}
+
+var i;
+for (i = 0; i < buttons.length; i++) {
+	var e = buttons[i]
+	e.disabled = isBack
+	if (e.textContent == toneNumber || (hasAccidentals && e.textContent.indexOf(toneNumber) >= 0)) {
+		e.className = "answer"
+	}
+}
+</script>

@@ -1,0 +1,23 @@
+
+tag:minor_chromatics
+tag:minor_chromatics card:C (tag:octave_5 or (tag:octave_6 tag:tone_1))
+tag:minor_chromatics card:C ((tag:octave_5 (tag:tone_s4 or tag:tone_*5 or tag:tone_*6 or tag:tone_*7)) or (tag:octave_6 tag:tone_1))
+tag:minor_chromatics card:C tag:octave_5 (tag:tone_1 or tag:tone_*2 or tag:tone_*3 or tag:tone_4)
+
+tag:minor_scale
+tag:minor_scale card:C (tag:octave_5 or (tag:octave_6 tag:tone_1))
+tag:minor_scale card:C ((tag:octave_5 (tag:tone_5 or tag:tone_b6 or tag:tone_b7)) or (tag:octave_6 tag:tone_1))
+tag:minor_scale card:C tag:octave_5 (tag:tone_1 or tag:tone_2 or tag:tone_b3 or tag:tone_4)
+
+tag:major_chromatics
+tag:major_chromatics card:C (tag:octave_5 or (tag:octave_6 tag:tone_1))
+tag:major_chromatics card:C ((tag:octave_5 (tag:tone_s4 or tag:tone_*5 or tag:tone_*6 or tag:tone_*7)) or (tag:octave_6 tag:tone_1))
+tag:major_chromatics card:C tag:octave_5 (tag:tone_1 or tag:tone_*2 or tag:tone_*3 or tag:tone_4)
+
+tag:major_scale
+tag:major_scale (tag:octave_5 or (tag:octave_6 tag:tone_1))
+tag:major_scale card:C (tag:octave_5 or (tag:octave_6 tag:tone_1))
+tag:major_scale card:C ((tag:octave_5 (tag:tone_5 or tag:tone_6 or tag:tone_7)) or (tag:octave_6 tag:tone_1))
+tag:major_scale card:C tag:octave_5 (tag:tone_1 or tag:tone_2 or tag:tone_3 or tag:tone_4)
+
+

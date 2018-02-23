@@ -1,0 +1,47 @@
+<div id=back>{{FrontSide}}</div>
+<hr>
+
+<p class=if-audio><button style="font-size: 15px; padding: 0px 12px" onclick="playResolution()">Play Resolution</button></p>
+
+<small class=color><small>Context:</small>
+{{^Is Minor}}Xb Major{{/Is Minor}}
+{{#Is Minor}}X# Minor{{/Is Minor}},
+{{Octave}}
+</small>
+
+<script>
+if (window.Audio != undefined) {
+	function soundsToAudio(res) {
+		res = res.split(",");
+		var ret = []
+		res.forEach(function(r) {
+			if (r) {
+				ret.push(new Audio(r))
+			}
+		})
+		return ret;
+	}
+
+	var resolution = soundsToAudio(tonicResolutionFiles)
+	resolution.timers = [];
+
+	var intervals = [50, 700, 1150, 1600, 2050]
+
+	function playResolution() {
+		var schedTone = function(a,i) {
+			a.pause();
+			clearTimeout(resolution.timers[i]);
+			resolution.timers[i] = setTimeout(function() {
+				a.currentTime=0;
+				a.play();
+			}, intervals[i]);
+		};
+		var a = resolution[0];
+		if (!a) return;
+		a.onplaying = function() {
+			resolution.forEach(function(a,i) { if (i) schedTone(a,i); });
+		};
+		schedTone(a, 0);
+	}
+}
+</script>

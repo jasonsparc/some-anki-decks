@@ -1,0 +1,70 @@
+.card {
+	font-family: myfont, roboto, calibri, arial;
+	font-size: 20px;
+	text-align: center;
+	color: #212121;
+	background-color: #fff;
+}
+
+.hide, .no-audio .if-audio, .win .desktop-only, .mac .desktop-only { display: none; }
+
+.color { color: #37474F; }
+.tones { display: inline-block; }
+
+.tones span {
+	display: inline-block;
+	margin: 1px;
+	min-width: 17px;
+}
+.tones span.wide { min-width: 34px; }
+
+#chromatics { margin-bottom: 6px; }
+#chromatics .tones button { min-height: 40px; }
+#chromatics .tones button small {
+	display: block;
+	opacity: 0.8;
+}
+
+.tones button { vertical-align: bottom; }
+
+button {
+	font-size: 12px;
+	min-width: 34px;
+	height:30px;
+	margin: 1px;
+	color: #37474F;
+	background-color: #ECEFF1;
+	border: 1px solid #90A4AE;
+	border-radius: 5px;
+	outline: none;
+}
+
+button:not(:disabled):hover {
+	border-color: #607D8B;
+	border-width: 2px;
+}
+
+#back button {
+	color: #78909C;
+	border-color: #B0BEC5;
+	border-width: 1px !important;
+}
+
+button:active, .tones button:focus, #back .answer {
+	color: #fff;
+	border-width: 2px;
+}
+
+button:not(:disabled):active { background-color: #455A64; }
+
+.tones button:not(:disabled):active, .tones button:focus, #back .answer {
+	background-color: #D32F2F;
+	border-radius: 4px;
+	border-color: #616161;
+}
+
+.tones button.answer:active, .tones button.answer:focus, #back .answer {
+	background-color: #388E3C;
+}
+
+@font-face { font-family: myfont; src: url('_roboto.ttf'); }
