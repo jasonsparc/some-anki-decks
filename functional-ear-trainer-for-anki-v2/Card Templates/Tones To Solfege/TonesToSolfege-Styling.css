@@ -1,0 +1,41 @@
+.card {
+	font-family: myfont, roboto, calibri, arial;
+	font-size: 20px;
+	text-align: center;
+	color: #263238;
+	background-color: #fff;
+
+	/* center the content, vertically and horizontally */
+
+	width: auto;
+	height: 150px;
+	overflow: visible;
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	margin: auto;
+}
+
+hr {
+	height: 10px;
+	border: 0;
+	background-color: #fff;
+	box-shadow: 0 10px 10px -10px #90A4AE inset;
+	margin: 20px 0px 10px;
+}
+
+.alt {
+	font-size: 65%;
+	color: #455A64;
+}
+
+.alt b {
+	font-size: 125%;
+	color: #37474F;
+}
+
+@font-face { font-family: myfont; src: url('_roboto.ttf'); }
