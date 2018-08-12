@@ -1,0 +1,4 @@
+Kana
+Recording
+Romaji
+Show Romaji by Default

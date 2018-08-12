@@ -1,0 +1,79 @@
+<br>
+
+<script>
+// This is UUID "7ba3be49-735b-496c-88dd-0ef2a0343c5d" but in Base 36
+var assetPrefix = "7biey7947yx7iz074op63ck7x_"
+
+var charToFontVarNStrokes = {
+	あ:[0,0,"a"],		い:[1,0,"i"],		う:[2,0,"u"],		え:[3,0,"e"],		お:[4,0,"o"],		か:[5,0,"ka"],		が:[6,0,"ga"],		き:[7,0,"ki"],		ぎ:[8,0,"gi"],		く:[9,0,"ku"],
+	ぐ:[0,1,"gu"],		け:[1,1,"ke"],		げ:[2,1,"ge"],		こ:[3,1,"ko"],		ご:[4,1,"go"],		さ:[5,1,"sa"],		ざ:[6,1,"za"],		し:[7,1,"shi"],		じ:[8,1,"ji"],		す:[9,1,"su"],
+	ず:[0,2,"zu"],		せ:[1,2,"se"],		ぜ:[2,2,"ze"],		そ:[3,2,"so"],		ぞ:[4,2,"zo"],		た:[5,2,"ta"],		だ:[6,2,"da"],		ち:[7,2,"chi"],		ぢ:[8,2,"di"],		つ:[9,2,"tsu"],
+	づ:[0,3,"du"],		て:[1,3,"te"],		で:[2,3,"de"],		と:[3,3,"to"],		ど:[4,3,"do"],		な:[5,3,"na"],		に:[6,3,"ni"],		ぬ:[7,3,"nu"],		ね:[8,3,"ne"],		の:[9,3,"no"],
+	は:[0,4,"ha"],		ば:[1,4,"ba"],		ぱ:[2,4,"pa"],		ひ:[3,4,"hi"],		び:[4,4,"bi"],		ぴ:[5,4,"pi"],		ふ:[6,4,"fu"],		ぶ:[7,4,"bu"],		ぷ:[8,4,"pu"],		へ:[9,4,"he"],
+	べ:[0,5,"be"],		ぺ:[1,5,"pe"],		ほ:[2,5,"ho"],		ぼ:[3,5,"bo"],		ぽ:[4,5,"po"],		ま:[5,5,"ma"],		み:[6,5,"mi"],		む:[7,5,"mu"],		め:[8,5,"me"],		も:[9,5,"mo"],
+	ゃ:[0,6,"_ya"],		や:[1,6,"ya"],		ゅ:[2,6,"_yu"],		ゆ:[3,6,"yu"],		ょ:[4,6,"_yo"],		よ:[5,6,"yo"],		ら:[6,6,"ra"],		り:[7,6,"ri"],		る:[8,6,"ru"],		れ:[9,6,"re"],
+	ろ:[0,7,"ro"],		わ:[1,7,"wa"],		を:[2,7,"wo"],		ん:[3,7,"n"],		ァ:[4,7,"_ak"],		ア:[5,7,"ak"],		ィ:[6,7,"_ik"],		イ:[7,7,"ik"],		ゥ:[8,7,"_uk"],		ウ:[9,7,"uk"],
+	ェ:[0,8,"_ek"],		エ:[1,8,"ek"],		ォ:[2,8,"_ok"],		オ:[3,8,"ok"],		カ:[4,8,"kak"],		ガ:[5,8,"gak"],		キ:[6,8,"kik"],		ギ:[7,8,"gik"],		ク:[8,8,"kuk"],		グ:[9,8,"guk"],
+	ケ:[0,9,"kek"],		ゲ:[1,9,"gek"],		コ:[2,9,"kok"],		ゴ:[3,9,"gok"],		サ:[4,9,"sak"],		ザ:[5,9,"zak"],		シ:[6,9,"shik"],		ジ:[7,9,"jik"],		ス:[8,9,"suk"],		ズ:[9,9,"zuk"],
+	セ:[0,10,"sek"],		ゼ:[1,10,"zek"],		ソ:[2,10,"sok"],		ゾ:[3,10,"zok"],		タ:[4,10,"tak"],		ダ:[5,10,"dak"],		チ:[6,10,"chik"],	ヂ:[7,10,"dik"],		ツ:[8,10,"tsuk"],	ヅ:[9,10,"duk"],
+	テ:[0,11,"tek"],		デ:[1,11,"dek"],		ト:[2,11,"tok"],		ド:[3,11,"dok"],		ナ:[4,11,"nak"],		ニ:[5,11,"nik"],		ヌ:[6,11,"nuk"],		ネ:[7,11,"nek"],		ノ:[8,11,"nok"],		ハ:[9,11,"hak"],
+	バ:[0,12,"bak"],		パ:[1,12,"pak"],		ヒ:[2,12,"hik"],		ビ:[3,12,"bik"],		ピ:[4,12,"pik"],		フ:[5,12,"fuk"],		ブ:[6,12,"buk"],		プ:[7,12,"puk"],		ヘ:[8,12,"hek"],		ベ:[9,12,"bek"],
+	ペ:[0,13,"pek"],		ホ:[1,13,"hok"],		ボ:[2,13,"bok"],		ポ:[3,13,"pok"],		マ:[4,13,"mak"],		ミ:[5,13,"mik"],		ム:[6,13,"muk"],		メ:[7,13,"mek"],		モ:[8,13,"mok"],		ャ:[9,13,"_yak"],
+	ヤ:[0,14,"yak"],		ュ:[1,14,"_yuk"],	ユ:[2,14,"yuk"],		ョ:[3,14,"_yok"],	ヨ:[4,14,"yok"],		ラ:[5,14,"rak"],		リ:[6,14,"rik"],		ル:[7,14,"ruk"],		レ:[8,14,"rek"],		ロ:[9,14,"rok"],
+	ワ:[0,15,"wak"],		ヲ:[1,15,"wok"],		ン:[2,15,"nk"],		ヴ:[3,15,"vuk"],		っ:[4,15,"_tsu"],	ッ:[5,15,"_tsuk"],	ー:[6,15]
+}
+
+function traceFontVarNStrokes(kanaStr, callback) {
+	for (var i = 0; i < kanaStr.length; i++) {
+		var data = charToFontVarNStrokes[kanaStr.charAt(i)]
+		if (!data) continue
+		callback(data)
+	}
+}
+
+function makeFontVarImg(kanaStr, fontIndex) {
+	var ret = ""
+	traceFontVarNStrokes(kanaStr, function(data) {
+		var x = data[0], y = data[1]
+		if (x == null || y == null) return
+		var size = 50, fontOffset = size * 10 * fontIndex
+		var xPos = x * size + fontOffset
+		var yPos = y * size
+		ret += '<span style="background-position: -' + xPos + 'px -' + yPos + 'px;"></span>'
+	})
+	return ret
+}
+
+function makeFontVarImgs(kanaStr) {
+	var ret = ""
+	for (var i = 0; i < 9; i++) {
+		ret += makeFontVarImg(kanaStr, i) + "\n"
+	}
+	return ret
+}
+
+function makeStrokeImgs(kanaStr) {
+	var ret = ""
+	traceFontVarNStrokes(kanaStr, function(data) {
+		var s = data[2]
+		if (!s) return
+		ret += '<img '
+			+ (s.charAt(0) != '_' ? '' : (s = s.substr(1), 'class="digraph" '))
+			+ 'src="' + assetPrefix + s + '.gif"/>'
+	})
+	return ret
+}
+</script>
+
+<div class="font-var-panel no-bg" id="kana-random-font-output">
+	<script>
+		var minuteInMillis = 1000 * 60
+		var minutesPerFontChange = 12 * minuteInMillis
+
+		var hashPerFontChange = Date.now() / minutesPerFontChange
+		hashPerFontChange ^= hashPerFontChange / Math.pow(2, 32) // Simulate `long` bit shift
+
+		var fontIndex = hashPerFontChange % 9
+		document.getElementById("kana-random-font-output").innerHTML = makeFontVarImg("{{text:Kana}}", fontIndex)
+	</script>
+</div>

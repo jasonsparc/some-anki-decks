@@ -1,0 +1,256 @@
+﻿Kana	Recording	Romaji	Show Romaji by Default
+あ	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a	
+い	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i	
+う	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u	
+え	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e	
+お	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o	
+か	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka	
+き	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki	
+く	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku	
+け	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke	
+こ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko	
+さ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa	
+し	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi	
+す	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su	
+せ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se	
+そ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so	
+た	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta	
+ち	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi	
+つ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu	
+て	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te	
+と	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to	
+な	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na	
+に	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni	
+ぬ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu	
+ね	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne	
+の	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no	
+は	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha	
+ひ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi	
+ふ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu	
+へ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he	
+ほ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho	
+ま	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma	
+み	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi	
+む	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu	
+め	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me	
+も	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo	
+や	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya	
+ゆ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu	
+よ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo	
+ら	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra	
+り	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri	
+る	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru	
+れ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re	
+ろ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro	
+わ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa	
+を	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1
+ん	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n	
+が	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga	
+ぎ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi	
+ぐ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu	
+げ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge	
+ご	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go	
+ざ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za	
+じ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1
+ず	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1
+ぜ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze	
+ぞ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo	
+だ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da	
+ぢ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1
+づ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1
+で	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de	
+ど	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do	
+ば	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba	
+び	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi	
+ぶ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu	
+べ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be	
+ぼ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo	
+ぱ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa	
+ぴ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi	
+ぷ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu	
+ぺ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe	
+ぽ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po	
+きゃ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya	
+きゅ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu	
+きょ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo	
+しゃ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha	
+しゅ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu	
+しょ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho	
+ちゃ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha	
+ちゅ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu	
+ちょ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho	
+にゃ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya	
+にゅ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu	
+にょ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo	
+ひゃ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya	
+ひゅ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu	
+ひょ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo	
+みゃ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya	
+みゅ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu	
+みょ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo	
+りゃ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya	
+りゅ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1
+りょ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo	
+ぎゃ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya	
+ぎゅ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu	
+ぎょ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo	
+じゃ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1
+じゅ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1
+じょ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1
+ぢゃ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1
+ぢゅ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1
+ぢょ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1
+びゃ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya	
+びゅ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu	
+びょ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo	
+ぴゃ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya	
+ぴゅ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu	
+ぴょ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo	
+ア	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a	
+イ	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i	
+ウ	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u	
+エ	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e	
+オ	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o	
+カ	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka	
+キ	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki	
+ク	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku	
+ケ	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke	
+コ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko	
+サ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa	
+シ	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi	
+ス	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su	
+セ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se	
+ソ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so	
+タ	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta	
+チ	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi	
+ツ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu	
+テ	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te	
+ト	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to	
+ナ	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na	
+ニ	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni	
+ヌ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu	
+ネ	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne	
+ノ	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no	
+ハ	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha	
+ヒ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi	
+フ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu	
+ヘ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he	
+ホ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho	
+マ	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma	
+ミ	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi	
+ム	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu	
+メ	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me	
+モ	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo	
+ヤ	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya	
+ユ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu	
+ヨ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo	
+ラ	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra	
+リ	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri	
+ル	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru	
+レ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re	
+ロ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro	
+ワ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa	
+ヲ	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1
+ン	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n	
+ガ	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga	
+ギ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi	
+グ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu	
+ゲ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge	
+ゴ	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go	
+ザ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za	
+ジ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1
+ズ	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1
+ゼ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze	
+ゾ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo	
+ダ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da	
+ヂ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1
+ヅ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1
+デ	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de	
+ド	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do	
+バ	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba	
+ビ	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi	
+ブ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu	
+ベ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be	
+ボ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo	
+パ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa	
+ピ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi	
+プ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu	
+ペ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe	
+ポ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po	
+キャ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya	
+キュ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu	
+キョ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo	
+シャ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha	
+シュ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu	
+ショ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho	
+チャ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha	
+チュ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu	
+チョ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho	
+ニャ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya	
+ニュ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu	
+ニョ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo	
+ヒャ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya	
+ヒュ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu	
+ヒョ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo	
+ミャ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya	
+ミュ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu	
+ミョ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo	
+リャ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya	
+リュ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1
+リョ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo	
+ギャ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya	
+ギュ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu	
+ギョ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo	
+ジャ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1
+ジュ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1
+ジョ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1
+ヂャ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1
+ヂュ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1
+ヂョ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1
+ビャ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya	
+ビュ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu	
+ビョ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo	
+ピャ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya	
+ピュ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu	
+ピョ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo	
+イィ		yi	1
+イェ		ye	1
+ウィ		wi	1
+ウェ		we	1
+ウォ		wo	1
+ヴァ	[sound:7biey7947yx7iz074op63ck7x_va.mp3]	va	1
+ヴィ	[sound:7biey7947yx7iz074op63ck7x_vi.mp3]	vi	1
+ヴ		vu	1
+ヴェ	[sound:7biey7947yx7iz074op63ck7x_ve.mp3]	ve	1
+ヴォ	[sound:7biey7947yx7iz074op63ck7x_vo.mp3]	vo	1
+シェ		she	1
+ジェ	[sound:7biey7947yx7iz074op63ck7x_je.mp3]	je	1
+チェ		che	1
+ティ	[sound:7biey7947yx7iz074op63ck7x_ti.mp3]	ti	1
+トゥ	[sound:7biey7947yx7iz074op63ck7x_tu.mp3]	tu	1
+ディ	[sound:7biey7947yx7iz074op63ck7x_di.mp3]	di	1
+ドゥ	[sound:7biey7947yx7iz074op63ck7x_du.mp3]	du	1
+ツァ	[sound:7biey7947yx7iz074op63ck7x_tsa.mp3]	tsa	1
+ツィ		tsi	1
+ツェ	[sound:7biey7947yx7iz074op63ck7x_tse.mp3]	tse	1
+ツォ	[sound:7biey7947yx7iz074op63ck7x_tso.mp3]	tso	1
+ファ	[sound:7biey7947yx7iz074op63ck7x_fa.mp3]	fa	1
+フィ	[sound:7biey7947yx7iz074op63ck7x_fi.mp3]	fi	1
+フェ	[sound:7biey7947yx7iz074op63ck7x_fe.mp3]	fe	1
+フォ	[sound:7biey7947yx7iz074op63ck7x_fo.mp3]	fo	1
+ヴャ		vya	1
+ヴュ		vyu	1
+ヴョ		vyo	1
+テュ		tyu	1
+デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1
+フュ		fyu	1
+スァ		swa	1
+スィ		"swi, Si"	1
+スゥ		swu	1
+スェ		swe	1
+スォ		swo	1
+ズァ		zwa	1
+ズィ		"zwi, zi"	1
+ズゥ		zwu	1
+ズェ		zwe	1
+ズォ		zwo	1

@@ -1,0 +1,15 @@
+Date: 2018-08-06
+
+https://www.yosida.com/en/hiragana.html
+https://www.yosida.com/en/katakana.html
+
+https://www.yosida.com/images/kana/ga.gif
+https://www.yosida.com/images/kana/gak.gif
+https://www.yosida.com/images/kana/*.gif
+https://www.yosida.com/images/kana/*k.gif
+
+http://marinebat.com/gahoh/
+
+http://users.bestweb.net/~siom/martian_mountain/JCP/!kana.7z
+http://users.bestweb.net/~siom/martian_mountain/JCP/
+

@@ -1,0 +1,88 @@
+.card, body, html {
+	margin: 0;
+	padding: 0;
+
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: rgba(0,0,0,0.87);
+	background-color: #FFF;
+}
+
+#romaji-panel .show { display: none; }
+#romaji-panel .hide { display: initial; }
+
+#romaji-panel.show .show { display: initial; }
+#romaji-panel.show .hide { display: none; }
+
+hr {
+	height: 6px;
+	margin: 1.5em 0;
+	padding: 0;
+
+	background: url(7biey7947yx7iz074op63ck7x__hr_12.png) repeat-x 0 0;
+	border: 0;
+}
+
+button {
+	background: #455A64;
+	color: rgba(255,255,255,0.87);
+	font-weight: bold;
+	font-size: 85%;
+
+	border: none;
+	border-radius: 0.2em;
+
+	padding: 0.5em 1em;
+	box-shadow: 0px 1px 8px rgba(0,0,0,0.38);
+	min-width: 8em;
+
+	outline: none;
+	margin: 0;
+}
+
+button:focus {
+	box-shadow: 0px 2px 12px rgba(0,0,0,0.38);
+}
+
+button:hover, button:active {
+	box-shadow: 0px 2px 12px rgba(0,0,0,0.6);
+}
+
+.font-var-panel span {
+	background: url("7biey7947yx7iz074op63ck7x__kana_50.png");
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}
+
+#font-var-output {
+	display: block;
+
+	box-sizing: border-box;
+	width: 100%;
+
+	padding: 1em;
+}
+
+.font-var-panel .label {
+	font-size: 90%;
+	background: rgba(0,0,0,0.87);
+	color: rgba(255,255,255,0.87);
+}
+
+.font-var-panel .label label {
+	background: rgba(0,0,0,0.87);
+	display: inline-block;
+	padding: 0.30em 0.75em;
+}
+
+#strokes-output img {
+	width: 160px;
+	height: 120px;
+}
+
+#strokes-output img.digraph {
+	width: 120px;
+	height: 90px;
+}

@@ -1,0 +1,44 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+<p>
+	<small id="syllabary-label">
+		<script>
+			document.getElementById("syllabary-label").innerHTML =
+					"{{text:Kana}}".match(/[\u3040-\u309f]/) ? "(Hiragana)" : "(Katakana)"
+		</script>
+	</small>
+	{{Recording}}
+</p>
+
+<div id="romaji-panel">
+	<button onclick="toggleRomaji()"><span class="hide">SHOW</span><span class="show">HIDE</span> ROMAJI</button>
+	<p><span class="show">{{Romaji}}</span></p>
+</div>
+
+<br />
+
+<script>
+	var romajiPanel = document.getElementById("romaji-panel")
+
+	var showRomajiRequested = "{{text:Show Romaji by Default}}".trim()
+	showRomajiRequested = isNaN(showRomajiRequested)
+			? showRomajiRequested != "false" || showRomajiRequested != ""
+			: (showRomajiRequested|0) != 0
+
+	if (showRomajiRequested) {
+		romajiPanel.classList.add("show")
+	}
+
+	function toggleRomaji() {
+		romajiPanel.classList.toggle("show")
+	}
+</script>
+
+<div class="font-var-panel">
+	<div class="label"><label>FONT VARIATIONS</label></div>
+	<div id="font-var-output">
+		<script>document.getElementById("font-var-output").innerHTML = makeFontVarImgs("{{text:Kana}}")</script>
+	</div>
+</div>
