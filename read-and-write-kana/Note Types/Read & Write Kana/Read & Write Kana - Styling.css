@@ -1,7 +1,6 @@
-.card, body, html {
-	margin: 0;
-	padding: 0;
+html, body, #content { margin: 0; padding: 0; }
 
+.card {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
 	text-align: center;
@@ -85,4 +84,21 @@ button:hover, button:active {
 #strokes-output img.digraph {
 	width: 120px;
 	height: 90px;
+}
+
+#writing-tip {
+	margin: 0 auto;
+	padding: 0 0.5em;
+
+	font-size: 75%;
+}
+
+#writing-tip td {
+	max-width: 500px;
+	padding: 1.5em 0.5em;
+}
+
+#writing-tip img {
+	max-width: none;	
+	max-height: none;
 }
