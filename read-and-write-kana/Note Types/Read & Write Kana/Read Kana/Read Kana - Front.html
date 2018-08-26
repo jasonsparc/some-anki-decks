@@ -63,17 +63,33 @@ function makeStrokeImgs(kanaStr) {
 	})
 	return ret
 }
+
+String.prototype.hashCode = function() {
+	var hash = 0, i, chr;
+	if (this.length === 0) return hash;
+	for (i = 0; i < this.length; i++) {
+		chr = this.charCodeAt(i);
+		hash = ((hash << 5) - hash) + chr;
+		hash |= 0; // Convert to 32bit integer
+	}
+	return hash;
+};
 </script>
 
 <div class="font-var-panel no-bg" id="kana-random-font-output">
 	<script>
+		var kana = "{{text:Kana}}"
+		var kanaHash = kana.hashCode()
+
 		var minuteInMillis = 1000 * 60
 		var minutesPerFontChange = 12 * minuteInMillis
 
 		var hashPerFontChange = Date.now() / minutesPerFontChange
 		hashPerFontChange ^= hashPerFontChange / Math.pow(2, 32) // Simulate `long` bit shift
+		hashPerFontChange ^= kanaHash
+		hashPerFontChange &= 0x7fffffff // Make it positive only
 
 		var fontIndex = hashPerFontChange % 9
-		document.getElementById("kana-random-font-output").innerHTML = makeFontVarImg("{{text:Kana}}", fontIndex)
+		document.getElementById("kana-random-font-output").innerHTML = makeFontVarImg(kana, fontIndex)
 	</script>
 </div>
