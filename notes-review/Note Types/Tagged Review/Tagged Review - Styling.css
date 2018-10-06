@@ -29,6 +29,8 @@ input, select, textarea, button {
 	line-height: inherit;
 }
 
+input, textarea { cursor: text; }
+
 .copyfield {
 	padding: 3px 8px 3px;
 	color: rgba(0,0,0,0.75);
