@@ -1,0 +1,29 @@
+html, body, #content { margin: 0; padding: 0; }
+
+* { box-sizing: border-box; }
+
+.card {
+	font-family: "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	font-size: 20px;
+	text-align: center;
+	color: rgba(0,0,0,0.87);
+	background-color: #FFF;
+}
+
+.padded { padding: 1em; }
+
+small { font-size: 75%; }
+
+.tip { font-size: 60%; }
+
+a {
+	color: #1E88E5;
+	text-decoration: none;
+}
+
+a:hover, a:focus {
+	color: #0D47A1;
+}
+
+#answer .review-label { color: #E65100; }
+#answer .tip b { color: #0277BD; }
