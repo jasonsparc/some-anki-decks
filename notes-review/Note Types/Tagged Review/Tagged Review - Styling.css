@@ -10,6 +10,8 @@ html, body, #content { margin: 0; padding: 0; }
 	background-color: #FFF;
 }
 
+.padded { padding: 1em; }
+
 small { font-size: 75%; }
 
 .tip { font-size: 60%; }
