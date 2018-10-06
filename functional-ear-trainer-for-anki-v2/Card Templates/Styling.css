@@ -13,12 +13,11 @@
 
 .tones span {
 	display: inline-block;
-	margin: 1px;
 	min-width: 17px;
 }
-.tones span.wide { min-width: 34px; }
+.tones span.w { min-width: 34px; }
 
-#chromatics { margin-bottom: 6px; }
+#chromatics { margin-bottom: 8px; }
 #chromatics .tones button { min-height: 40px; }
 #chromatics .tones button small {
 	display: block;
@@ -26,12 +25,12 @@
 }
 
 .tones button { vertical-align: bottom; }
+.tones span, .tones button { margin-right: 6px; }
 
 button {
 	font-size: 12px;
 	min-width: 34px;
 	height:30px;
-	margin: 1px;
 	color: #37474F;
 	background-color: #ECEFF1;
 	border: 1px solid #90A4AE;
