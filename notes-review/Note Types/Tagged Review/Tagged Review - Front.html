@@ -1,0 +1,17 @@
+
+<br>
+
+<h4 class="review-label">Tag<small> / Serial / ID</small></h4>
+<p><input id="copyfield" class="copyfield" type="text" value="{{Tag/Serial/ID}}" onclick="selectAllAndCopy(event)" readonly />
+<p class="tip"><b>Tip:</b> Clicking will <i>copy</i> to clipboard (automatically)</p>
+
+<br>
+
+<script>
+document.getElementById("copyfield").size = "{{Tag/Serial/ID}}".length
+
+function selectAllAndCopy(e) {
+	e.target.select()
+	document.execCommand("copy")
+}
+</script>
