@@ -41,4 +41,6 @@ When answer shown, replay both question and answer audio: Not Ticked
 
 And that's it! The other omitted options can be whatever you want, but I recommend leaving them to the defaults, as set by Anki. Feel free to customize the options though, especially when they're not working for you.
 
+<b>NOTE:</b> Make sure that you also set each subdeck's deck options to the <i>options group</i> you've just created, since each subdeck will have its own deck options different from the parent deck.
+
 Have fun!
