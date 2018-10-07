@@ -22,6 +22,7 @@ Steps (in minutes): 0.083333333333333 0.41666666666667 2 10 60 300
 Order: Show new cards in order added
 New cards/day: 0
 Graduating interval (days): 1
+Easy interval (days): 4
 Bury related new cards until the next day: Ticked
 
 <b>Tab: Reviews</b>
