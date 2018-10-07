@@ -31,6 +31,7 @@ Bury related reviews until the next day: Not Ticked
 <b>Tab: Lapses</b>
 Steps (in minutes): 0.083333333333333 0.41666666666667 2 10 60 300
 Minimum interval (days): 1
+Leech threshold: 48
 
 <b>Tab: General</b>
 Show answer timer: Ticked
