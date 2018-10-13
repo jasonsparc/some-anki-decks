@@ -1,0 +1,21 @@
+html, body, #content { margin: 0; padding: 0; }
+
+.card {
+	font-family: "Cambria Math", "Times New Roman", Times, serif;
+	font-size: 20px;
+	text-align: center;
+	color: #263238;
+	background-color: #fff;
+
+	padding: 2em 0;
+}
+
+hr {
+	height: 10px;
+	border: 0;
+	background-color: #fff;
+	box-shadow: 0 10px 10px -10px #90A4AE inset;
+	margin: 20px 0px 10px;
+}
+
+.big { font-size: 145% }
