@@ -7,7 +7,8 @@
 
 <h4 class="review-label">Tag<small> / Serial / ID</small></h4>
 <p><input id="copyfield" class="copyfield" type="text" onclick="selectAllAndCopy(event.target)" readonly />
-<p class="tip"><b>Tip:</b> Clicking will <i>copy</i> to clipboard (automatically)</p>
+<p class="tip"><b>Tip #1:</b> Clicking will <i>copy</i> to clipboard (automatically)</p>
+<p class="tip"><b>Tip #2:</b> Try double-clickling anywhere</p>
 
 </div>
 
@@ -19,6 +20,18 @@
 	var value = "{{text:Tag/Serial/ID #______}}"
 	field.size = value.length
 	field.value = value
+
+	document.ondblclick = function(e) {
+		if (!e.ctrlKey && !(e.target instanceof HTMLInputElement))
+			selectAllAndCopy(field)
+	}
+
+	document.onmousedown = function(e) {
+		// Prevents double click selection
+		// See, https://stackoverflow.com/a/43321596/1906724
+		if (e.detail > 1 && !e.ctrlKey)
+			e.preventDefault()
+	}
 })()
 
 function selectAllAndCopy(input) {
