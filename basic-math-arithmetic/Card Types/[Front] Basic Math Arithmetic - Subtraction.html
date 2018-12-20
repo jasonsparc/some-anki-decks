@@ -54,8 +54,6 @@ String.prototype.hashCode = function() {
 		'"Lucida Console", Monaco, monospace',
 	]
 
-	if (!document.getElementById("answer")) {
-		style.fontFamily = fonts[hashPerFontChange % fonts.length]
-	}
+	style.fontFamily = fonts[hashPerFontChange % fonts.length]
 })()
 </script>
