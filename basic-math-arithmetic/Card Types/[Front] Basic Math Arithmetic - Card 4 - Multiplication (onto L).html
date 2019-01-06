@@ -1,12 +1,12 @@
-<div id=random-font-target>{{A}} + {{B}}</div>
+<div id=random-font-target>{{Low Operand}} × {{High Operand}}</div>
 
 <script>
 function answer() {
-	var A = parseInt("{{text:A}}")
-	var B = parseInt("{{text:B}}")
+	var H = parseInt("{{text:High Operand}}")
+	var L = parseInt("{{text:Low Operand}}")
 	var Sum = parseInt("{{text:Sum}}")
 	var Product = parseInt("{{text:Product}}")
-	return Sum
+	return Product
 }
 
 String.prototype.hashCode = function() {
@@ -23,7 +23,7 @@ String.prototype.hashCode = function() {
 (function() {
 	var style = document.getElementById("random-font-target").style
 
-	var targetHash = "{{text:A}}:{{text:B}}".hashCode()
+	var targetHash = "{{Card}}::{{text:High Operand}}:{{text:Low Operand}}".hashCode()
 
 	var minuteInMillis = 1000 * 60
 	var minutesPerFontChange = 12 * minuteInMillis

@@ -1,5 +1,5 @@
 Serial
-A
-B
+High Operand
+Low Operand
 Sum
 Product

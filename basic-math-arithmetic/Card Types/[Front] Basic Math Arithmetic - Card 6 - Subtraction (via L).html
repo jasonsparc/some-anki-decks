@@ -1,0 +1,59 @@
+<div id=random-font-target>{{Sum}} − {{Low Operand}}</div>
+
+<script>
+function answer() {
+	var H = parseInt("{{text:High Operand}}")
+	var L = parseInt("{{text:Low Operand}}")
+	var Sum = parseInt("{{text:Sum}}")
+	var Product = parseInt("{{text:Product}}")
+	return Sum - L
+}
+
+String.prototype.hashCode = function() {
+	var hash = 0, i, chr;
+	if (this.length === 0) return hash;
+	for (i = 0; i < this.length; i++) {
+		chr = this.charCodeAt(i);
+		hash = ((hash << 5) - hash) + chr;
+		hash |= 0; // Convert to 32bit integer
+	}
+	return hash;
+};
+
+(function() {
+	var style = document.getElementById("random-font-target").style
+
+	var targetHash = "{{Card}}::{{text:High Operand}}:{{text:Low Operand}}".hashCode()
+
+	var minuteInMillis = 1000 * 60
+	var minutesPerFontChange = 12 * minuteInMillis
+
+	var hashPerFontChange = Date.now() / minutesPerFontChange
+	hashPerFontChange ^= hashPerFontChange / Math.pow(2, 32) // Simulate `long` bit shift
+	hashPerFontChange ^= targetHash
+	hashPerFontChange &= 0x7fffffff // Make it positive only
+
+	var fontIndex = hashPerFontChange % 9
+	var fonts = [
+		'"Cambria Math", "Times New Roman", Times, serif',
+		'"Cambria Math", "Times New Roman", Times, serif',
+		'"Cambria Math", "Times New Roman", Times, serif',
+		'"Times New Roman", Times, serif',
+
+		'"Comic Sans MS", cursive, sans-serif',
+		'"Comic Sans MS", cursive, sans-serif',
+		'cursive, sans-serif',
+
+		'Tahoma, Geneva, sans-serif',
+		'Arial, Helvetica, sans-serif',
+		'"Lucida Sans Unicode", "Lucida Grande", sans-serif',
+
+		'"Courier New", Courier, monospace',
+		'"Courier New", Courier, monospace',
+		'"Lucida Console", Monaco, monospace',
+		'"Lucida Console", Monaco, monospace',
+	]
+
+	style.fontFamily = fonts[hashPerFontChange % fonts.length]
+})()
+</script>

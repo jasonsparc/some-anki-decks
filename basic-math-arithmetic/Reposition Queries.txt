@@ -1,0 +1,9 @@
+
+Sort by "Sort Field" first before performing the following queries:
+
+"note:Basic Math Arithmetic" tag:vol1 is:new
+"note:Basic Math Arithmetic" tag:vol2 is:new
+"note:Basic Math Arithmetic" tag:vol3 is:new
+"note:Basic Math Arithmetic" tag:vol4 is:new
+"note:Basic Math Arithmetic" tag:vol5 is:new
+"note:Basic Math Arithmetic" tag:vol6 is:new
