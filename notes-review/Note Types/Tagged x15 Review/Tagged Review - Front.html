@@ -32,6 +32,16 @@
 		if (e.detail > 1 && !e.ctrlKey)
 			e.preventDefault()
 	}
+
+	document.onkeydown = function(e) {
+		// Handle only if the CTRL key is the only modifier key held
+		if (!e.ctrlKey || e.altKey || e.shiftKey || e.metaKey) return
+
+		if (e.key == 'c' || e.which == 67) {
+			e.preventDefault()
+			selectAllAndCopy(field)
+		}
+	}
 })()
 
 function selectAllAndCopy(input) {
