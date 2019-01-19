@@ -117,13 +117,13 @@
 ケ	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke		"Obviously, <i>ke</i> differs from <i>ku</i> in that the second stroke is longer. But also notice that the placement of the second stroke is slightly lower, so that it meets the first stroke in the middle, not as high up as in <i>ku</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ke.png"">"	katakana gojuon seion k_series
 コ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko		"It&rsquo;s subtle in this font, but in <i>ko</i>, as in <i>e</i>, the character is slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ko.png"">"	katakana gojuon seion k_series
 サ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa		"Be careful with <i>sa</i>, as it looks a lot like the hiragana character <i>se</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_sa.png"">"	katakana gojuon seion s_series
-シ	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi		"The last stroke in this character <strong>must</strong> be written from the bottom up. Also notice that the angle isn&rsquo;t as steep as in <i>so</i>, below. The first two strokes point more in the direction of the horizon than the elements of <i>so</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_shi.png"">"	katakana gojuon seion s_series
+シ	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi		"The last stroke in this character <strong>must</strong> be written from the bottom up. Also notice that the angle isn&rsquo;t as steep as in <i>so</i>, below. The first two strokes point more in the direction of the horizon than the elements of <i>so</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_shi.png"">"	katakana gojuon seion s_series sh_series
 ス	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su		"If you find it easier, most people write <i>su</i> using all straight lines. There&rsquo;s no need to curve the end of the first stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_su.png"">"	katakana gojuon seion s_series
 セ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se		Don&rsquo;t skimp on that <i>hane</i> at the end of the first stroke. Give it the same oomph you might use when finishing off a check mark and you&rsquo;ll have a great looking <i>se</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_se.png"">"	katakana gojuon seion s_series
 ソ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so		Make <i>so</i> look different from <i>shi</i> by emphasizing the fact that both elements in this character point down to the ground. The second stroke must start from the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_so.png"">"	katakana gojuon seion s_series
 タ	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta		<i>Ta</i> doesn&rsquo;t present many challenges. Just get that nice &ldquo;katakana curve&rdquo; in there.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ta.png"">"	katakana gojuon seion t_series
-チ	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi		"In <i>chi</i>, the first stroke starts from the right and goes down and hard to the left, which is very unusual. As a general rule, all strokes go from left to right, and from top to bottom, so you need to remember that this character is special. Also notice that the last stroke pulls straight down, then curves at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_chi.png"">"	katakana gojuon seion t_series
-ツ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu		"To remember the difference between <i>tsu</i> and <i>so</i>, it might be helpful to remind yourself that <i>tsu</i> has &ldquo;tsu&rdquo; (two) short strokes at the beginning instead of just one. Like the character <i>so</i>, the last stroke must come from the top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_tsu.png"">"	katakana gojuon seion t_series
+チ	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi		"In <i>chi</i>, the first stroke starts from the right and goes down and hard to the left, which is very unusual. As a general rule, all strokes go from left to right, and from top to bottom, so you need to remember that this character is special. Also notice that the last stroke pulls straight down, then curves at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_chi.png"">"	katakana gojuon seion t_series ch_series
+ツ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu		"To remember the difference between <i>tsu</i> and <i>so</i>, it might be helpful to remind yourself that <i>tsu</i> has &ldquo;tsu&rdquo; (two) short strokes at the beginning instead of just one. Like the character <i>so</i>, the last stroke must come from the top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_tsu.png"">"	katakana gojuon seion t_series ts_series
 テ	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te		"Keep <i>te</i> and <i>chi</i> straight by remembering the two main differences: The first two strokes in <i>te</i> are parallel, and the third stroke doesn&rsquo;t go all the way through, as it does in <i>chi</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_te.png"">"	katakana gojuon seion t_series
 ト	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to		<i>To</i> is easy. Just keep the first stroke vertical and you&rsquo;ll be fine.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_to.png"">"	katakana gojuon seion t_series
 ナ	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na		Be sure to intersect the first stroke of <i>na</i> in the center.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_na.png"">"	katakana gojuon seion n_series
@@ -133,7 +133,7 @@
 ノ	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no		<i>No</i> is easy to remember because &ldquo;no&rdquo; other lines attach to it.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_no.png"">"	katakana gojuon seion n_series
 ハ	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha		Don&rsquo;t let these strokes connect at the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ha.png"">"	katakana gojuon seion h_series
 ヒ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi		Make sure that second stroke forms a solid 90-degree elbow in <i>hi</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_hi.png"">"	katakana gojuon seion h_series
-フ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu		"It&rsquo;s important with <i>fu</i> that you don&rsquo;t make the curved part straight. In other words, don&rsquo;t make it look like a 7. It also helps to keep it slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_fu.png"">"	katakana gojuon seion h_series
+フ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu		"It&rsquo;s important with <i>fu</i> that you don&rsquo;t make the curved part straight. In other words, don&rsquo;t make it look like a 7. It also helps to keep it slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_fu.png"">"	katakana gojuon seion h_series f_series
 ヘ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he		Write this exactly as its cousin.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_he.png"">"	katakana gojuon seion h_series
 ホ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho		"If you learn anything from my notes on the two syllabaries, I hope it&rsquo;s that you should always be sure to include <i>hane</i> in characters that use them. Here we find a beautiful example at the end of stroke two."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ho.png"">"	katakana gojuon seion h_series
 マ	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma		"When I was learning this syllabary, it helped me to write <i>ma</i> correctly if I imagined it as a triangular flag on a stick, leaning back at a 45-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ma.png"">"	katakana gojuon seion m_series
@@ -158,7 +158,7 @@
 ゲ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge				katakana dakuon k_series g_series
 ゴ	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go				katakana dakuon k_series g_series
 ザ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za				katakana dakuon s_series z_series
-ジ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1			katakana dakuon s_series z_series
+ジ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1			katakana dakuon s_series z_series j_series
 ズ	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1			katakana dakuon s_series z_series
 ゼ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze				katakana dakuon s_series z_series
 ゾ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo				katakana dakuon s_series z_series
@@ -213,44 +213,44 @@
 ピャ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya				katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
 ピュ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu				katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
 ピョ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo				katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-イィ		yi	1			katakana special foreign
-イェ		ye	1			katakana special foreign
-ウィ		wi	1			katakana special foreign
-ウェ		we	1			katakana special foreign
-ウォ		wo	1			katakana special foreign
-ヴァ	[sound:7biey7947yx7iz074op63ck7x_va.mp3]	va	1			katakana special foreign
-ヴィ	[sound:7biey7947yx7iz074op63ck7x_vi.mp3]	vi	1			katakana special foreign
-ヴ		vu	1			katakana special foreign
-ヴェ	[sound:7biey7947yx7iz074op63ck7x_ve.mp3]	ve	1			katakana special foreign
-ヴォ	[sound:7biey7947yx7iz074op63ck7x_vo.mp3]	vo	1			katakana special foreign
-シェ		she	1			katakana special foreign
-ジェ	[sound:7biey7947yx7iz074op63ck7x_je.mp3]	je	1			katakana special foreign
-チェ		che	1			katakana special foreign
-ティ	[sound:7biey7947yx7iz074op63ck7x_ti.mp3]	ti	1			katakana special foreign
-トゥ	[sound:7biey7947yx7iz074op63ck7x_tu.mp3]	tu	1			katakana special foreign
-ディ	[sound:7biey7947yx7iz074op63ck7x_di.mp3]	di	1			katakana special foreign
-ドゥ	[sound:7biey7947yx7iz074op63ck7x_du.mp3]	du	1			katakana special foreign
-ツァ	[sound:7biey7947yx7iz074op63ck7x_tsa.mp3]	tsa	1			katakana special foreign
-ツィ		tsi	1			katakana special foreign
-ツェ	[sound:7biey7947yx7iz074op63ck7x_tse.mp3]	tse	1			katakana special foreign
-ツォ	[sound:7biey7947yx7iz074op63ck7x_tso.mp3]	tso	1			katakana special foreign
-ファ	[sound:7biey7947yx7iz074op63ck7x_fa.mp3]	fa	1			katakana special foreign
-フィ	[sound:7biey7947yx7iz074op63ck7x_fi.mp3]	fi	1			katakana special foreign
-フェ	[sound:7biey7947yx7iz074op63ck7x_fe.mp3]	fe	1			katakana special foreign
-フォ	[sound:7biey7947yx7iz074op63ck7x_fo.mp3]	fo	1			katakana special foreign
-ヴャ		vya	1			katakana special foreign
-ヴュ		vyu	1			katakana special foreign
-ヴョ		vyo	1			katakana special foreign
-テュ		tyu	1			katakana special foreign
-デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1			katakana special foreign
-フュ		fyu	1			katakana special foreign
-スァ		swa	1			katakana special foreign
-スィ		"swi, Si"	1			katakana special foreign
-スゥ		swu	1			katakana special foreign
-スェ		swe	1			katakana special foreign
-スォ		swo	1			katakana special foreign
-ズァ		zwa	1			katakana special foreign
-ズィ		"zwi, zi"	1			katakana special foreign
-ズゥ		zwu	1			katakana special foreign
-ズェ		zwe	1			katakana special foreign
-ズォ		zwo	1			katakana special foreign
+イィ		yi	1			katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
+イェ		ye	1			katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
+ウィ		wi	1			katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ウェ		we	1			katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ウォ		wo	1			katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ヴァ	[sound:7biey7947yx7iz074op63ck7x_va.mp3]	va	1			katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴィ	[sound:7biey7947yx7iz074op63ck7x_vi.mp3]	vi	1			katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴ		vu	1			katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴェ	[sound:7biey7947yx7iz074op63ck7x_ve.mp3]	ve	1			katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴォ	[sound:7biey7947yx7iz074op63ck7x_vo.mp3]	vo	1			katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+シェ		she	1			katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sh_series_sp sh_series_x
+ジェ	[sound:7biey7947yx7iz074op63ck7x_je.mp3]	je	1			katakana special foreign dakuon_sp s_series_sp s_series_x sh_series_sp sh_series_x j_series_sp j_series_x
+チェ		che	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ch_series_sp ch_series_x
+ティ	[sound:7biey7947yx7iz074op63ck7x_ti.mp3]	ti	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
+トゥ	[sound:7biey7947yx7iz074op63ck7x_tu.mp3]	tu	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
+ディ	[sound:7biey7947yx7iz074op63ck7x_di.mp3]	di	1			katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
+ドゥ	[sound:7biey7947yx7iz074op63ck7x_du.mp3]	du	1			katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
+ツァ	[sound:7biey7947yx7iz074op63ck7x_tsa.mp3]	tsa	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツィ		tsi	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツェ	[sound:7biey7947yx7iz074op63ck7x_tse.mp3]	tse	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツォ	[sound:7biey7947yx7iz074op63ck7x_tso.mp3]	tso	1			katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ファ	[sound:7biey7947yx7iz074op63ck7x_fa.mp3]	fa	1			katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フィ	[sound:7biey7947yx7iz074op63ck7x_fi.mp3]	fi	1			katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フェ	[sound:7biey7947yx7iz074op63ck7x_fe.mp3]	fe	1			katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フォ	[sound:7biey7947yx7iz074op63ck7x_fo.mp3]	fo	1			katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+ヴャ		vya	1			katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+ヴュ		vyu	1			katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+ヴョ		vyo	1			katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+テュ		tyu	1			katakana special foreign yoon_sp t_series_sp ty_series ty_series_x
+デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1			katakana special foreign yoon_dakuon_sp t_series_sp ty_series ty_series_x
+フュ		fyu	1			katakana special foreign yoon_dakuon_sp f_series_sp f_series_x fy_series fy_series_x
+スァ		swa	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スィ		"swi, Si"	1			katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sw_series sw_series_x
+スゥ		swu	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スェ		swe	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スォ		swo	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+ズァ		zwa	1			katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズィ		"zwi, zi"	1			katakana special foreign dakuon_sp s_series_sp z_series_x zw_series zw_series_x
+ズゥ		zwu	1			katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズェ		zwe	1			katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズォ		zwo	1			katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
