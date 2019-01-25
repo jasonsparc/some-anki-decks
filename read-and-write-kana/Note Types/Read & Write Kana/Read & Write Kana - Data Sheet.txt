@@ -1,5 +1,4 @@
-﻿Kana	Recording	Romaji	Show Romaji by Default	Writing Tip	Writing Tip Illustration	Tags
-あ	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a		"In <i>a</i>, it&rsquo;s important that the last stroke intersects the two places I have circled on the left. Notice, also, that the very end of the last stroke is &ldquo;trying&rdquo; to finish a complete circle. In other words, don&rsquo;t make it pointing down or some other direction."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_a.png"">"	hiragana gojuon seion a_series
+﻿あ	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a		"In <i>a</i>, it&rsquo;s important that the last stroke intersects the two places I have circled on the left. Notice, also, that the very end of the last stroke is &ldquo;trying&rdquo; to finish a complete circle. In other words, don&rsquo;t make it pointing down or some other direction."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_a.png"">"	hiragana gojuon seion a_series
 い	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i		"Your main concern with <i>i</i> should be including the <i>hane</i>. Create it with a light flick of your pencil, much like you might make a check mark. Also notice that the second stroke is not as long as the first."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_i.png"">"	hiragana gojuon seion a_series
 う	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u		"With <i>u</i>, be sure you angle the first stroke back, not making it a vertical line. Also, make sure that you start stroke two by veering northeast."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_u.png"">"	hiragana gojuon seion a_series
 え	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e		"To make <i>e</i> look good, be sure to get the wave in at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_e.png"">"	hiragana gojuon seion a_series
@@ -243,7 +242,7 @@
 ヴョ		vyo	1			katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
 テュ		tyu	1			katakana special foreign yoon_sp t_series_sp ty_series ty_series_x
 デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1			katakana special foreign yoon_dakuon_sp t_series_sp ty_series ty_series_x
-フュ		fyu	1			katakana special foreign yoon_dakuon_sp f_series_sp f_series_x fy_series fy_series_x
+フュ		fyu	1			katakana special foreign yoon_sp h_series_sp f_series_sp f_series_x fy_series fy_series_x
 スァ		swa	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
 スィ		"swi, Si"	1			katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sw_series sw_series_x
 スゥ		swu	1			katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
