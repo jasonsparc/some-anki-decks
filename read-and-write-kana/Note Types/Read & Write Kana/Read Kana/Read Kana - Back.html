@@ -42,3 +42,12 @@
 		<script>document.getElementById("font-var-output").innerHTML = makeFontVarImgs("{{text:Kana}}")</script>
 	</div>
 </div>
+
+{{#Reading Tip}}
+<hr style="margin:0;">
+
+<div id="reading-tip">{{Reading Tip}}</div>
+{{/Reading Tip}}
+
+<!-- Fixes an issue in which we start scrolled towards the center -->
+<script>setTimeout(function() { scrollTo(0,0) }, 1)</script>

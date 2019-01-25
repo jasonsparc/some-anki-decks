@@ -4,3 +4,4 @@ Romaji
 Show Romaji by Default
 Writing Tip
 Writing Tip Illustration
+Reading Tip

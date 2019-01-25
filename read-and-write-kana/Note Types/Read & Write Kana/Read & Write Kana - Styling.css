@@ -99,6 +99,13 @@ button:hover, button:active {
 }
 
 #writing-tip img {
-	max-width: none;	
+	max-width: none;
 	max-height: none;
+}
+
+#reading-tip {
+	margin: 0 auto;
+	padding: 1.5em 1em;
+
+	font-size: 75%;
 }
