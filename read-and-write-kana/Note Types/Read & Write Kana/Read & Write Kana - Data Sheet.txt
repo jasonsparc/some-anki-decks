@@ -1,49 +1,49 @@
-﻿あ	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a		"In <i>a</i>, it&rsquo;s important that the last stroke intersects the two places I have circled on the left. Notice, also, that the very end of the last stroke is &ldquo;trying&rdquo; to finish a complete circle. In other words, don&rsquo;t make it pointing down or some other direction."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_a.png"">"		hiragana gojuon seion a_series
-い	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i		"Your main concern with <i>i</i> should be including the <i>hane</i>. Create it with a light flick of your pencil, much like you might make a check mark. Also notice that the second stroke is not as long as the first."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_i.png"">"		hiragana gojuon seion a_series
-う	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u		"With <i>u</i>, be sure you angle the first stroke back, not making it a vertical line. Also, make sure that you start stroke two by veering northeast."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_u.png"">"		hiragana gojuon seion a_series
-え	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e		"To make <i>e</i> look good, be sure to get the wave in at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_e.png"">"		hiragana gojuon seion a_series
-お	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o		"In <i>o</i>, notice how you can see the energy being directed to the final stroke. Follow this flow to keep the character fluid and great-looking."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_o.png"">"		hiragana gojuon seion a_series
-か	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka		"When you write <i>ka</i>, try to keep it balanced inside a triangle formed by the second and third strokes. The first stroke comes down in the center of the triangle, parallel to the next stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ka.png"">"		hiragana gojuon seion k_series
-き	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki		You can place the last stroke correctly in <i>ki</i> if you imagine an oval sitting inside as shown here.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ki.png"">"		hiragana gojuon seion k_series
-く	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku		"With <i>ku</i>, just keep the angle to about 90 degrees, perhaps a bit more, and you&rsquo;ll be good."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ku.png"">"		hiragana gojuon seion k_series
-け	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke		"In <i>ke</i>, be sure to include a good <i>hane</i> at the end of stroke one. Also, notice that this character looks very good if you veer to the left at the end of stroke three, as shown here by the arrow."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ke.png"">"		hiragana gojuon seion k_series
-こ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko		Your main concern with <i>ko</i> should be to keep it from looking like an equals sign. You can do this by honoring the <i>hane</i> at the end of the first stroke and by keeping the two strokes far enough apart to imagine a square sitting between them.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ko.png"">"		hiragana gojuon seion k_series
-さ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa		"As with <i>ki</i>, imagine an oval sitting inside <i>sa</i> to help place the final stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_sa.png"">"		hiragana gojuon seion s_series
-し	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi		"Don&rsquo;t make <i>shi</i> look like a fishhook. You can avoid this by making the end of it point off at a 45-degree angle, not straight up."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_shi.png"">"		hiragana gojuon seion s_series
-す	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su		"Just as in <i>ke</i>, this character looks the best when the final stroke veers to the left at the end. Also, keep the loop nice and open. Japanese people often exaggerate it, so don&rsquo;t worry about making it too large."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_su.png"">"		hiragana gojuon seion s_series
-せ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se		"Besides being careful about the <i>hane</i> as always, note that the first stroke runs uphill very slightly."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_se.png"">"		hiragana gojuon seion s_series
-そ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so		<i>So</i> can be a hard character to write nicely. One thing that can really make a difference is opening up that last curve. Imagine there&rsquo;s a plump oval sitting in there.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_so.png"">"		hiragana gojuon seion s_series
-た	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta		You&rsquo;ll notice that there is a small <i>ko</i> inside this character. Give the mini-<i>ko</i> the same <i>hane</i> it gets in its grown-up version.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ta.png"">"		hiragana gojuon seion t_series
-ち	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi		"In <i>chi</i>, be sure that the round part of the last stroke starts by veering up slightly, as shown by the arrow."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_chi.png"">"		hiragana gojuon seion t_series
-つ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu		<i>Tsu</i> is easy to remember if you imagine the breaking wave of a <i>tsunami</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_tsu.png"">"		hiragana gojuon seion t_series
-て	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te		Keep <i>te</i> from looking like a 7 by imagining that a large plump ball is sitting in the curve.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_te.png"">"		hiragana gojuon seion t_series
-と	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to		"I think the standard way to remember <i>to</i> is to think of someone&rsquo;s big toe. If you keep that second stroke open enough to actually put a toe inside, it will look nice."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_to.png"">"		hiragana gojuon seion t_series
-な	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na		"When writing this character, note that the third stroke veers to the right ever so slightly. If you swing it out just a bit there, it makes a big difference in the balance of the character."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_na.png"">"		hiragana gojuon seion n_series
-に	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni		<i>Ni</i> is similar to <i>ta</i> in that the last two strokes should not be quite parallel. Taking this one simple precaution really helps the look of this character.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ni.png"">"		hiragana gojuon seion n_series
-ぬ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu		"My main advice for <i>nu</i> is that you make the first stroke long enough that the second will intersect it and leave a little hanging over, as I&rsquo;ve shown in red."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_nu.png"">"		hiragana gojuon seion n_series
-ね	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne		"<i>Ne</i> doesn&rsquo;t look good when people confuse it with <i>nu</i> and make the first stroke diagonal. Bring it straight down, nice and strong."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ne.png"">"		hiragana gojuon seion n_series
-の	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no		"The main thing to notice in <i>no</i> is how perfect an oval it is. When you lift up your pencil at the end, you should be able to see little dashed lines in your imagination that close the circle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_no.png"">"		hiragana gojuon seion n_series
-は	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha		"With <i>ha</i>, just be sure to get the <i>hane</i> at the end of stroke 1. Also, when you make the loop at the end of the last stroke, be sure to make it wider than it is tall, as shown here."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ha.png"">"		hiragana gojuon seion h_series
-ひ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi		"The biggest problem students have with <i>hi</i> is they always make the loop too sharp at the bottom. Keep the loop nice and open. Also, notice that the entire character lists to the side. You definitely don&rsquo;t want to make this character look like a U with wings. Lean it slightly to the right."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_hi.png"">"		hiragana gojuon seion h_series
-ふ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu		Think of Mount Fuji when writing the character <i>fu</i>. It should basically fit inside the shape of a triangle.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_fu.png"">"	"<b>Pronouncing <i>f</i></b> &ndash; Japanese don&rsquo;t bite their bottom lips as we do when we say this sound. Let your upper teeth just barely touch your lower lip as you close your mouth naturally. Since there&rsquo;s no lip-biting, sometimes foreigners hear this sound as an <i>h</i> sound."	hiragana gojuon seion h_series
-へ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he		It&rsquo;s pretty hard to go wrong on <i>he</i>. Just make the downstroke about twice as long as the upstroke.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_he.png"">"		hiragana gojuon seion h_series
-ほ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho		"Notice the even spacing of the elements on the right side of <i>ho</i>. And of course, watch the <i>hane</i> and the loop as I mentioned for <i>ha</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ho.png"">"		hiragana gojuon seion h_series
-ま	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma		"My comments on <i>ma</i> are exactly the same as those for <i>ho</i>. If you take notice again of the even spacing of the elements in this character, you won&rsquo;t make it too elongated."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ma.png"">"		hiragana gojuon seion m_series
-み	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi		<i>Mi</i> looks bad if you don&rsquo;t make the horizontal stroke long enough. Keep the loop open and then draw the arch way over to the right.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mi.png"">"		hiragana gojuon seion m_series
-む	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu		"To keep <i>mu</i> looking sharp, give it a nice wide base, like a travel coffee <b>mu</b>g."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mu.png"">"		hiragana gojuon seion m_series
-め	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me		"The only thing to watch out for on <i>me</i> is that the second stroke crosses the first twice, as I&rsquo;ve indicated."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_me.png"">"		hiragana gojuon seion m_series
-も	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo		"Looking at my drawing here, you should be able to see the energy leaving stroke one and pointing toward the first horizontal stroke. <i>Mo</i> looks great when you veer the end of stroke one off to the northwest as I&rsquo;ve shown."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mo.png"">"		hiragana gojuon seion m_series
-や	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya		"Notice that in <i>ya</i>, the first and last strokes are perpendicular where they cross. But the cross that is formed is not standing straight up. It&rsquo;s really important to make it lean back like this."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ya.png"">"		hiragana gojuon seion y_series
-ゆ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu		<i>Yu</i> looks really good when you keep fluid as you write it. Notice how the end of stroke one leads right up into the next stroke. Many people even make the whole character into one long stroke by drawing along the path I&rsquo;ve shown here. You may write it whichever way you like.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_yu.png"">"		hiragana gojuon seion y_series
-よ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo		"The advice I gave regarding the loops in <i>ha</i>, <i>ho</i>, and <i>ma</i> also holds true here. The only other piece of wisdom I can offer is to make sure that the first stroke and the very end of the second stroke stick out about the same length."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_yo.png"">"		hiragana gojuon seion y_series
-ら	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra		"My comments on <i>ra</i> are similar to those for <i>chi</i>. After you start the second stroke, be sure to come slightly up and over where the arrow shows."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ra.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
-り	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri		"With <i>ri</i>, just watch the <i>hane</i> at the end of stroke 1."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ri.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
-る	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru		Check out how long the red portion of <i>ru</i> is here. It comes further to the left than any other part of the character. Be sure to give this line its full value.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ru.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
-れ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re		"This character looks an awful lot like <i>ne</i>, but without the loop. Emphasize the difference by making the final stroke come down strong with a little curl at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_re.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
-ろ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro		"It&rsquo;s hard to go wrong with this one, but avoid making it look like a 3 by keeping the upper right corner sharp."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ro.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
-わ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa		"<i>Wa</i> looks exactly the same as <i>ne</i>, only without the final loop. It&rsquo;s also similar in shape to <i>re</i>. Differentiate it by keeping it nice and open, with plenty of air inside."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_wa.png"">"		hiragana gojuon seion w_series
-を	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1	"As strange as this character looks, it&rsquo;s not difficult to write. It might help to imagine it as a hybrid of <i>n</i> and <i>to</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_wo.png"">"		hiragana gojuon seion w_series
-ん	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n		Don&rsquo;t deny it. I know you&rsquo;re thinking that this looks like an <i>h</i>. And that&rsquo;s just how you should write it. Just be sure to make it an <u>italic</u> <i>h</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_n.png"">"	"<div style=""text-align:left; display:inline-block;"">
+﻿あ	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a			"In <i>a</i>, it&rsquo;s important that the last stroke intersects the two places I have circled on the left. Notice, also, that the very end of the last stroke is &ldquo;trying&rdquo; to finish a complete circle. In other words, don&rsquo;t make it pointing down or some other direction."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_a.png"">"		hiragana gojuon seion a_series
+い	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i			"Your main concern with <i>i</i> should be including the <i>hane</i>. Create it with a light flick of your pencil, much like you might make a check mark. Also notice that the second stroke is not as long as the first."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_i.png"">"		hiragana gojuon seion a_series
+う	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u			"With <i>u</i>, be sure you angle the first stroke back, not making it a vertical line. Also, make sure that you start stroke two by veering northeast."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_u.png"">"		hiragana gojuon seion a_series
+え	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e			"To make <i>e</i> look good, be sure to get the wave in at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_e.png"">"		hiragana gojuon seion a_series
+お	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o			"In <i>o</i>, notice how you can see the energy being directed to the final stroke. Follow this flow to keep the character fluid and great-looking."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_o.png"">"		hiragana gojuon seion a_series
+か	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka			"When you write <i>ka</i>, try to keep it balanced inside a triangle formed by the second and third strokes. The first stroke comes down in the center of the triangle, parallel to the next stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ka.png"">"		hiragana gojuon seion k_series
+き	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki			You can place the last stroke correctly in <i>ki</i> if you imagine an oval sitting inside as shown here.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ki.png"">"		hiragana gojuon seion k_series
+く	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku			"With <i>ku</i>, just keep the angle to about 90 degrees, perhaps a bit more, and you&rsquo;ll be good."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ku.png"">"		hiragana gojuon seion k_series
+け	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke			"In <i>ke</i>, be sure to include a good <i>hane</i> at the end of stroke one. Also, notice that this character looks very good if you veer to the left at the end of stroke three, as shown here by the arrow."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ke.png"">"		hiragana gojuon seion k_series
+こ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko			Your main concern with <i>ko</i> should be to keep it from looking like an equals sign. You can do this by honoring the <i>hane</i> at the end of the first stroke and by keeping the two strokes far enough apart to imagine a square sitting between them.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ko.png"">"		hiragana gojuon seion k_series
+さ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa			"As with <i>ki</i>, imagine an oval sitting inside <i>sa</i> to help place the final stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_sa.png"">"		hiragana gojuon seion s_series
+し	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi			"Don&rsquo;t make <i>shi</i> look like a fishhook. You can avoid this by making the end of it point off at a 45-degree angle, not straight up."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_shi.png"">"		hiragana gojuon seion s_series
+す	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su			"Just as in <i>ke</i>, this character looks the best when the final stroke veers to the left at the end. Also, keep the loop nice and open. Japanese people often exaggerate it, so don&rsquo;t worry about making it too large."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_su.png"">"		hiragana gojuon seion s_series
+せ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se			"Besides being careful about the <i>hane</i> as always, note that the first stroke runs uphill very slightly."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_se.png"">"		hiragana gojuon seion s_series
+そ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so			<i>So</i> can be a hard character to write nicely. One thing that can really make a difference is opening up that last curve. Imagine there&rsquo;s a plump oval sitting in there.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_so.png"">"		hiragana gojuon seion s_series
+た	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta			You&rsquo;ll notice that there is a small <i>ko</i> inside this character. Give the mini-<i>ko</i> the same <i>hane</i> it gets in its grown-up version.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ta.png"">"		hiragana gojuon seion t_series
+ち	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi			"In <i>chi</i>, be sure that the round part of the last stroke starts by veering up slightly, as shown by the arrow."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_chi.png"">"		hiragana gojuon seion t_series
+つ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu			<i>Tsu</i> is easy to remember if you imagine the breaking wave of a <i>tsunami</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_tsu.png"">"		hiragana gojuon seion t_series
+て	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te			Keep <i>te</i> from looking like a 7 by imagining that a large plump ball is sitting in the curve.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_te.png"">"		hiragana gojuon seion t_series
+と	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to			"I think the standard way to remember <i>to</i> is to think of someone&rsquo;s big toe. If you keep that second stroke open enough to actually put a toe inside, it will look nice."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_to.png"">"		hiragana gojuon seion t_series
+な	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na			"When writing this character, note that the third stroke veers to the right ever so slightly. If you swing it out just a bit there, it makes a big difference in the balance of the character."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_na.png"">"		hiragana gojuon seion n_series
+に	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni			<i>Ni</i> is similar to <i>ta</i> in that the last two strokes should not be quite parallel. Taking this one simple precaution really helps the look of this character.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ni.png"">"		hiragana gojuon seion n_series
+ぬ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu			"My main advice for <i>nu</i> is that you make the first stroke long enough that the second will intersect it and leave a little hanging over, as I&rsquo;ve shown in red."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_nu.png"">"		hiragana gojuon seion n_series
+ね	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne			"<i>Ne</i> doesn&rsquo;t look good when people confuse it with <i>nu</i> and make the first stroke diagonal. Bring it straight down, nice and strong."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ne.png"">"		hiragana gojuon seion n_series
+の	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no			"The main thing to notice in <i>no</i> is how perfect an oval it is. When you lift up your pencil at the end, you should be able to see little dashed lines in your imagination that close the circle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_no.png"">"		hiragana gojuon seion n_series
+は	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha			"With <i>ha</i>, just be sure to get the <i>hane</i> at the end of stroke 1. Also, when you make the loop at the end of the last stroke, be sure to make it wider than it is tall, as shown here."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ha.png"">"		hiragana gojuon seion h_series
+ひ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi			"The biggest problem students have with <i>hi</i> is they always make the loop too sharp at the bottom. Keep the loop nice and open. Also, notice that the entire character lists to the side. You definitely don&rsquo;t want to make this character look like a U with wings. Lean it slightly to the right."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_hi.png"">"		hiragana gojuon seion h_series
+ふ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu			Think of Mount Fuji when writing the character <i>fu</i>. It should basically fit inside the shape of a triangle.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_fu.png"">"	"<b>Pronouncing <i>f</i></b> &ndash; Japanese don&rsquo;t bite their bottom lips as we do when we say this sound. Let your upper teeth just barely touch your lower lip as you close your mouth naturally. Since there&rsquo;s no lip-biting, sometimes foreigners hear this sound as an <i>h</i> sound."	hiragana gojuon seion h_series
+へ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he			It&rsquo;s pretty hard to go wrong on <i>he</i>. Just make the downstroke about twice as long as the upstroke.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_he.png"">"		hiragana gojuon seion h_series
+ほ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho			"Notice the even spacing of the elements on the right side of <i>ho</i>. And of course, watch the <i>hane</i> and the loop as I mentioned for <i>ha</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ho.png"">"		hiragana gojuon seion h_series
+ま	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma			"My comments on <i>ma</i> are exactly the same as those for <i>ho</i>. If you take notice again of the even spacing of the elements in this character, you won&rsquo;t make it too elongated."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ma.png"">"		hiragana gojuon seion m_series
+み	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi			<i>Mi</i> looks bad if you don&rsquo;t make the horizontal stroke long enough. Keep the loop open and then draw the arch way over to the right.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mi.png"">"		hiragana gojuon seion m_series
+む	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu			"To keep <i>mu</i> looking sharp, give it a nice wide base, like a travel coffee <b>mu</b>g."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mu.png"">"		hiragana gojuon seion m_series
+め	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me			"The only thing to watch out for on <i>me</i> is that the second stroke crosses the first twice, as I&rsquo;ve indicated."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_me.png"">"		hiragana gojuon seion m_series
+も	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo			"Looking at my drawing here, you should be able to see the energy leaving stroke one and pointing toward the first horizontal stroke. <i>Mo</i> looks great when you veer the end of stroke one off to the northwest as I&rsquo;ve shown."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_mo.png"">"		hiragana gojuon seion m_series
+や	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya			"Notice that in <i>ya</i>, the first and last strokes are perpendicular where they cross. But the cross that is formed is not standing straight up. It&rsquo;s really important to make it lean back like this."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ya.png"">"		hiragana gojuon seion y_series
+ゆ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu			<i>Yu</i> looks really good when you keep fluid as you write it. Notice how the end of stroke one leads right up into the next stroke. Many people even make the whole character into one long stroke by drawing along the path I&rsquo;ve shown here. You may write it whichever way you like.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_yu.png"">"		hiragana gojuon seion y_series
+よ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo			"The advice I gave regarding the loops in <i>ha</i>, <i>ho</i>, and <i>ma</i> also holds true here. The only other piece of wisdom I can offer is to make sure that the first stroke and the very end of the second stroke stick out about the same length."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_yo.png"">"		hiragana gojuon seion y_series
+ら	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra			"My comments on <i>ra</i> are similar to those for <i>chi</i>. After you start the second stroke, be sure to come slightly up and over where the arrow shows."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ra.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
+り	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri			"With <i>ri</i>, just watch the <i>hane</i> at the end of stroke 1."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ri.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
+る	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru			Check out how long the red portion of <i>ru</i> is here. It comes further to the left than any other part of the character. Be sure to give this line its full value.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ru.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
+れ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re			"This character looks an awful lot like <i>ne</i>, but without the loop. Emphasize the difference by making the final stroke come down strong with a little curl at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_re.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
+ろ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro			"It&rsquo;s hard to go wrong with this one, but avoid making it look like a 3 by keeping the upper right corner sharp."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_ro.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	hiragana gojuon seion r_series
+わ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa			"<i>Wa</i> looks exactly the same as <i>ne</i>, only without the final loop. It&rsquo;s also similar in shape to <i>re</i>. Differentiate it by keeping it nice and open, with plenty of air inside."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_wa.png"">"		hiragana gojuon seion w_series
+を	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1		"As strange as this character looks, it&rsquo;s not difficult to write. It might help to imagine it as a hybrid of <i>n</i> and <i>to</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_wo.png"">"		hiragana gojuon seion w_series
+ん	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n			Don&rsquo;t deny it. I know you&rsquo;re thinking that this looks like an <i>h</i>. And that&rsquo;s just how you should write it. Just be sure to make it an <u>italic</u> <i>h</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_hiragana_n.png"">"	"<div style=""text-align:left; display:inline-block;"">
 Its pronunciation varies a bit depending on what sounds surround it:
 
 <ul>
@@ -75,113 +75,113 @@ See also:
 </div>
 
 <br>"	hiragana gojuon seion w_series
-が	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga					hiragana dakuon k_series g_series
-ぎ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi					hiragana dakuon k_series g_series
-ぐ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu					hiragana dakuon k_series g_series
-げ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge					hiragana dakuon k_series g_series
-ご	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go					hiragana dakuon k_series g_series
-ざ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za					hiragana dakuon s_series z_series
-じ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1				hiragana dakuon s_series z_series
-ず	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1				hiragana dakuon s_series z_series
-ぜ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze					hiragana dakuon s_series z_series
-ぞ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo					hiragana dakuon s_series z_series
-だ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
-ぢ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1				hiragana dakuon t_series d_series
-づ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1				hiragana dakuon t_series d_series
-で	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
-ど	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
-ば	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba					hiragana dakuon h_series b_series
-び	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi					hiragana dakuon h_series b_series
-ぶ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu					hiragana dakuon h_series b_series
-べ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be					hiragana dakuon h_series b_series
-ぼ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo					hiragana dakuon h_series b_series
-ぱ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa					hiragana dakuon handakuon h_series p_series
-ぴ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi					hiragana dakuon handakuon h_series p_series
-ぷ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu					hiragana dakuon handakuon h_series p_series
-ぺ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe					hiragana dakuon handakuon h_series p_series
-ぽ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po					hiragana dakuon handakuon h_series p_series
-きゃ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya					hiragana yoon k_series ky_series
-きゅ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu					hiragana yoon k_series ky_series
-きょ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo					hiragana yoon k_series ky_series
-しゃ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha					hiragana yoon s_series sh_series
-しゅ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu					hiragana yoon s_series sh_series
-しょ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho					hiragana yoon s_series sh_series
-ちゃ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha					hiragana yoon t_series ch_series
-ちゅ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu					hiragana yoon t_series ch_series
-ちょ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho					hiragana yoon t_series ch_series
-にゃ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya					hiragana yoon n_series ny_series
-にゅ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu					hiragana yoon n_series ny_series
-にょ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo					hiragana yoon n_series ny_series
-ひゃ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya					hiragana yoon h_series hy_series
-ひゅ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu					hiragana yoon h_series hy_series
-ひょ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo					hiragana yoon h_series hy_series
-みゃ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya					hiragana yoon m_series my_series
-みゅ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu					hiragana yoon m_series my_series
-みょ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo					hiragana yoon m_series my_series
-りゃ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya					hiragana yoon r_series ry_series
-りゅ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1				hiragana yoon r_series ry_series
-りょ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo					hiragana yoon r_series ry_series
-ぎゃ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya					hiragana yoon_dakuon k_series ky_series g_series gy_series
-ぎゅ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu					hiragana yoon_dakuon k_series ky_series g_series gy_series
-ぎょ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo					hiragana yoon_dakuon k_series ky_series g_series gy_series
-じゃ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1				hiragana yoon_dakuon s_series sh_series j_series
-じゅ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1				hiragana yoon_dakuon s_series sh_series j_series
-じょ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1				hiragana yoon_dakuon s_series sh_series j_series
-ぢゃ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1				hiragana yoon_dakuon t_series ch_series j_series
-ぢゅ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1				hiragana yoon_dakuon t_series ch_series j_series
-ぢょ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1				hiragana yoon_dakuon t_series ch_series j_series
-びゃ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya					hiragana yoon_dakuon h_series hy_series b_series by_series
-びゅ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu					hiragana yoon_dakuon h_series hy_series b_series by_series
-びょ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo					hiragana yoon_dakuon h_series hy_series b_series by_series
-ぴゃ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya					hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-ぴゅ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu					hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-ぴょ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo					hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-ア	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a		"Keep the angle in stroke one sharp in this character. When you begin stroke two, don&rsquo;t curve it right away. Bring it straight down for a bit before sweeping left."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_a.png"">"		katakana gojuon seion a_series
-イ	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i		"Be sure to bring the second stroke straight down with a solid stop at the bottom. Don&rsquo;t flick your pencil down to make this stroke. Bring it straight down, stop moving the lead, <u>then</u> pick up your pencil."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_i.png"">"		katakana gojuon seion a_series
-ウ	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u		"Notice that the first two strokes and the first part of the third are all perfectly straight. Also, note that the first stroke is centered over the third."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_u.png"">"		katakana gojuon seion a_series
-エ	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e		Think of a flattened I-beam when you write this one. Notice that the character is slightly wider than it is tall.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_e.png"">"		katakana gojuon seion a_series
-オ	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o		"Notice that the second stroke does not come down through the middle of the first. Keep it slightly off to the right, to make room for stroke three."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_o.png"">"		katakana gojuon seion a_series
-カ	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka		Your main concerns in this character are the point in the middle of the first stroke and the <i>hane</i> at the end.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ka.png"">"		katakana gojuon seion k_series
-キ	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki		"Keep this character leaning to the left, reminiscent of its hiragana counterpart. Notice that the last stroke bisects the first two at a 90-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ki.png"">"		katakana gojuon seion k_series
-ク	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku		"Here we have two instances of the &ldquo;katakana curve&rdquo; in a single character. If you can master this curve, your characters will look great."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ku.png"">"		katakana gojuon seion k_series
-ケ	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke		"Obviously, <i>ke</i> differs from <i>ku</i> in that the second stroke is longer. But also notice that the placement of the second stroke is slightly lower, so that it meets the first stroke in the middle, not as high up as in <i>ku</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ke.png"">"		katakana gojuon seion k_series
-コ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko		"It&rsquo;s subtle in this font, but in <i>ko</i>, as in <i>e</i>, the character is slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ko.png"">"		katakana gojuon seion k_series
-サ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa		"Be careful with <i>sa</i>, as it looks a lot like the hiragana character <i>se</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_sa.png"">"		katakana gojuon seion s_series
-シ	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi		"The last stroke in this character <strong>must</strong> be written from the bottom up. Also notice that the angle isn&rsquo;t as steep as in <i>so</i>, below. The first two strokes point more in the direction of the horizon than the elements of <i>so</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_shi.png"">"		katakana gojuon seion s_series sh_series
-ス	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su		"If you find it easier, most people write <i>su</i> using all straight lines. There&rsquo;s no need to curve the end of the first stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_su.png"">"		katakana gojuon seion s_series
-セ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se		Don&rsquo;t skimp on that <i>hane</i> at the end of the first stroke. Give it the same oomph you might use when finishing off a check mark and you&rsquo;ll have a great looking <i>se</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_se.png"">"		katakana gojuon seion s_series
-ソ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so		Make <i>so</i> look different from <i>shi</i> by emphasizing the fact that both elements in this character point down to the ground. The second stroke must start from the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_so.png"">"		katakana gojuon seion s_series
-タ	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta		<i>Ta</i> doesn&rsquo;t present many challenges. Just get that nice &ldquo;katakana curve&rdquo; in there.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ta.png"">"		katakana gojuon seion t_series
-チ	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi		"In <i>chi</i>, the first stroke starts from the right and goes down and hard to the left, which is very unusual. As a general rule, all strokes go from left to right, and from top to bottom, so you need to remember that this character is special. Also notice that the last stroke pulls straight down, then curves at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_chi.png"">"		katakana gojuon seion t_series ch_series
-ツ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu		"To remember the difference between <i>tsu</i> and <i>so</i>, it might be helpful to remind yourself that <i>tsu</i> has &ldquo;tsu&rdquo; (two) short strokes at the beginning instead of just one. Like the character <i>so</i>, the last stroke must come from the top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_tsu.png"">"		katakana gojuon seion t_series ts_series
-テ	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te		"Keep <i>te</i> and <i>chi</i> straight by remembering the two main differences: The first two strokes in <i>te</i> are parallel, and the third stroke doesn&rsquo;t go all the way through, as it does in <i>chi</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_te.png"">"		katakana gojuon seion t_series
-ト	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to		<i>To</i> is easy. Just keep the first stroke vertical and you&rsquo;ll be fine.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_to.png"">"		katakana gojuon seion t_series
-ナ	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na		Be sure to intersect the first stroke of <i>na</i> in the center.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_na.png"">"		katakana gojuon seion n_series
-ニ	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni		"You can remember <i>ni</i> because it has two horizontal lines, and <i>ni</i> is the word for &ldquo;two.&rdquo;"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ni.png"">"		katakana gojuon seion n_series
-ヌ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu		This character is basically a <i>ta</i> without the first stroke.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_nu.png"">"		katakana gojuon seion n_series
-ネ	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne		<i>Ne</i> will look a lot more balanced if you think of the third stroke as a central support pole around which the rest of the character should be distributed evenly.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ne.png"">"		katakana gojuon seion n_series
-ノ	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no		<i>No</i> is easy to remember because &ldquo;no&rdquo; other lines attach to it.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_no.png"">"		katakana gojuon seion n_series
-ハ	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha		Don&rsquo;t let these strokes connect at the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ha.png"">"		katakana gojuon seion h_series
-ヒ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi		Make sure that second stroke forms a solid 90-degree elbow in <i>hi</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_hi.png"">"		katakana gojuon seion h_series
-フ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu		"It&rsquo;s important with <i>fu</i> that you don&rsquo;t make the curved part straight. In other words, don&rsquo;t make it look like a 7. It also helps to keep it slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_fu.png"">"	"<b>Pronouncing <i>f</i></b> &ndash; Japanese don&rsquo;t bite their bottom lips as we do when we say this sound. Let your upper teeth just barely touch your lower lip as you close your mouth naturally. Since there&rsquo;s no lip-biting, sometimes foreigners hear this sound as an <i>h</i> sound."	katakana gojuon seion h_series f_series
-ヘ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he		Write this exactly as its cousin.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_he.png"">"		katakana gojuon seion h_series
-ホ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho		"If you learn anything from my notes on the two syllabaries, I hope it&rsquo;s that you should always be sure to include <i>hane</i> in characters that use them. Here we find a beautiful example at the end of stroke two."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ho.png"">"		katakana gojuon seion h_series
-マ	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma		"When I was learning this syllabary, it helped me to write <i>ma</i> correctly if I imagined it as a triangular flag on a stick, leaning back at a 45-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ma.png"">"		katakana gojuon seion m_series
-ミ	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi		"This character might make more sense after you learn another way to say the number three: <i>mittsu</i>. Just as <i>ni</i> is composed of &ldquo;two&rdquo; lines, <i>mi</i> is composed of &ldquo;three.&rdquo;"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mi.png"">"		katakana gojuon seion m_series
-ム	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu		It&rsquo;s hard to go wrong with <i>mu</i>. Just keep that first stroke to about a 45-degree angle and it&rsquo;ll look great.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mu.png"">"		katakana gojuon seion m_series
-メ	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me		"This one is nice and easy. Just be sure to get that gentle ""katakana curve"" in, and make the strokes different lengths so it doesn&rsquo;t look like an X, and you&rsquo;ll be fine."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_me.png"">"		katakana gojuon seion m_series
-モ	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo		"<i>Mo</i> also looks a lot like its cousin. Notice, however, that the stroke order is different. (In the hiragana <i>mo</i>, the vertical line comes first.)"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mo.png"">"		katakana gojuon seion m_series
-ヤ	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya		"This character looks just like its cousin, except it&rsquo;s more angular and it&rsquo;s missing a stroke. Notice that what used to be an open curve at the end of the first stroke has been reduced to a <i>hane</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ya.png"">"		katakana gojuon seion y_series
-ユ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu		"Above all else, make sure that the vertical portion of the first stroke in <i>yu</i> goes straight down or veers a little to the left. It should not go to the right."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_yu.png"">"		katakana gojuon seion y_series
-ヨ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo		It&rsquo;s a backwards &ldquo;E.&rdquo; That&rsquo;s all it is. Write it like that and you&rsquo;ll have no problems. Just remember to use the proper stroke order: Each of the two lower arms must be drawn from left to right.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_yo.png"">"		katakana gojuon seion y_series
-ラ	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra		"This character is simply a <i>fu</i> with a line on top, but since <i>fu</i> and <i>ra</i> should take up the same vertical space, you&rsquo;ll need to compress the <i>fu</i> part a bit."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ra.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
-リ	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri		"Notice that with the katakana version of <i>ri</i>, there is no <i>hane</i> at the end of stroke one."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ri.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
-ル	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru		The end of stroke two in <i>ru</i> is nothing more than a glorified <i>hane</i>. Flick the pencil up like you&rsquo;re making a check mark and it&rsquo;ll look perfect.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ru.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
-レ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re		The end of this character is a super-glorified <i>hane</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_re.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
-ロ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro		"Be sure to note that the path marked by the red arrow here is actually one large stroke. It&rsquo;s important to write this character correctly, using three strokes, not four."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ro.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
-ワ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa		"<i>Wa</i> is the same as <i>u</i>, only without the line on top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_wa.png"">"		katakana gojuon seion w_series
-ヲ	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1				katakana gojuon seion w_series
-ン	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n		"In order to keep this character distinct from the very similar looking <i>so</i>, be sure that you draw the second stroke up from the bottom, and point it slightly lower than a 45-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_n.png"">"	"<div style=""text-align:left; display:inline-block;"">
+が	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga						hiragana dakuon k_series g_series
+ぎ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi						hiragana dakuon k_series g_series
+ぐ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu						hiragana dakuon k_series g_series
+げ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge						hiragana dakuon k_series g_series
+ご	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go						hiragana dakuon k_series g_series
+ざ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za		<small><small>/ztsa/</small></small>				hiragana dakuon s_series z_series
+じ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1					hiragana dakuon s_series z_series
+ず	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1					hiragana dakuon s_series z_series
+ぜ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze						hiragana dakuon s_series z_series
+ぞ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo						hiragana dakuon s_series z_series
+だ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
+ぢ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1					hiragana dakuon t_series d_series
+づ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1					hiragana dakuon t_series d_series
+で	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
+ど	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	hiragana dakuon t_series d_series
+ば	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba						hiragana dakuon h_series b_series
+び	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi						hiragana dakuon h_series b_series
+ぶ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu						hiragana dakuon h_series b_series
+べ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be						hiragana dakuon h_series b_series
+ぼ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo						hiragana dakuon h_series b_series
+ぱ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa						hiragana dakuon handakuon h_series p_series
+ぴ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi						hiragana dakuon handakuon h_series p_series
+ぷ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu						hiragana dakuon handakuon h_series p_series
+ぺ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe						hiragana dakuon handakuon h_series p_series
+ぽ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po						hiragana dakuon handakuon h_series p_series
+きゃ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya						hiragana yoon k_series ky_series
+きゅ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu						hiragana yoon k_series ky_series
+きょ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo						hiragana yoon k_series ky_series
+しゃ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha						hiragana yoon s_series sh_series
+しゅ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu						hiragana yoon s_series sh_series
+しょ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho						hiragana yoon s_series sh_series
+ちゃ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha						hiragana yoon t_series ch_series
+ちゅ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu						hiragana yoon t_series ch_series
+ちょ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho						hiragana yoon t_series ch_series
+にゃ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya						hiragana yoon n_series ny_series
+にゅ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu						hiragana yoon n_series ny_series
+にょ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo						hiragana yoon n_series ny_series
+ひゃ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya						hiragana yoon h_series hy_series
+ひゅ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu						hiragana yoon h_series hy_series
+ひょ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo						hiragana yoon h_series hy_series
+みゃ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya						hiragana yoon m_series my_series
+みゅ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu						hiragana yoon m_series my_series
+みょ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo						hiragana yoon m_series my_series
+りゃ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya						hiragana yoon r_series ry_series
+りゅ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1					hiragana yoon r_series ry_series
+りょ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo						hiragana yoon r_series ry_series
+ぎゃ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya						hiragana yoon_dakuon k_series ky_series g_series gy_series
+ぎゅ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu						hiragana yoon_dakuon k_series ky_series g_series gy_series
+ぎょ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo						hiragana yoon_dakuon k_series ky_series g_series gy_series
+じゃ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1					hiragana yoon_dakuon s_series sh_series j_series
+じゅ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1					hiragana yoon_dakuon s_series sh_series j_series
+じょ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1					hiragana yoon_dakuon s_series sh_series j_series
+ぢゃ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1					hiragana yoon_dakuon t_series ch_series j_series
+ぢゅ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1					hiragana yoon_dakuon t_series ch_series j_series
+ぢょ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1					hiragana yoon_dakuon t_series ch_series j_series
+びゃ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya						hiragana yoon_dakuon h_series hy_series b_series by_series
+びゅ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu						hiragana yoon_dakuon h_series hy_series b_series by_series
+びょ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo						hiragana yoon_dakuon h_series hy_series b_series by_series
+ぴゃ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya						hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+ぴゅ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu						hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+ぴょ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo						hiragana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+ア	[sound:7biey7947yx7iz074op63ck7x_a.mp3]	a			"Keep the angle in stroke one sharp in this character. When you begin stroke two, don&rsquo;t curve it right away. Bring it straight down for a bit before sweeping left."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_a.png"">"		katakana gojuon seion a_series
+イ	[sound:7biey7947yx7iz074op63ck7x_i.mp3]	i			"Be sure to bring the second stroke straight down with a solid stop at the bottom. Don&rsquo;t flick your pencil down to make this stroke. Bring it straight down, stop moving the lead, <u>then</u> pick up your pencil."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_i.png"">"		katakana gojuon seion a_series
+ウ	[sound:7biey7947yx7iz074op63ck7x_u.mp3]	u			"Notice that the first two strokes and the first part of the third are all perfectly straight. Also, note that the first stroke is centered over the third."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_u.png"">"		katakana gojuon seion a_series
+エ	[sound:7biey7947yx7iz074op63ck7x_e.mp3]	e			Think of a flattened I-beam when you write this one. Notice that the character is slightly wider than it is tall.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_e.png"">"		katakana gojuon seion a_series
+オ	[sound:7biey7947yx7iz074op63ck7x_o.mp3]	o			"Notice that the second stroke does not come down through the middle of the first. Keep it slightly off to the right, to make room for stroke three."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_o.png"">"		katakana gojuon seion a_series
+カ	[sound:7biey7947yx7iz074op63ck7x_ka.mp3]	ka			Your main concerns in this character are the point in the middle of the first stroke and the <i>hane</i> at the end.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ka.png"">"		katakana gojuon seion k_series
+キ	[sound:7biey7947yx7iz074op63ck7x_ki.mp3]	ki			"Keep this character leaning to the left, reminiscent of its hiragana counterpart. Notice that the last stroke bisects the first two at a 90-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ki.png"">"		katakana gojuon seion k_series
+ク	[sound:7biey7947yx7iz074op63ck7x_ku.mp3]	ku			"Here we have two instances of the &ldquo;katakana curve&rdquo; in a single character. If you can master this curve, your characters will look great."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ku.png"">"		katakana gojuon seion k_series
+ケ	[sound:7biey7947yx7iz074op63ck7x_ke.mp3]	ke			"Obviously, <i>ke</i> differs from <i>ku</i> in that the second stroke is longer. But also notice that the placement of the second stroke is slightly lower, so that it meets the first stroke in the middle, not as high up as in <i>ku</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ke.png"">"		katakana gojuon seion k_series
+コ	[sound:7biey7947yx7iz074op63ck7x_ko.mp3]	ko			"It&rsquo;s subtle in this font, but in <i>ko</i>, as in <i>e</i>, the character is slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ko.png"">"		katakana gojuon seion k_series
+サ	[sound:7biey7947yx7iz074op63ck7x_sa.mp3]	sa			"Be careful with <i>sa</i>, as it looks a lot like the hiragana character <i>se</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_sa.png"">"		katakana gojuon seion s_series
+シ	[sound:7biey7947yx7iz074op63ck7x_shi.mp3]	shi			"The last stroke in this character <strong>must</strong> be written from the bottom up. Also notice that the angle isn&rsquo;t as steep as in <i>so</i>, below. The first two strokes point more in the direction of the horizon than the elements of <i>so</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_shi.png"">"		katakana gojuon seion s_series sh_series
+ス	[sound:7biey7947yx7iz074op63ck7x_su.mp3]	su			"If you find it easier, most people write <i>su</i> using all straight lines. There&rsquo;s no need to curve the end of the first stroke."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_su.png"">"		katakana gojuon seion s_series
+セ	[sound:7biey7947yx7iz074op63ck7x_se.mp3]	se			Don&rsquo;t skimp on that <i>hane</i> at the end of the first stroke. Give it the same oomph you might use when finishing off a check mark and you&rsquo;ll have a great looking <i>se</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_se.png"">"		katakana gojuon seion s_series
+ソ	[sound:7biey7947yx7iz074op63ck7x_so.mp3]	so			Make <i>so</i> look different from <i>shi</i> by emphasizing the fact that both elements in this character point down to the ground. The second stroke must start from the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_so.png"">"		katakana gojuon seion s_series
+タ	[sound:7biey7947yx7iz074op63ck7x_ta.mp3]	ta			<i>Ta</i> doesn&rsquo;t present many challenges. Just get that nice &ldquo;katakana curve&rdquo; in there.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ta.png"">"		katakana gojuon seion t_series
+チ	[sound:7biey7947yx7iz074op63ck7x_chi.mp3]	chi			"In <i>chi</i>, the first stroke starts from the right and goes down and hard to the left, which is very unusual. As a general rule, all strokes go from left to right, and from top to bottom, so you need to remember that this character is special. Also notice that the last stroke pulls straight down, then curves at the end."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_chi.png"">"		katakana gojuon seion t_series ch_series
+ツ	[sound:7biey7947yx7iz074op63ck7x_tsu.mp3]	tsu			"To remember the difference between <i>tsu</i> and <i>so</i>, it might be helpful to remind yourself that <i>tsu</i> has &ldquo;tsu&rdquo; (two) short strokes at the beginning instead of just one. Like the character <i>so</i>, the last stroke must come from the top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_tsu.png"">"		katakana gojuon seion t_series ts_series
+テ	[sound:7biey7947yx7iz074op63ck7x_te.mp3]	te			"Keep <i>te</i> and <i>chi</i> straight by remembering the two main differences: The first two strokes in <i>te</i> are parallel, and the third stroke doesn&rsquo;t go all the way through, as it does in <i>chi</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_te.png"">"		katakana gojuon seion t_series
+ト	[sound:7biey7947yx7iz074op63ck7x_to.mp3]	to			<i>To</i> is easy. Just keep the first stroke vertical and you&rsquo;ll be fine.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_to.png"">"		katakana gojuon seion t_series
+ナ	[sound:7biey7947yx7iz074op63ck7x_na.mp3]	na			Be sure to intersect the first stroke of <i>na</i> in the center.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_na.png"">"		katakana gojuon seion n_series
+ニ	[sound:7biey7947yx7iz074op63ck7x_ni.mp3]	ni			"You can remember <i>ni</i> because it has two horizontal lines, and <i>ni</i> is the word for &ldquo;two.&rdquo;"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ni.png"">"		katakana gojuon seion n_series
+ヌ	[sound:7biey7947yx7iz074op63ck7x_nu.mp3]	nu			This character is basically a <i>ta</i> without the first stroke.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_nu.png"">"		katakana gojuon seion n_series
+ネ	[sound:7biey7947yx7iz074op63ck7x_ne.mp3]	ne			<i>Ne</i> will look a lot more balanced if you think of the third stroke as a central support pole around which the rest of the character should be distributed evenly.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ne.png"">"		katakana gojuon seion n_series
+ノ	[sound:7biey7947yx7iz074op63ck7x_no.mp3]	no			<i>No</i> is easy to remember because &ldquo;no&rdquo; other lines attach to it.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_no.png"">"		katakana gojuon seion n_series
+ハ	[sound:7biey7947yx7iz074op63ck7x_ha.mp3]	ha			Don&rsquo;t let these strokes connect at the top.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ha.png"">"		katakana gojuon seion h_series
+ヒ	[sound:7biey7947yx7iz074op63ck7x_hi.mp3]	hi			Make sure that second stroke forms a solid 90-degree elbow in <i>hi</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_hi.png"">"		katakana gojuon seion h_series
+フ	[sound:7biey7947yx7iz074op63ck7x_fu.mp3]	fu			"It&rsquo;s important with <i>fu</i> that you don&rsquo;t make the curved part straight. In other words, don&rsquo;t make it look like a 7. It also helps to keep it slightly wider than it is tall."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_fu.png"">"	"<b>Pronouncing <i>f</i></b> &ndash; Japanese don&rsquo;t bite their bottom lips as we do when we say this sound. Let your upper teeth just barely touch your lower lip as you close your mouth naturally. Since there&rsquo;s no lip-biting, sometimes foreigners hear this sound as an <i>h</i> sound."	katakana gojuon seion h_series f_series
+ヘ	[sound:7biey7947yx7iz074op63ck7x_he.mp3]	he			Write this exactly as its cousin.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_he.png"">"		katakana gojuon seion h_series
+ホ	[sound:7biey7947yx7iz074op63ck7x_ho.mp3]	ho			"If you learn anything from my notes on the two syllabaries, I hope it&rsquo;s that you should always be sure to include <i>hane</i> in characters that use them. Here we find a beautiful example at the end of stroke two."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ho.png"">"		katakana gojuon seion h_series
+マ	[sound:7biey7947yx7iz074op63ck7x_ma.mp3]	ma			"When I was learning this syllabary, it helped me to write <i>ma</i> correctly if I imagined it as a triangular flag on a stick, leaning back at a 45-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ma.png"">"		katakana gojuon seion m_series
+ミ	[sound:7biey7947yx7iz074op63ck7x_mi.mp3]	mi			"This character might make more sense after you learn another way to say the number three: <i>mittsu</i>. Just as <i>ni</i> is composed of &ldquo;two&rdquo; lines, <i>mi</i> is composed of &ldquo;three.&rdquo;"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mi.png"">"		katakana gojuon seion m_series
+ム	[sound:7biey7947yx7iz074op63ck7x_mu.mp3]	mu			It&rsquo;s hard to go wrong with <i>mu</i>. Just keep that first stroke to about a 45-degree angle and it&rsquo;ll look great.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mu.png"">"		katakana gojuon seion m_series
+メ	[sound:7biey7947yx7iz074op63ck7x_me.mp3]	me			"This one is nice and easy. Just be sure to get that gentle ""katakana curve"" in, and make the strokes different lengths so it doesn&rsquo;t look like an X, and you&rsquo;ll be fine."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_me.png"">"		katakana gojuon seion m_series
+モ	[sound:7biey7947yx7iz074op63ck7x_mo.mp3]	mo			"<i>Mo</i> also looks a lot like its cousin. Notice, however, that the stroke order is different. (In the hiragana <i>mo</i>, the vertical line comes first.)"	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_mo.png"">"		katakana gojuon seion m_series
+ヤ	[sound:7biey7947yx7iz074op63ck7x_ya.mp3]	ya			"This character looks just like its cousin, except it&rsquo;s more angular and it&rsquo;s missing a stroke. Notice that what used to be an open curve at the end of the first stroke has been reduced to a <i>hane</i>."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ya.png"">"		katakana gojuon seion y_series
+ユ	[sound:7biey7947yx7iz074op63ck7x_yu.mp3]	yu			"Above all else, make sure that the vertical portion of the first stroke in <i>yu</i> goes straight down or veers a little to the left. It should not go to the right."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_yu.png"">"		katakana gojuon seion y_series
+ヨ	[sound:7biey7947yx7iz074op63ck7x_yo.mp3]	yo			It&rsquo;s a backwards &ldquo;E.&rdquo; That&rsquo;s all it is. Write it like that and you&rsquo;ll have no problems. Just remember to use the proper stroke order: Each of the two lower arms must be drawn from left to right.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_yo.png"">"		katakana gojuon seion y_series
+ラ	[sound:7biey7947yx7iz074op63ck7x_ra.mp3]	ra			"This character is simply a <i>fu</i> with a line on top, but since <i>fu</i> and <i>ra</i> should take up the same vertical space, you&rsquo;ll need to compress the <i>fu</i> part a bit."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ra.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
+リ	[sound:7biey7947yx7iz074op63ck7x_ri.mp3]	ri			"Notice that with the katakana version of <i>ri</i>, there is no <i>hane</i> at the end of stroke one."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ri.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
+ル	[sound:7biey7947yx7iz074op63ck7x_ru.mp3]	ru			The end of stroke two in <i>ru</i> is nothing more than a glorified <i>hane</i>. Flick the pencil up like you&rsquo;re making a check mark and it&rsquo;ll look perfect.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ru.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
+レ	[sound:7biey7947yx7iz074op63ck7x_re.mp3]	re			The end of this character is a super-glorified <i>hane</i>.	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_re.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
+ロ	[sound:7biey7947yx7iz074op63ck7x_ro.mp3]	ro			"Be sure to note that the path marked by the red arrow here is actually one large stroke. It&rsquo;s important to write this character correctly, using three strokes, not four."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_ro.png"">"	"<p><b>Pronouncing <i>r</i></b> &ndash; It is made by a light flicking of the tip of the tongue on the roof of the mouth.</p><p>If you are familiar with Spanish, you might notice that the sound is similar to a Spanish <i>r</i>, except that there isn&rsquo;t any trilling or rolling. It&rsquo;s just one light touch.</p>"	katakana gojuon seion r_series
+ワ	[sound:7biey7947yx7iz074op63ck7x_wa.mp3]	wa			"<i>Wa</i> is the same as <i>u</i>, only without the line on top."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_wa.png"">"		katakana gojuon seion w_series
+ヲ	[sound:7biey7947yx7iz074op63ck7x_(w)o.mp3]	(w)o	1					katakana gojuon seion w_series
+ン	[sound:7biey7947yx7iz074op63ck7x_n.mp3]	n			"In order to keep this character distinct from the very similar looking <i>so</i>, be sure that you draw the second stroke up from the bottom, and point it slightly lower than a 45-degree angle."	"<img src=""7biey7947yx7iz074op63ck7x_tips_katakana_n.png"">"	"<div style=""text-align:left; display:inline-block;"">
 Its pronunciation varies a bit depending on what sounds surround it:
 
 <ul>
@@ -213,105 +213,105 @@ See also:
 </div>
 
 <br>"	katakana gojuon seion w_series
-ガ	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga					katakana dakuon k_series g_series
-ギ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi					katakana dakuon k_series g_series
-グ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu					katakana dakuon k_series g_series
-ゲ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge					katakana dakuon k_series g_series
-ゴ	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go					katakana dakuon k_series g_series
-ザ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za					katakana dakuon s_series z_series
-ジ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1				katakana dakuon s_series z_series j_series
-ズ	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1				katakana dakuon s_series z_series
-ゼ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze					katakana dakuon s_series z_series
-ゾ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo					katakana dakuon s_series z_series
-ダ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
-ヂ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1				katakana dakuon t_series d_series
-ヅ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1				katakana dakuon t_series d_series
-デ	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
-ド	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do				"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
-バ	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba					katakana dakuon h_series b_series
-ビ	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi					katakana dakuon h_series b_series
-ブ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu					katakana dakuon h_series b_series
-ベ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be					katakana dakuon h_series b_series
-ボ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo					katakana dakuon h_series b_series
-パ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa					katakana dakuon handakuon h_series p_series
-ピ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi					katakana dakuon handakuon h_series p_series
-プ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu					katakana dakuon handakuon h_series p_series
-ペ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe					katakana dakuon handakuon h_series p_series
-ポ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po					katakana dakuon handakuon h_series p_series
-キャ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya					katakana yoon k_series ky_series
-キュ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu					katakana yoon k_series ky_series
-キョ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo					katakana yoon k_series ky_series
-シャ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha					katakana yoon s_series sh_series
-シュ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu					katakana yoon s_series sh_series
-ショ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho					katakana yoon s_series sh_series
-チャ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha					katakana yoon t_series ch_series
-チュ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu					katakana yoon t_series ch_series
-チョ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho					katakana yoon t_series ch_series
-ニャ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya					katakana yoon n_series ny_series
-ニュ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu					katakana yoon n_series ny_series
-ニョ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo					katakana yoon n_series ny_series
-ヒャ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya					katakana yoon h_series hy_series
-ヒュ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu					katakana yoon h_series hy_series
-ヒョ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo					katakana yoon h_series hy_series
-ミャ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya					katakana yoon m_series my_series
-ミュ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu					katakana yoon m_series my_series
-ミョ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo					katakana yoon m_series my_series
-リャ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya					katakana yoon r_series ry_series
-リュ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1				katakana yoon r_series ry_series
-リョ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo					katakana yoon r_series ry_series
-ギャ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya					katakana yoon_dakuon k_series ky_series g_series gy_series
-ギュ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu					katakana yoon_dakuon k_series ky_series g_series gy_series
-ギョ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo					katakana yoon_dakuon k_series ky_series g_series gy_series
-ジャ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1				katakana yoon_dakuon s_series sh_series j_series
-ジュ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1				katakana yoon_dakuon s_series sh_series j_series
-ジョ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1				katakana yoon_dakuon s_series sh_series j_series
-ヂャ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1				katakana yoon_dakuon t_series ch_series j_series
-ヂュ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1				katakana yoon_dakuon t_series ch_series j_series
-ヂョ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1				katakana yoon_dakuon t_series ch_series j_series
-ビャ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya					katakana yoon_dakuon h_series hy_series b_series by_series
-ビュ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu					katakana yoon_dakuon h_series hy_series b_series by_series
-ビョ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo					katakana yoon_dakuon h_series hy_series b_series by_series
-ピャ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya					katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-ピュ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu					katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-ピョ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo					katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
-イィ		yi	1				katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
-イェ		ye	1				katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
-ウィ		wi	1				katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
-ウェ		we	1				katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
-ウォ		wo	1				katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
-ヴァ	[sound:7biey7947yx7iz074op63ck7x_va.mp3]	va	1				katakana special foreign dakuon_sp a_series_sp v_series v_series_x
-ヴィ	[sound:7biey7947yx7iz074op63ck7x_vi.mp3]	vi	1				katakana special foreign dakuon_sp a_series_sp v_series v_series_x
-ヴ		vu	1				katakana special foreign dakuon_sp a_series_sp v_series v_series_x
-ヴェ	[sound:7biey7947yx7iz074op63ck7x_ve.mp3]	ve	1				katakana special foreign dakuon_sp a_series_sp v_series v_series_x
-ヴォ	[sound:7biey7947yx7iz074op63ck7x_vo.mp3]	vo	1				katakana special foreign dakuon_sp a_series_sp v_series v_series_x
-シェ		she	1				katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sh_series_sp sh_series_x
-ジェ	[sound:7biey7947yx7iz074op63ck7x_je.mp3]	je	1				katakana special foreign dakuon_sp s_series_sp s_series_x sh_series_sp sh_series_x j_series_sp j_series_x
-チェ		che	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ch_series_sp ch_series_x
-ティ	[sound:7biey7947yx7iz074op63ck7x_ti.mp3]	ti	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
-トゥ	[sound:7biey7947yx7iz074op63ck7x_tu.mp3]	tu	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
-ディ	[sound:7biey7947yx7iz074op63ck7x_di.mp3]	di	1				katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
-ドゥ	[sound:7biey7947yx7iz074op63ck7x_du.mp3]	du	1				katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
-ツァ	[sound:7biey7947yx7iz074op63ck7x_tsa.mp3]	tsa	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
-ツィ		tsi	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
-ツェ	[sound:7biey7947yx7iz074op63ck7x_tse.mp3]	tse	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
-ツォ	[sound:7biey7947yx7iz074op63ck7x_tso.mp3]	tso	1				katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
-ファ	[sound:7biey7947yx7iz074op63ck7x_fa.mp3]	fa	1				katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
-フィ	[sound:7biey7947yx7iz074op63ck7x_fi.mp3]	fi	1				katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
-フェ	[sound:7biey7947yx7iz074op63ck7x_fe.mp3]	fe	1				katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
-フォ	[sound:7biey7947yx7iz074op63ck7x_fo.mp3]	fo	1				katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
-ヴャ		vya	1				katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
-ヴュ		vyu	1				katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
-ヴョ		vyo	1				katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
-テュ		tyu	1				katakana special foreign yoon_sp t_series_sp ty_series ty_series_x
-デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1				katakana special foreign yoon_dakuon_sp t_series_sp ty_series ty_series_x
-フュ		fyu	1				katakana special foreign yoon_sp h_series_sp f_series_sp f_series_x fy_series fy_series_x
-スァ		swa	1				katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
-スィ		"swi, Si"	1				katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sw_series sw_series_x
-スゥ		swu	1				katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
-スェ		swe	1				katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
-スォ		swo	1				katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
-ズァ		zwa	1				katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
-ズィ		"zwi, zi"	1				katakana special foreign dakuon_sp s_series_sp z_series_x zw_series zw_series_x
-ズゥ		zwu	1				katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
-ズェ		zwe	1				katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
-ズォ		zwo	1				katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ガ	[sound:7biey7947yx7iz074op63ck7x_ga.mp3]	ga						katakana dakuon k_series g_series
+ギ	[sound:7biey7947yx7iz074op63ck7x_gi.mp3]	gi						katakana dakuon k_series g_series
+グ	[sound:7biey7947yx7iz074op63ck7x_gu.mp3]	gu						katakana dakuon k_series g_series
+ゲ	[sound:7biey7947yx7iz074op63ck7x_ge.mp3]	ge						katakana dakuon k_series g_series
+ゴ	[sound:7biey7947yx7iz074op63ck7x_go.mp3]	go						katakana dakuon k_series g_series
+ザ	[sound:7biey7947yx7iz074op63ck7x_za.mp3]	za		<small><small>/ztsa/</small></small>				katakana dakuon s_series z_series
+ジ	[sound:7biey7947yx7iz074op63ck7x_ji.mp3]	ji	1					katakana dakuon s_series z_series j_series
+ズ	[sound:7biey7947yx7iz074op63ck7x_zu.mp3]	zu	1					katakana dakuon s_series z_series
+ゼ	[sound:7biey7947yx7iz074op63ck7x_ze.mp3]	ze						katakana dakuon s_series z_series
+ゾ	[sound:7biey7947yx7iz074op63ck7x_zo.mp3]	zo						katakana dakuon s_series z_series
+ダ	[sound:7biey7947yx7iz074op63ck7x_da.mp3]	da					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
+ヂ	[sound:7biey7947yx7iz074op63ck7x_(d)ji.mp3]	(d)ji	1					katakana dakuon t_series d_series
+ヅ	[sound:7biey7947yx7iz074op63ck7x_(d)zu.mp3]	(d)zu	1					katakana dakuon t_series d_series
+デ	[sound:7biey7947yx7iz074op63ck7x_de.mp3]	de					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
+ド	[sound:7biey7947yx7iz074op63ck7x_do.mp3]	do					"<b>Pronouncing <i>d</i></b> &ndash; This sound is a bit heavier than in English. The tongue presses hard against the upper teeth and gums. If you were to move your tongue a little lower down, a <i>th</i> sound would come out."	katakana dakuon t_series d_series
+バ	[sound:7biey7947yx7iz074op63ck7x_ba.mp3]	ba						katakana dakuon h_series b_series
+ビ	[sound:7biey7947yx7iz074op63ck7x_bi.mp3]	bi						katakana dakuon h_series b_series
+ブ	[sound:7biey7947yx7iz074op63ck7x_bu.mp3]	bu						katakana dakuon h_series b_series
+ベ	[sound:7biey7947yx7iz074op63ck7x_be.mp3]	be						katakana dakuon h_series b_series
+ボ	[sound:7biey7947yx7iz074op63ck7x_bo.mp3]	bo						katakana dakuon h_series b_series
+パ	[sound:7biey7947yx7iz074op63ck7x_pa.mp3]	pa						katakana dakuon handakuon h_series p_series
+ピ	[sound:7biey7947yx7iz074op63ck7x_pi.mp3]	pi						katakana dakuon handakuon h_series p_series
+プ	[sound:7biey7947yx7iz074op63ck7x_pu.mp3]	pu						katakana dakuon handakuon h_series p_series
+ペ	[sound:7biey7947yx7iz074op63ck7x_pe.mp3]	pe						katakana dakuon handakuon h_series p_series
+ポ	[sound:7biey7947yx7iz074op63ck7x_po.mp3]	po						katakana dakuon handakuon h_series p_series
+キャ	[sound:7biey7947yx7iz074op63ck7x_kya.mp3]	kya						katakana yoon k_series ky_series
+キュ	[sound:7biey7947yx7iz074op63ck7x_kyu.mp3]	kyu						katakana yoon k_series ky_series
+キョ	[sound:7biey7947yx7iz074op63ck7x_kyo.mp3]	kyo						katakana yoon k_series ky_series
+シャ	[sound:7biey7947yx7iz074op63ck7x_sha.mp3]	sha						katakana yoon s_series sh_series
+シュ	[sound:7biey7947yx7iz074op63ck7x_shu.mp3]	shu						katakana yoon s_series sh_series
+ショ	[sound:7biey7947yx7iz074op63ck7x_sho.mp3]	sho						katakana yoon s_series sh_series
+チャ	[sound:7biey7947yx7iz074op63ck7x_cha.mp3]	cha						katakana yoon t_series ch_series
+チュ	[sound:7biey7947yx7iz074op63ck7x_chu.mp3]	chu						katakana yoon t_series ch_series
+チョ	[sound:7biey7947yx7iz074op63ck7x_cho.mp3]	cho						katakana yoon t_series ch_series
+ニャ	[sound:7biey7947yx7iz074op63ck7x_nya.mp3]	nya						katakana yoon n_series ny_series
+ニュ	[sound:7biey7947yx7iz074op63ck7x_nyu.mp3]	nyu						katakana yoon n_series ny_series
+ニョ	[sound:7biey7947yx7iz074op63ck7x_nyo.mp3]	nyo						katakana yoon n_series ny_series
+ヒャ	[sound:7biey7947yx7iz074op63ck7x_hya.mp3]	hya						katakana yoon h_series hy_series
+ヒュ	[sound:7biey7947yx7iz074op63ck7x_hyu.mp3]	hyu						katakana yoon h_series hy_series
+ヒョ	[sound:7biey7947yx7iz074op63ck7x_hyo.mp3]	hyo						katakana yoon h_series hy_series
+ミャ	[sound:7biey7947yx7iz074op63ck7x_mya.mp3]	mya						katakana yoon m_series my_series
+ミュ	[sound:7biey7947yx7iz074op63ck7x_myu.mp3]	myu						katakana yoon m_series my_series
+ミョ	[sound:7biey7947yx7iz074op63ck7x_myo.mp3]	myo						katakana yoon m_series my_series
+リャ	[sound:7biey7947yx7iz074op63ck7x_rya.mp3]	rya						katakana yoon r_series ry_series
+リュ	[sound:7biey7947yx7iz074op63ck7x_ryu.mp3]	ryu	1					katakana yoon r_series ry_series
+リョ	[sound:7biey7947yx7iz074op63ck7x_ryo.mp3]	ryo						katakana yoon r_series ry_series
+ギャ	[sound:7biey7947yx7iz074op63ck7x_gya.mp3]	gya						katakana yoon_dakuon k_series ky_series g_series gy_series
+ギュ	[sound:7biey7947yx7iz074op63ck7x_gyu.mp3]	gyu						katakana yoon_dakuon k_series ky_series g_series gy_series
+ギョ	[sound:7biey7947yx7iz074op63ck7x_gyo.mp3]	gyo						katakana yoon_dakuon k_series ky_series g_series gy_series
+ジャ	[sound:7biey7947yx7iz074op63ck7x_ja.mp3]	ja	1					katakana yoon_dakuon s_series sh_series j_series
+ジュ	[sound:7biey7947yx7iz074op63ck7x_ju.mp3]	ju	1					katakana yoon_dakuon s_series sh_series j_series
+ジョ	[sound:7biey7947yx7iz074op63ck7x_jo.mp3]	jo	1					katakana yoon_dakuon s_series sh_series j_series
+ヂャ	[sound:7biey7947yx7iz074op63ck7x_(d)ja.mp3]	(d)ja	1					katakana yoon_dakuon t_series ch_series j_series
+ヂュ	[sound:7biey7947yx7iz074op63ck7x_(d)ju.mp3]	(d)ju	1					katakana yoon_dakuon t_series ch_series j_series
+ヂョ	[sound:7biey7947yx7iz074op63ck7x_(d)jo.mp3]	(d)jo	1					katakana yoon_dakuon t_series ch_series j_series
+ビャ	[sound:7biey7947yx7iz074op63ck7x_bya.mp3]	bya						katakana yoon_dakuon h_series hy_series b_series by_series
+ビュ	[sound:7biey7947yx7iz074op63ck7x_byu.mp3]	byu						katakana yoon_dakuon h_series hy_series b_series by_series
+ビョ	[sound:7biey7947yx7iz074op63ck7x_byo.mp3]	byo						katakana yoon_dakuon h_series hy_series b_series by_series
+ピャ	[sound:7biey7947yx7iz074op63ck7x_pya.mp3]	pya						katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+ピュ	[sound:7biey7947yx7iz074op63ck7x_pyu.mp3]	pyu						katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+ピョ	[sound:7biey7947yx7iz074op63ck7x_pyo.mp3]	pyo						katakana yoon_dakuon yoon_handakuon h_series hy_series p_series py_series
+イィ		yi	1					katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
+イェ		ye	1					katakana special foreign gojuon_sp seion_sp a_series_sp y_series_x
+ウィ		wi	1					katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ウェ		we	1					katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ウォ		wo	1					katakana special foreign gojuon_sp seion_sp a_series_sp w_series_x
+ヴァ	[sound:7biey7947yx7iz074op63ck7x_va.mp3]	va	1					katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴィ	[sound:7biey7947yx7iz074op63ck7x_vi.mp3]	vi	1					katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴ		vu	1					katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴェ	[sound:7biey7947yx7iz074op63ck7x_ve.mp3]	ve	1					katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+ヴォ	[sound:7biey7947yx7iz074op63ck7x_vo.mp3]	vo	1					katakana special foreign dakuon_sp a_series_sp v_series v_series_x
+シェ		she	1					katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sh_series_sp sh_series_x
+ジェ	[sound:7biey7947yx7iz074op63ck7x_je.mp3]	je	1					katakana special foreign dakuon_sp s_series_sp s_series_x sh_series_sp sh_series_x j_series_sp j_series_x
+チェ		che	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ch_series_sp ch_series_x
+ティ	[sound:7biey7947yx7iz074op63ck7x_ti.mp3]	ti	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
+トゥ	[sound:7biey7947yx7iz074op63ck7x_tu.mp3]	tu	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x
+ディ	[sound:7biey7947yx7iz074op63ck7x_di.mp3]	di	1					katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
+ドゥ	[sound:7biey7947yx7iz074op63ck7x_du.mp3]	du	1					katakana special foreign dakuon_sp t_series_sp t_series_x d_series_sp d_series_x
+ツァ	[sound:7biey7947yx7iz074op63ck7x_tsa.mp3]	tsa	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツィ		tsi	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツェ	[sound:7biey7947yx7iz074op63ck7x_tse.mp3]	tse	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ツォ	[sound:7biey7947yx7iz074op63ck7x_tso.mp3]	tso	1					katakana special foreign gojuon_sp seion_sp t_series_sp t_series_x ts_series_sp ts_series_x
+ファ	[sound:7biey7947yx7iz074op63ck7x_fa.mp3]	fa	1					katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フィ	[sound:7biey7947yx7iz074op63ck7x_fi.mp3]	fi	1					katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フェ	[sound:7biey7947yx7iz074op63ck7x_fe.mp3]	fe	1					katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+フォ	[sound:7biey7947yx7iz074op63ck7x_fo.mp3]	fo	1					katakana special foreign gojuon_sp seion_sp h_series_sp f_series_sp f_series_x
+ヴャ		vya	1					katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+ヴュ		vyu	1					katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+ヴョ		vyo	1					katakana special foreign yoon_dakuon_sp a_series_sp v_series v_series_x vy_series vy_series_x
+テュ		tyu	1					katakana special foreign yoon_sp t_series_sp ty_series ty_series_x
+デュ	[sound:7biey7947yx7iz074op63ck7x_dyu.mp3]	dyu (foreign/loan sound)	1					katakana special foreign yoon_dakuon_sp t_series_sp ty_series ty_series_x
+フュ		fyu	1					katakana special foreign yoon_sp h_series_sp f_series_sp f_series_x fy_series fy_series_x
+スァ		swa	1					katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スィ		"swi, Si"	1					katakana special foreign gojuon_sp seion_sp s_series_sp s_series_x sw_series sw_series_x
+スゥ		swu	1					katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スェ		swe	1					katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+スォ		swo	1					katakana special foreign gojuon_sp seion_sp s_series_sp sw_series sw_series_x
+ズァ		zwa	1					katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズィ		"zwi, zi"	1					katakana special foreign dakuon_sp s_series_sp z_series_x zw_series zw_series_x
+ズゥ		zwu	1					katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズェ		zwe	1					katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x
+ズォ		zwo	1					katakana special foreign dakuon_sp s_series_sp zw_series zw_series_x

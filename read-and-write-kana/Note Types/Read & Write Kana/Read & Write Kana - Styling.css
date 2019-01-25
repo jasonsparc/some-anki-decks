@@ -10,8 +10,10 @@ html, body, #content { margin: 0; padding: 0; }
 
 #romaji-panel .show { display: none; }
 #romaji-panel .hide { display: initial; }
+#romaji-panel .hide.block { display: block; }
 
 #romaji-panel.show .show { display: initial; }
+#romaji-panel.show .show.block { display: block; }
 #romaji-panel.show .hide { display: none; }
 
 hr {

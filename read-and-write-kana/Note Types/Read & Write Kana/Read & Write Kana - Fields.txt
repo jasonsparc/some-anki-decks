@@ -2,6 +2,7 @@ Kana
 Recording
 Romaji
 Show Romaji by Default
+Romaji Extra
 Writing Tip
 Writing Tip Illustration
 Reading Tip

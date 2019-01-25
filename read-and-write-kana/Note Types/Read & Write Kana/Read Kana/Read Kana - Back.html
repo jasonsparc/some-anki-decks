@@ -14,7 +14,12 @@
 
 <div id="romaji-panel">
 	<button onclick="toggleRomaji()"><span class="hide">SHOW</span><span class="show">HIDE</span> ROMAJI</button>
-	<p><span class="show">{{Romaji}}</span></p>
+	<div style="margin:1em">
+		<div class="show block">
+			{{Romaji}}
+			{{#Romaji Extra}}<br>{{Romaji Extra}}{{/Romaji Extra}}
+		</div>
+	</div>
 </div>
 
 <br />
