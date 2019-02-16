@@ -89,7 +89,9 @@ This ensures that the card is marked empty if there isn't a tone file.
 
 <script>
 var isBack = !!document.getElementById("back");
-var buttons = document.getElementsByTagName("button");
+var buttons = document.querySelectorAll
+	? document.querySelectorAll(".tones button")
+	: document.getElementsByTagName("button")
 var hasAccidentals = toneNumber.charAt(0) == "#" || toneNumber.charAt(0) == "b"
 
 if (!useChromatics) {
