@@ -1,7 +1,13 @@
 <div id=back>{{FrontSide}}</div>
 <hr>
 
-<p class=if-audio><button style="font-size: 15px; padding: 0px 12px" onclick="playResolution()">Play Resolution</button></p>
+<p class=if-audio>
+	<button
+		onclick="playResolution()"
+		style="font-size: 15px; padding: 0px 12px"
+		title="Press 'Q'"
+	>Play Resolution</button>
+</p>
 
 <small class=color><small>Context:</small>
 {{^Is Minor}}{{Card}} Major{{/Is Minor}}{{#Is Minor}}{{Card}} Minor{{/Is Minor}}, {{Octave}}
@@ -40,6 +46,30 @@ if (window.Audio != undefined) {
 			resolution.forEach(function(a,i) { if (i) schedTone(a,i); });
 		};
 		schedTone(a, 0);
+	}
+
+	// Convenient shortcut keys
+	document.onkeydown = function(e) {
+		keyCheck: {
+			// The '~' key
+			if (e.key == '`' || e.key == '~')
+				break keyCheck;
+			// The 'Q' key
+			if (e.key == 'q' || e.key == 'Q')
+				break keyCheck;
+			// The 'W' key
+			if (e.key == 'w' || e.key == 'W')
+				break keyCheck;
+			// CTRL+Space || SHIFT+Space || CTRL+SHIFT+Space
+			// …but handle only if no other modifier keys held.
+			if (e.key == ' ' && (e.ctrlKey || e.shiftKey) && !(e.altKey || e.metaKey))
+				break keyCheck;
+			// Key binding not found.
+			return;
+		}
+		e.preventDefault()
+		if (document.getElementById("back"))
+			playResolution()
 	}
 }
 </script>
