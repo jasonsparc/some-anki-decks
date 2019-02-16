@@ -66,4 +66,13 @@ button:not(:disabled):active { background-color: #455A64; }
 	background-color: #388E3C;
 }
 
+hr {
+	border: 0; 
+	height: 1px; 
+	background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
 @font-face { font-family: myfont; src: url('_roboto.ttf'); }
