@@ -1,0 +1,3 @@
+Stamped Review ID (for sorting only)
+Stamps (prefix each with a cloze deletion of '+')
+Context (e.g., book name, article title, etc.)

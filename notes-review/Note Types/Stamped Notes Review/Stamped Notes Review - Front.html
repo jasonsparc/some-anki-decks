@@ -3,9 +3,16 @@
 
 <div class="padded">
 
-<div class="deck-label"><small>In deck: </small>{{Subdeck}}</div>
+<div class="deck-label">
+	<small>In deck: </small>{{Subdeck}}
+	{{#Context (e.g., book name, article title, etc.)}}
+	<div class="context-label">
+		<small>Context: </small>{{Context (e.g., book name, article title, etc.)}}
+	</div>
+	{{/Context (e.g., book name, article title, etc.)}}
+</div>
 
-<h4 class="review-label">Tag<small> / Serial / ID</small></h4>
+<h4 class="review-label">Stamp<small> / Serial / ID</small></h4>
 <p><input id="copyfield" class="copyfield" type="text" onclick="selectAllAndCopy(event.target)" readonly />
 <p class="tip"><b>Tip #1:</b> Clicking will <i>copy</i> to clipboard (automatically)</p>
 <p class="tip"><b>Tip #2:</b> Try double-clickling anywhere</p>
@@ -14,11 +21,18 @@
 
 <br>
 
+<div id="clozeStamps" style="display:none">{{cloze:Stamps (prefix each with a cloze deletion of '+')}}</div>
+
 <script>
 (function() {
-	var field = document.getElementById("copyfield")
-	var value = "{{text:Tag/Serial/ID #______}}"
-	field.size = value.length
+	let field = document.getElementById("copyfield")
+	let value = ""
+
+	let c = document.getElementById("clozeStamps").querySelector(".cloze")
+	if (c && (c = c.nextSibling) && (c = c.textContent))
+		value = c.split("+")[0].trim()
+
+	field.size = Math.max(value.length, 4)
 	field.value = value
 
 	document.ondblclick = function(e) {
