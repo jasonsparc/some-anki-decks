@@ -28,19 +28,19 @@
 <br />
 
 <script>
-	var romajiPanel = document.getElementById("romaji-panel")
-
 	var showRomajiRequested = "{{text:Show Romaji by Default}}".trim()
 	showRomajiRequested = isNaN(showRomajiRequested)
 			? showRomajiRequested != "false" || showRomajiRequested != ""
 			: (showRomajiRequested|0) != 0
 
 	if (showRomajiRequested) {
-		romajiPanel.classList.add("show")
+		document.getElementById("romaji-panel").classList.add("show")
 	}
 
 	function toggleRomaji() {
-		romajiPanel.classList.toggle("show")
+		var el = document.getElementById("romaji-panel")
+		// Safety net against misbounds from previously shown cards
+		if (el) el.classList.toggle("show")
 	}
 
 	// Convenient shortcut keys
