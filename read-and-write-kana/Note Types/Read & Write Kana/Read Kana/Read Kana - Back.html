@@ -13,7 +13,10 @@
 </p>
 
 <div id="romaji-panel">
-	<button onclick="toggleRomaji()"><span class="hide">Show</span><span class="show">Hide</span> Romaji</button>
+	<button
+		onclick="toggleRomaji()"
+		title="Press 'S'"
+	><span class="hide">Show</span><span class="show">Hide</span> Romaji</button>
 	<div style="margin:1em">
 		<div class="show block">
 			{{Romaji}}
@@ -38,6 +41,36 @@
 
 	function toggleRomaji() {
 		romajiPanel.classList.toggle("show")
+	}
+
+	// Convenient shortcut keys
+	document.onkeydown = function(e) {
+		switch (e.key) {
+		// The '~' key
+		case '`': case '~':
+		// The 'Q' key
+		case 'q': case 'Q':
+		// The 'W' key
+		case 'w': case 'W':
+		// The 'S' key
+		case 's': case 'S':
+			// Handle only if no other modifier keys are held except SHIFT
+			if (!e.ctrlKey && !e.altKey && !e.metaKey) {
+				break
+			} else
+				return
+		// CTRL+Space || CTRL+SHIFT+Space
+		// …but handle only if no other modifier keys held
+		case ' ':
+			if (e.ctrlKey && !e.altKey && !e.metaKey) {
+				break
+			} // else, fall-through
+		default:
+			// Key binding not found.
+			return
+		}
+		e.preventDefault()
+		toggleRomaji()
 	}
 </script>
 
