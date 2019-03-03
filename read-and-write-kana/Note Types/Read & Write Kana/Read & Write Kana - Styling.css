@@ -3,6 +3,7 @@ html, body, #content { margin: 0; padding: 0; }
 .card {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 20px;
+	line-height: 1.5;
 	text-align: center;
 	color: rgba(0,0,0,0.87);
 	background-color: #FFF;

@@ -1,6 +1,7 @@
 .card {
 	font-family: myfont, roboto, calibri, arial;
 	font-size: 20px;
+	line-height: 1.5;
 	text-align: center;
 	color: #263238;
 	background-color: #fff;
