@@ -1,0 +1,118 @@
+<script>
+var makeContent = (i) => [`${i + g} − ${g}`, i]
+var MAX_ORDINAL = 10
+</script>
+
+<div id="container"></div>
+
+<div id="template">
+	<div class="arith arith-extra faded cloze last">
+		<span class="arith-q"></span> = <span class="arith-a"></span>
+	</div>
+	<div class="arith arith-item">
+		<span class="arith-q"></span> = <b class="arith-a ans cloze"
+			title="Press 'A' or 'D'"><span class="hint">?</span></b>
+	</div>
+</div>
+
+<div id="fields">
+	<div data-var=g>{{text:Group}}</div>
+	<div data-var=s>{{text:Ordinal Start}}</div>
+	<div data-var=e>{{text:Ordinal End}}</div>
+</div>
+
+<script>
+/** SCOPE BEGIN **/ (() => {
+
+document.querySelectorAll("#fields div[data-var]")
+	.forEach(e => window[e.dataset.var] = parseInt(e.textContent) || 0)
+
+function makeItem(i, template) {
+	var [q, a] = makeContent(i)
+	var el = template.cloneNode(true)
+	el.querySelector(".arith-q").insertAdjacentHTML('beforeend', q)
+	el.querySelector(".arith-a").insertAdjacentHTML('beforeend', a)
+	return el
+}
+
+var extra = document.querySelector("#template>.arith-extra")
+var item = document.querySelector("#template>.arith-item")
+
+var container = document.getElementById("container")
+if (s > 0) {
+	container.appendChild(makeItem(s - 1, extra))
+}
+
+//{{^Ordinal End}}
+container.appendChild(makeItem(s, item))
+//{{/Ordinal End}}
+
+//{{#Ordinal End}}
+for (let i = s; i <= e; i++) {
+	container.appendChild(makeItem(i, item))
+}
+if (e < MAX_ORDINAL) {
+	container.appendChild(makeItem(e + 1, extra))
+}
+//{{/Ordinal End}}
+
+/** SCOPE END **/ })()
+
+// ---
+
+{
+	let excl = new Set(document.querySelectorAll(".cloze-p .cloze"))
+	document.querySelectorAll(".cloze-p, .cloze").forEach(el => {
+		if (excl.has(el)) return
+		el.ondblclick = ev => toggleCloze(el, undefined, ev)
+		el.onmousedown = ev => preventDblClickSelect(ev)
+	})
+}
+
+document.onkeydown = function(e) {
+	// Handle only if no other modifier keys are held except SHIFT
+	if (e.ctrlKey || e.altKey || e.metaKey) {
+		return
+	}
+	switch (e.key) {
+		case 'q': case 'Q':
+		case 'a': case 'A': {
+			e.preventDefault()
+			let q = document.querySelectorAll("#container .cloze.revealed.last")
+			if (!q.length)
+				q = document.querySelectorAll("#container .cloze.revealed")
+			q = q[q.length-1]
+			if (q) toggleCloze(q.closest(".cloze-p") || q, false)
+			break
+		}
+		case 'w': case 'W':
+		case 'd': case 'D': {
+			e.preventDefault()
+			let q = document.querySelector("#container .cloze:not(.revealed):not(.last)")
+			if (!q) q = document.querySelector("#container .cloze:not(.revealed)")
+			if (q) toggleCloze(q.closest(".cloze-p") || q, true)
+			break
+		}
+	}
+}
+
+function toggleCloze(el, force, ev) {
+	if (!el) return
+	if (ev) {
+		if (ev.ctrlKey) return
+		ev.preventDefault()
+	}
+	if (el.classList.contains("cloze"))
+		el.classList.toggle("revealed", force)
+	if (el.classList.contains("cloze-p"))
+		el.querySelectorAll(".cloze")
+			.forEach(cel => cel.classList.toggle("revealed", force))
+}
+
+function preventDblClickSelect(e) {
+	// Prevents double click selection
+	// See, https://stackoverflow.com/a/43321596/1906724
+	if (e.detail > 1 && !e.ctrlKey)
+		e.preventDefault()
+}
+</script>

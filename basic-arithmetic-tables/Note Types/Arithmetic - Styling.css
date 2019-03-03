@@ -1,0 +1,106 @@
+html, body, #content { margin: 0; padding: 0; }
+
+* { box-sizing: border-box; }
+
+.card {
+	font-family: "Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: center;
+
+	background-color: #FFF;
+	color: rgba(0,0,0,0.87);
+}
+
+/* Auxiliary Styles */
+
+.cloze { cursor: default; }
+.cloze[title] { cursor: help; }
+.cloze:not(.revealed) {
+	visibility: hidden;
+	position: relative;
+	letter-spacing: -1em;
+}
+.cloze:not(.revealed)::before /* -- mechanism to still allow clicking */ {
+	visibility: visible;
+	position: absolute;
+	left: 0; top: 0; right: 0; bottom: 0;
+	display: inline-block;
+	content: ' ';
+}
+.cloze .hint {
+	visibility: visible;
+	letter-spacing: normal;
+}
+.cloze:not(.revealed)>*:not(.hint):not(.excl),
+.cloze:not(.revealed) .excl>*:not(.hint):not(.excl) { display: none; }
+.cloze.revealed .hint { display: none; }
+
+.faded { opacity: 0.33; }
+.faded-l { opacity: 0.6; }
+
+.pale { color: rgba(0,0,0,0.6); }
+
+.ans { color: #01579B; }
+
+.sublabel { font-size: 90%; }
+.sublabel-s { font-size: 80%; }
+
+.gone { display: none !important; }
+.hidden { visibility: hidden !important; }
+
+/* Main Content */
+
+#template, #fields { display: none; }
+
+#container { padding: 1em .5em; }
+
+.arith { margin: .5em 0; }
+
+.arith-q, .arith-a {
+	display: inline-block;
+	min-width: 7em;
+	text-align: left;
+}
+.arith-q {
+	text-align: right;
+}
+
+#skipco-mul-title { margin-top: 1em; }
+#skipco-off-title { margin-top: .5em; }
+
+.skipco-intro-br {
+	content: " ";
+	display: block;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+	height: 4em;
+	min-height: 1.5em;
+	max-height: 20vh;
+}
+
+.skipco-seq {
+	display: inline-grid;
+	grid-template-columns: repeat(7, auto);
+}
+
+.skipco {
+	display: inline-block;
+	min-width: 4ch;
+	margin: 0 .1ch 1em;
+}
+.skipco-delim {
+	position: absolute;
+	user-select: none;
+}
+.skipco:last-child .skipco-delim {
+	display: none;
+}
+.skipco-rn {
+	font-size: 65%;
+	opacity: 0.8;
+}
+.faded .skipco-rn, .faded-l .skipco-rn {
+	opacity: 1;
+}

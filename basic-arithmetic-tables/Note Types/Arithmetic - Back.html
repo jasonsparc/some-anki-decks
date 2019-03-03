@@ -1,0 +1,13 @@
+<div id="answer">
+
+{{FrontSide}}
+
+</div>
+
+<script>
+document.querySelectorAll("#container .cloze").forEach(e => {
+	toggleCloze(e, true)
+	e.removeAttribute("title")
+})
+toggleCloze = () => {} // Disables cloze toggling
+</script>
