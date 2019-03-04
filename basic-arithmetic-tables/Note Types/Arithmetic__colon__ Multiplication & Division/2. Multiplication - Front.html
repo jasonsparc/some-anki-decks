@@ -57,6 +57,38 @@ if (e < MAX_ORDINAL) {
 }
 //{{/Ordinal End}}
 
+// ---
+// HACK: Align the left and right sides against the equals sign, without
+// making one side look misaligned (when instead done via CSS alone).
+{
+	// 1. Hide the container, to avoid visual artifacts caused by the hack
+	container.style.opacity = "0"
+
+	// 2. Temporarily display all hidden cloze elements
+	let wasHidden = container.querySelectorAll(".cloze:not(.revealed):not(.excl)")
+	wasHidden.forEach(e => e.classList.add("excl"))
+
+	// 3. Compute the max widths for both sides when ready
+	let correctWidths = selector => {
+		let maxWidth = 0, sel = container.querySelectorAll(selector)
+		sel.forEach(e => { if (e.offsetWidth > maxWidth) maxWidth = e.offsetWidth })
+
+		// 4. Use the max widths as the width of all elements for both sides
+		sel.forEach(e => e.style.minWidth = `calc(${maxWidth}px + 2ch)`)
+		// NOTE: Added a slight leeway in case of shortcomings
+	}
+
+	setTimeout(() => {
+		correctWidths(".arith-q")
+		correctWidths(".arith-a")
+
+		// 5. Re-hide temporarily displayed hidden elements
+		wasHidden.forEach(e => e.classList.remove("excl"))
+		// 6. Re-display temporarily concealed container
+		container.style.opacity = "1"
+	}, 0)
+}
+
 /** SCOPE END **/ })()
 
 // ---

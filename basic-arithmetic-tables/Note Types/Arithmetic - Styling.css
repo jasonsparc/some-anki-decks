@@ -16,12 +16,12 @@ html, body, #content { margin: 0; padding: 0; }
 
 .cloze { cursor: default; }
 .cloze[title] { cursor: help; }
-.cloze:not(.revealed) {
+.cloze:not(.revealed):not(.excl) {
 	visibility: hidden;
 	position: relative;
 	letter-spacing: -1em;
 }
-.cloze:not(.revealed)::before /* -- mechanism to still allow clicking */ {
+.cloze:not(.revealed):not(.excl)::before /* -- mechanism to still allow clicking */ {
 	visibility: visible;
 	position: absolute;
 	left: 0; top: 0; right: 0; bottom: 0;
@@ -32,9 +32,9 @@ html, body, #content { margin: 0; padding: 0; }
 	visibility: visible;
 	letter-spacing: normal;
 }
-.cloze:not(.revealed)>*:not(.hint):not(.excl),
-.cloze:not(.revealed) .excl>*:not(.hint):not(.excl) { display: none; }
-.cloze.revealed .hint { display: none; }
+.cloze:not(.revealed):not(.excl)>*:not(.hint):not(.excl),
+.cloze:not(.revealed):not(.excl) .excl>*:not(.hint):not(.excl) { display: none; }
+.cloze.revealed .hint, .cloze.excl .hint { display: none; }
 
 .faded { opacity: 0.33; }
 .faded-l { opacity: 0.6; }
@@ -59,7 +59,7 @@ html, body, #content { margin: 0; padding: 0; }
 
 .arith-q, .arith-a {
 	display: inline-block;
-	min-width: 7em;
+	/*min-width: 7em;*/
 	text-align: left;
 }
 .arith-q {
