@@ -6,7 +6,7 @@
 	</div>
 	<div class="arith arith-item">
 		<span class="arith-q"></span> = <b class="arith-a ans cloze"
-			title="Press 'A' or 'D'"><span class="hint">?</span></b>
+			title="Press 'Q' or 'W'"><span class="hint">?</span></b>
 	</div>
 </div>
 
@@ -28,7 +28,7 @@
 		<div class="skipco-seq"></div>
 	</div>
 	<div class="skipco skipco-item cloze-p"
-			title="Press 'A' or 'D'">
+			title="Press 'Q' or 'W'">
 		<div class="skipco-rv">
 			<b class="skipco-v cloze ans"><span class="hint">&hellip;</span></b><span class="skipco-delim">&hairsp;,</span>
 		</div>
@@ -353,8 +353,7 @@ document.onkeydown = function(e) {
 		return
 	}
 	switch (e.key) {
-		case 'q': case 'Q':
-		case 'a': case 'A': {
+		case 'q': case 'Q': {
 			e.preventDefault()
 			let q = container.querySelectorAll(".cloze.revealed.last")
 			if (!q.length)
@@ -363,8 +362,7 @@ document.onkeydown = function(e) {
 			if (q) toggleCloze(q.closest(".cloze-p") || q, false)
 			break
 		}
-		case 'w': case 'W':
-		case 'd': case 'D': {
+		case 'w': case 'W': {
 			e.preventDefault()
 			let q = container.querySelector(".cloze:not(.revealed):not(.last)")
 			if (!q) q = container.querySelector(".cloze:not(.revealed)")
