@@ -15,7 +15,7 @@
 <div id="romaji-panel">
 	<button
 		onclick="toggleRomaji()"
-		title="Press 'S'"
+		title="Press 'Q'"
 	><span class="hide">Show</span><span class="show">Hide</span> Romaji</button>
 	<div style="margin:1em">
 		<div class="show block">
@@ -52,8 +52,6 @@
 		case 'q': case 'Q':
 		// The 'W' key
 		case 'w': case 'W':
-		// The 'S' key
-		case 's': case 'S':
 			// Handle only if no other modifier keys are held except SHIFT
 			if (!e.ctrlKey && !e.altKey && !e.metaKey) {
 				break
