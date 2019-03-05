@@ -1,0 +1,221 @@
+﻿	Operation	Group	Group Offset	Ordinal Start	Ordinal End	Terminal End	Default Due	Tags	Op Index		Configs	Value
+												
+arith_add_g01_00_o01_02	Addition	1		1	2	10	1	o01_to_04 o01_to_05	1		Per Group Due	10
+arith_add_g01_00_o02_03	Addition	1		2	3	10	2	o01_to_04 o01_to_05	1		Max Ordinal	10
+arith_add_g01_00_o03_04	Addition	1		3	4	10	3	o01_to_04 o01_to_05	1			
+arith_add_g01_00_o04_05	Addition	1		4	5	10	4	o01_to_04 o01_to_05 o04_to_07	1		Operations	Serial
+arith_add_g01_00_o05_06	Addition	1		5	6	10	5	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1		Addition	add
+arith_add_g01_00_o06_07	Addition	1		6	7	10	6	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1		Subtraction	sub
+arith_add_g01_00_o07_08	Addition	1		7	8	10	7	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g01_00_o08_09	Addition	1		8	9	10	8	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g01_00_o09_10	Addition	1		9	10	10	9	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g01_00_o10	Addition	1		10		10	10	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+		-	-	-	-	-						
+arith_add_g02_00_o01_02	Addition	2	0	1	2	10	11	o01_to_04 o01_to_05	1			
+arith_add_g02_00_o02_03	Addition	2	0	2	3	10	12	o01_to_04 o01_to_05	1			
+arith_add_g02_00_o03_04	Addition	2	0	3	4	10	13	o01_to_04 o01_to_05	1			
+arith_add_g02_00_o04_05	Addition	2	0	4	5	10	14	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g02_00_o05_06	Addition	2	0	5	6	10	15	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g02_00_o06_07	Addition	2	0	6	7	10	16	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g02_00_o07_08	Addition	2	0	7	8	10	17	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g02_00_o08_09	Addition	2	0	8	9	10	18	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g02_00_o09_10	Addition	2	0	9	10	10	19	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g02_00_o10	Addition	2	0	10		10	20	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g03_00_o01_02	Addition	3	0	1	2	10	21	o01_to_04 o01_to_05	1			
+arith_add_g03_00_o02_03	Addition	3	0	2	3	10	22	o01_to_04 o01_to_05	1			
+arith_add_g03_00_o03_04	Addition	3	0	3	4	10	23	o01_to_04 o01_to_05	1			
+arith_add_g03_00_o04_05	Addition	3	0	4	5	10	24	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g03_00_o05_06	Addition	3	0	5	6	10	25	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g03_00_o06_07	Addition	3	0	6	7	10	26	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g03_00_o07_08	Addition	3	0	7	8	10	27	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g03_00_o08_09	Addition	3	0	8	9	10	28	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g03_00_o09_10	Addition	3	0	9	10	10	29	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g03_00_o10	Addition	3	0	10		10	30	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g04_00_o01_02	Addition	4	0	1	2	10	31	o01_to_04 o01_to_05	1			
+arith_add_g04_00_o02_03	Addition	4	0	2	3	10	32	o01_to_04 o01_to_05	1			
+arith_add_g04_00_o03_04	Addition	4	0	3	4	10	33	o01_to_04 o01_to_05	1			
+arith_add_g04_00_o04_05	Addition	4	0	4	5	10	34	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g04_00_o05_06	Addition	4	0	5	6	10	35	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g04_00_o06_07	Addition	4	0	6	7	10	36	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g04_00_o07_08	Addition	4	0	7	8	10	37	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g04_00_o08_09	Addition	4	0	8	9	10	38	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g04_00_o09_10	Addition	4	0	9	10	10	39	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g04_00_o10	Addition	4	0	10		10	40	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g05_00_o01_02	Addition	5	0	1	2	10	41	o01_to_04 o01_to_05	1			
+arith_add_g05_00_o02_03	Addition	5	0	2	3	10	42	o01_to_04 o01_to_05	1			
+arith_add_g05_00_o03_04	Addition	5	0	3	4	10	43	o01_to_04 o01_to_05	1			
+arith_add_g05_00_o04_05	Addition	5	0	4	5	10	44	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g05_00_o05_06	Addition	5	0	5	6	10	45	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g05_00_o06_07	Addition	5	0	6	7	10	46	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g05_00_o07_08	Addition	5	0	7	8	10	47	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g05_00_o08_09	Addition	5	0	8	9	10	48	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g05_00_o09_10	Addition	5	0	9	10	10	49	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g05_00_o10	Addition	5	0	10		10	50	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g06_00_o01_02	Addition	6	0	1	2	10	51	o01_to_04 o01_to_05	1			
+arith_add_g06_00_o02_03	Addition	6	0	2	3	10	52	o01_to_04 o01_to_05	1			
+arith_add_g06_00_o03_04	Addition	6	0	3	4	10	53	o01_to_04 o01_to_05	1			
+arith_add_g06_00_o04_05	Addition	6	0	4	5	10	54	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g06_00_o05_06	Addition	6	0	5	6	10	55	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g06_00_o06_07	Addition	6	0	6	7	10	56	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g06_00_o07_08	Addition	6	0	7	8	10	57	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g06_00_o08_09	Addition	6	0	8	9	10	58	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g06_00_o09_10	Addition	6	0	9	10	10	59	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g06_00_o10	Addition	6	0	10		10	60	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g07_00_o01_02	Addition	7	0	1	2	10	61	o01_to_04 o01_to_05	1			
+arith_add_g07_00_o02_03	Addition	7	0	2	3	10	62	o01_to_04 o01_to_05	1			
+arith_add_g07_00_o03_04	Addition	7	0	3	4	10	63	o01_to_04 o01_to_05	1			
+arith_add_g07_00_o04_05	Addition	7	0	4	5	10	64	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g07_00_o05_06	Addition	7	0	5	6	10	65	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g07_00_o06_07	Addition	7	0	6	7	10	66	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g07_00_o07_08	Addition	7	0	7	8	10	67	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g07_00_o08_09	Addition	7	0	8	9	10	68	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g07_00_o09_10	Addition	7	0	9	10	10	69	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g07_00_o10	Addition	7	0	10		10	70	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g08_00_o01_02	Addition	8	0	1	2	10	71	o01_to_04 o01_to_05	1			
+arith_add_g08_00_o02_03	Addition	8	0	2	3	10	72	o01_to_04 o01_to_05	1			
+arith_add_g08_00_o03_04	Addition	8	0	3	4	10	73	o01_to_04 o01_to_05	1			
+arith_add_g08_00_o04_05	Addition	8	0	4	5	10	74	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g08_00_o05_06	Addition	8	0	5	6	10	75	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g08_00_o06_07	Addition	8	0	6	7	10	76	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g08_00_o07_08	Addition	8	0	7	8	10	77	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g08_00_o08_09	Addition	8	0	8	9	10	78	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g08_00_o09_10	Addition	8	0	9	10	10	79	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g08_00_o10	Addition	8	0	10		10	80	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g09_00_o01_02	Addition	9	0	1	2	10	81	o01_to_04 o01_to_05	1			
+arith_add_g09_00_o02_03	Addition	9	0	2	3	10	82	o01_to_04 o01_to_05	1			
+arith_add_g09_00_o03_04	Addition	9	0	3	4	10	83	o01_to_04 o01_to_05	1			
+arith_add_g09_00_o04_05	Addition	9	0	4	5	10	84	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g09_00_o05_06	Addition	9	0	5	6	10	85	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g09_00_o06_07	Addition	9	0	6	7	10	86	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g09_00_o07_08	Addition	9	0	7	8	10	87	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g09_00_o08_09	Addition	9	0	8	9	10	88	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g09_00_o09_10	Addition	9	0	9	10	10	89	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g09_00_o10	Addition	9	0	10		10	90	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_add_g10_00_o01_02	Addition	10	0	1	2	10	91	o01_to_04 o01_to_05	1			
+arith_add_g10_00_o02_03	Addition	10	0	2	3	10	92	o01_to_04 o01_to_05	1			
+arith_add_g10_00_o03_04	Addition	10	0	3	4	10	93	o01_to_04 o01_to_05	1			
+arith_add_g10_00_o04_05	Addition	10	0	4	5	10	94	o01_to_04 o01_to_05 o04_to_07	1			
+arith_add_g10_00_o05_06	Addition	10	0	5	6	10	95	o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			
+arith_add_g10_00_o06_07	Addition	10	0	6	7	10	96	o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			
+arith_add_g10_00_o07_08	Addition	10	0	7	8	10	97	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			
+arith_add_g10_00_o08_09	Addition	10	0	8	9	10	98	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g10_00_o09_10	Addition	10	0	9	10	10	99	o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			
+arith_add_g10_00_o10	Addition	10	0	10		10	100	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	1			
+												
+arith_sub_g01_00_o01_02	Subtraction	1	0	1	2	10	101	o01_to_04 o01_to_05	2			
+arith_sub_g01_00_o02_03	Subtraction	1	0	2	3	10	102	o01_to_04 o01_to_05	2			
+arith_sub_g01_00_o03_04	Subtraction	1	0	3	4	10	103	o01_to_04 o01_to_05	2			
+arith_sub_g01_00_o04_05	Subtraction	1	0	4	5	10	104	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g01_00_o05_06	Subtraction	1	0	5	6	10	105	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g01_00_o06_07	Subtraction	1	0	6	7	10	106	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g01_00_o07_08	Subtraction	1	0	7	8	10	107	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g01_00_o08_09	Subtraction	1	0	8	9	10	108	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g01_00_o09_10	Subtraction	1	0	9	10	10	109	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g01_00_o10	Subtraction	1	0	10		10	110	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g02_00_o01_02	Subtraction	2	0	1	2	10	111	o01_to_04 o01_to_05	2			
+arith_sub_g02_00_o02_03	Subtraction	2	0	2	3	10	112	o01_to_04 o01_to_05	2			
+arith_sub_g02_00_o03_04	Subtraction	2	0	3	4	10	113	o01_to_04 o01_to_05	2			
+arith_sub_g02_00_o04_05	Subtraction	2	0	4	5	10	114	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g02_00_o05_06	Subtraction	2	0	5	6	10	115	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g02_00_o06_07	Subtraction	2	0	6	7	10	116	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g02_00_o07_08	Subtraction	2	0	7	8	10	117	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g02_00_o08_09	Subtraction	2	0	8	9	10	118	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g02_00_o09_10	Subtraction	2	0	9	10	10	119	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g02_00_o10	Subtraction	2	0	10		10	120	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g03_00_o01_02	Subtraction	3	0	1	2	10	121	o01_to_04 o01_to_05	2			
+arith_sub_g03_00_o02_03	Subtraction	3	0	2	3	10	122	o01_to_04 o01_to_05	2			
+arith_sub_g03_00_o03_04	Subtraction	3	0	3	4	10	123	o01_to_04 o01_to_05	2			
+arith_sub_g03_00_o04_05	Subtraction	3	0	4	5	10	124	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g03_00_o05_06	Subtraction	3	0	5	6	10	125	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g03_00_o06_07	Subtraction	3	0	6	7	10	126	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g03_00_o07_08	Subtraction	3	0	7	8	10	127	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g03_00_o08_09	Subtraction	3	0	8	9	10	128	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g03_00_o09_10	Subtraction	3	0	9	10	10	129	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g03_00_o10	Subtraction	3	0	10		10	130	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g04_00_o01_02	Subtraction	4	0	1	2	10	131	o01_to_04 o01_to_05	2			
+arith_sub_g04_00_o02_03	Subtraction	4	0	2	3	10	132	o01_to_04 o01_to_05	2			
+arith_sub_g04_00_o03_04	Subtraction	4	0	3	4	10	133	o01_to_04 o01_to_05	2			
+arith_sub_g04_00_o04_05	Subtraction	4	0	4	5	10	134	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g04_00_o05_06	Subtraction	4	0	5	6	10	135	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g04_00_o06_07	Subtraction	4	0	6	7	10	136	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g04_00_o07_08	Subtraction	4	0	7	8	10	137	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g04_00_o08_09	Subtraction	4	0	8	9	10	138	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g04_00_o09_10	Subtraction	4	0	9	10	10	139	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g04_00_o10	Subtraction	4	0	10		10	140	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g05_00_o01_02	Subtraction	5	0	1	2	10	141	o01_to_04 o01_to_05	2			
+arith_sub_g05_00_o02_03	Subtraction	5	0	2	3	10	142	o01_to_04 o01_to_05	2			
+arith_sub_g05_00_o03_04	Subtraction	5	0	3	4	10	143	o01_to_04 o01_to_05	2			
+arith_sub_g05_00_o04_05	Subtraction	5	0	4	5	10	144	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g05_00_o05_06	Subtraction	5	0	5	6	10	145	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g05_00_o06_07	Subtraction	5	0	6	7	10	146	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g05_00_o07_08	Subtraction	5	0	7	8	10	147	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g05_00_o08_09	Subtraction	5	0	8	9	10	148	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g05_00_o09_10	Subtraction	5	0	9	10	10	149	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g05_00_o10	Subtraction	5	0	10		10	150	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g06_00_o01_02	Subtraction	6	0	1	2	10	151	o01_to_04 o01_to_05	2			
+arith_sub_g06_00_o02_03	Subtraction	6	0	2	3	10	152	o01_to_04 o01_to_05	2			
+arith_sub_g06_00_o03_04	Subtraction	6	0	3	4	10	153	o01_to_04 o01_to_05	2			
+arith_sub_g06_00_o04_05	Subtraction	6	0	4	5	10	154	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g06_00_o05_06	Subtraction	6	0	5	6	10	155	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g06_00_o06_07	Subtraction	6	0	6	7	10	156	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g06_00_o07_08	Subtraction	6	0	7	8	10	157	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g06_00_o08_09	Subtraction	6	0	8	9	10	158	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g06_00_o09_10	Subtraction	6	0	9	10	10	159	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g06_00_o10	Subtraction	6	0	10		10	160	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g07_00_o01_02	Subtraction	7	0	1	2	10	161	o01_to_04 o01_to_05	2			
+arith_sub_g07_00_o02_03	Subtraction	7	0	2	3	10	162	o01_to_04 o01_to_05	2			
+arith_sub_g07_00_o03_04	Subtraction	7	0	3	4	10	163	o01_to_04 o01_to_05	2			
+arith_sub_g07_00_o04_05	Subtraction	7	0	4	5	10	164	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g07_00_o05_06	Subtraction	7	0	5	6	10	165	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g07_00_o06_07	Subtraction	7	0	6	7	10	166	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g07_00_o07_08	Subtraction	7	0	7	8	10	167	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g07_00_o08_09	Subtraction	7	0	8	9	10	168	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g07_00_o09_10	Subtraction	7	0	9	10	10	169	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g07_00_o10	Subtraction	7	0	10		10	170	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g08_00_o01_02	Subtraction	8	0	1	2	10	171	o01_to_04 o01_to_05	2			
+arith_sub_g08_00_o02_03	Subtraction	8	0	2	3	10	172	o01_to_04 o01_to_05	2			
+arith_sub_g08_00_o03_04	Subtraction	8	0	3	4	10	173	o01_to_04 o01_to_05	2			
+arith_sub_g08_00_o04_05	Subtraction	8	0	4	5	10	174	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g08_00_o05_06	Subtraction	8	0	5	6	10	175	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g08_00_o06_07	Subtraction	8	0	6	7	10	176	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g08_00_o07_08	Subtraction	8	0	7	8	10	177	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g08_00_o08_09	Subtraction	8	0	8	9	10	178	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g08_00_o09_10	Subtraction	8	0	9	10	10	179	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g08_00_o10	Subtraction	8	0	10		10	180	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g09_00_o01_02	Subtraction	9	0	1	2	10	181	o01_to_04 o01_to_05	2			
+arith_sub_g09_00_o02_03	Subtraction	9	0	2	3	10	182	o01_to_04 o01_to_05	2			
+arith_sub_g09_00_o03_04	Subtraction	9	0	3	4	10	183	o01_to_04 o01_to_05	2			
+arith_sub_g09_00_o04_05	Subtraction	9	0	4	5	10	184	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g09_00_o05_06	Subtraction	9	0	5	6	10	185	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g09_00_o06_07	Subtraction	9	0	6	7	10	186	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g09_00_o07_08	Subtraction	9	0	7	8	10	187	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g09_00_o08_09	Subtraction	9	0	8	9	10	188	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g09_00_o09_10	Subtraction	9	0	9	10	10	189	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g09_00_o10	Subtraction	9	0	10		10	190	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			
+												
+arith_sub_g10_00_o01_02	Subtraction	10	0	1	2	10	191	o01_to_04 o01_to_05	2			
+arith_sub_g10_00_o02_03	Subtraction	10	0	2	3	10	192	o01_to_04 o01_to_05	2			
+arith_sub_g10_00_o03_04	Subtraction	10	0	3	4	10	193	o01_to_04 o01_to_05	2			
+arith_sub_g10_00_o04_05	Subtraction	10	0	4	5	10	194	o01_to_04 o01_to_05 o04_to_07	2			
+arith_sub_g10_00_o05_06	Subtraction	10	0	5	6	10	195	o05_to_07 o01_to_05 o04_to_07 o05_to_10	2			
+arith_sub_g10_00_o06_07	Subtraction	10	0	6	7	10	196	o05_to_07 o06_to_10 o04_to_07 o05_to_10	2			
+arith_sub_g10_00_o07_08	Subtraction	10	0	7	8	10	197	o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2			
+arith_sub_g10_00_o08_09	Subtraction	10	0	8	9	10	198	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g10_00_o09_10	Subtraction	10	0	9	10	10	199	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2			
+arith_sub_g10_00_o10	Subtraction	10	0	10		10	200	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2			

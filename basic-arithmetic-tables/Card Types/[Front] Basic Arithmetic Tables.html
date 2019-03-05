@@ -1,0 +1,396 @@
+<div id="container"></div>
+
+<div class="template" id="template-arith">
+	<div class="arith arith-extra faded cloze last">
+		<span class="arith-q"></span> = <span class="arith-a"></span>
+	</div>
+	<div class="arith arith-item">
+		<span class="arith-q"></span> = <b class="arith-a ans cloze"
+			title="Press 'A' or 'D'"><span class="hint">?</span></b>
+	</div>
+</div>
+
+<div class="template" id="template-skipco">
+	<div class="skipco-container">
+		<div class="skipco-mul-title pale">Skip Count by <b class="ans">{{text:Group}}</b>'s</div>
+		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden{{/Group Offset}}">
+			Starting at <b>{{text:Group Offset}}</b>
+		</div>
+		<br class="skipco-intro-br">
+		<div class="skipco-seq"></div>
+	</div>
+	<div class="bwskipco-container">
+		<div class="skipco-mul-title pale"><small>Repeatedly</small> subtract <b class="ans">{{text:Group}}</b></div>
+		<div class="skipco-off-title pale sublabel-s {{^Group Offset}}hidden{{/Group Offset}} cloze last">
+			Till <b>{{text:Group Offset}}</b> is reached
+		</div>
+		<br class="skipco-intro-br">
+		<div class="skipco-seq"></div>
+	</div>
+	<div class="skipco skipco-item cloze-p"
+			title="Press 'A' or 'D'">
+		<div class="skipco-rv">
+			<b class="skipco-v cloze ans"><span class="hint">&hellip;</span></b><span class="skipco-delim">&hairsp;,</span>
+		</div>
+		<div class="skipco-rn"><span class="skipco-n"></span></div>
+	</div>
+	<div class="skipco skipco-info">
+		<div class="skipco-rv"><span class="skipco-v"></span><span class="skipco-delim">&hairsp;,</span></div>
+		<div class="skipco-rn"><span class="skipco-n"></span></div>
+	</div>
+	<div class="skipco skipco-empty"></div>
+</div>
+
+<div id="error-op" class="gone" style="font-size:14px; font-family:monospace">
+	<p style="color:darkRed">ERROR!
+	<p>Unsupported "Operation" requested:
+	<p style="color:darkSlateBlue">{{text:Operation}}
+</div>
+
+<div id="fields">
+	<div data-var=op>{{text:Operation}}</div>
+	<div data-var=g data-type=i>{{text:Group}}</div>
+	<div data-var=o data-type=i>{{text:Group Offset}}</div>
+	<div data-var=s data-type=i>{{text:Ordinal Start}}</div>
+	<div data-var=e data-type=i>{{text:Ordinal End}}</div>
+	<div data-var=te data-type=i data-def=10>{{text:Terminal End}}</div>
+</div>
+
+<script>
+var container = document.getElementById("container")
+
+document.querySelectorAll("#fields div[data-var]").forEach(e => {
+	let data = e.dataset, txt = e.textContent || data.def || ''
+	window[data.var] = data.type == "i" ? parseInt(txt) || 0 : txt
+})
+
+if (s < 0) s = 0
+//{{^Ordinal End}}
+e = s
+//{{/Ordinal End}}//{{#Ordinal End}}
+if (e < s) e = s
+	else e = s + Math.min(e - s, 100)
+//{{/Ordinal End}}
+if (te < e) te = e
+
+switch (op.trim().toLowerCase()) {
+	case "+": case "plus":
+	case "add": case "addition":
+		makeArithmeticTest(o
+			? i => [`${i} + ${g} + ${o}`, i+g+o]
+			: i => [`${i} + ${g}`, i+g])
+		break
+	case "-": case "−": case "minus":
+	case "sub": case "subtraction":
+		makeArithmeticTest(o
+			? i => [`${i+g+o} &minus; ${g} &minus; ${o}`, i]
+			: i => [`${i+g} &minus; ${g}`, i])
+		break
+	case "*": case "×": case "times":
+	case "mul": case "multiplication": {
+		makeArithmeticTest(o
+			? i => [`${i} &times; ${g}`+'<span class="pale"> + '+o+'</span>', i*g+o]
+			: i => [`${i} &times; ${g}`, i*g])
+		break
+	}
+	case "/": case "÷": case "divide":
+	case "div": case "division":
+		makeArithmeticTest(o
+			? i => [`${i*g+o} &div; ${g}`, `${i}, r ${o}`]
+			: i => [`${i*g} &div; ${g}`, i])
+		break
+	case "skip": case "skipco":
+	case "skip counting":
+		makeSkipCounting(o
+			? i => [i*g+o, i]
+			: i => [i*g, i])
+		break
+	case "skipb": case "skipcob": case "bskip": case "bskipco":
+	case "skipbw": case "skipcobw": case "bwskip": case "bwskipco":
+	case "skipback": case "skipcoback": case "backskip": case "backskipco":
+	case "skip counting backwards": case "backwards skip counting":
+		makeBackwardsSkipCounting(o
+			? i => [i*g+o, '<br>']
+			: i => [i*g, '<br>'])
+		break
+	default:
+		document.getElementById("error-op").classList.remove("gone")
+		break
+}
+
+function makeArithmeticTest(makeContent) {
+	function makeItem(i, template) {
+		var [q, a] = makeContent(i)
+		var el = template.cloneNode(true)
+		el.querySelector(".arith-q").insertAdjacentHTML('beforeend', q)
+		el.querySelector(".arith-a").insertAdjacentHTML('beforeend', a)
+		return el
+	}
+
+	var templHolder = document.getElementById("template-arith")
+
+	var extra = templHolder.querySelector(".arith-extra")
+	var item = templHolder.querySelector(".arith-item")
+
+	if (s > 0)
+		container.appendChild(makeItem(s - 1, extra))
+
+	//{{^Ordinal End}}
+	container.appendChild(makeItem(s, item))
+	//{{/Ordinal End}}
+
+	//{{#Ordinal End}}
+	for (let i = s; i <= e; i++) {
+		container.appendChild(makeItem(i, item))
+	}
+	if (e < te)
+		container.appendChild(makeItem(e + 1, extra))
+	//{{/Ordinal End}}
+
+	// ---
+	// HACK: Align the left and right sides against the equals sign, without
+	// making one side look misaligned (when instead done via CSS alone).
+	{
+		// 1. Hide the container, to avoid visual artifacts caused by the hack
+		container.style.opacity = "0"
+
+		// 2. Temporarily display all hidden cloze elements
+		let wasHidden = container.querySelectorAll(".cloze:not(.revealed):not(.excl)")
+		wasHidden.forEach(e => e.classList.add("excl"))
+
+		// 3. Compute the max widths for both sides when ready
+		let correctWidths = selector => {
+			let maxWidth = 0, sel = container.querySelectorAll(selector)
+			sel.forEach(e => { if (e.offsetWidth > maxWidth) maxWidth = e.offsetWidth })
+
+			// 4. Use the max widths as the width of all elements for both sides
+			sel.forEach(e => e.style.minWidth = `calc(${maxWidth}px + 2ch)`)
+			// NOTE: Added a slight leeway in case of shortcomings
+		}
+
+		setTimeout(() => {
+			correctWidths(".arith-q")
+			correctWidths(".arith-a")
+
+			// 5. Re-hide temporarily displayed hidden elements
+			wasHidden.forEach(e => e.classList.remove("excl"))
+			// 6. Re-display temporarily concealed container
+			container.style.opacity = "1"
+		}, 0)
+	}
+}
+
+function makeSkipCounting(makeContent) {
+	function makeItem(i, template) {
+		var [v, n] = makeContent(i)
+		var el = template.cloneNode(true)
+		el.querySelector(".skipco-v").insertAdjacentHTML('beforeend', v)
+		el.querySelector(".skipco-n").insertAdjacentHTML('beforeend', n)
+		return el
+	}
+
+	var templHolder = document.getElementById("template-skipco")
+	container.append(...templHolder.querySelector(".skipco-container")
+		.cloneNode(true).children)
+
+	var item = templHolder.querySelector(".skipco-item")
+	var info = templHolder.querySelector(".skipco-info")
+	var empt = templHolder.querySelector(".skipco-empty")
+
+	var seq = container.querySelector(".skipco-seq")
+
+	switch (s) {
+		default: {
+			//{{#Ordinal End}}
+			if (e - s > 1)
+				seq.appendChild(empt.cloneNode(true))
+			//{{/Ordinal End}}
+			seq.appendChild(makeItem(s - 2, info))
+			seq.appendChild(makeItem(s - 1, info))
+			break
+		}
+		case 2: {
+			let x = makeItem(0, info)
+			x.classList.add("faded")
+			seq.appendChild(x)
+			seq.appendChild(makeItem(1, info))
+			break
+		}
+		case 1: {
+			let x = makeItem(0, item)
+			x.classList.add("faded")
+			seq.appendChild(x)
+			break
+		}
+		case 0:
+	}
+
+	//{{^Ordinal End}}
+	seq.appendChild(makeItem(s, item))
+	//{{/Ordinal End}}
+
+	//{{#Ordinal End}}
+	{
+		let c = seq.childElementCount
+		for (let i = s; i <= e; i++) {
+			if (!(++c % 7)) {
+				seq.appendChild(empt.cloneNode(true))
+				seq.appendChild(empt.cloneNode(true))
+				c++; c++
+			}
+			seq.appendChild(makeItem(i, item));
+		}
+		if (e < te) {
+			if (!(++c % 7)) {
+				seq.appendChild(empt.cloneNode(true))
+				seq.appendChild(empt.cloneNode(true))
+			}
+			seq.appendChild(makeItem(e + 1, info))
+		}
+	}
+	//{{/Ordinal End}}
+
+	//{{#Group Offset}}
+	var skipOffsetTitle = container.querySelector(".skipco-off-title")
+	if (!o) {
+		skipOffsetTitle.classList.add("hidden")
+	} else if (s > 1
+		/*{{#Ordinal End}}*/
+		|| e < te
+		/*{{/Ordinal End}}*/
+	) {
+		skipOffsetTitle.classList.add("cloze", "last")
+	}
+	//{{/Group Offset}}
+}
+
+function makeBackwardsSkipCounting(makeContent) {
+	function makeItem(i, template) {
+		var [v, n] = makeContent(i)
+		var el = template.cloneNode(true)
+		el.querySelector(".skipco-v").insertAdjacentHTML('beforeend', v)
+		el.querySelector(".skipco-n").insertAdjacentHTML('beforeend', n)
+		return el
+	}
+
+	var templHolder = document.getElementById("template-skipco")
+	container.append(...templHolder.querySelector(".bwskipco-container")
+		.cloneNode(true).children)
+
+	var item = templHolder.querySelector(".skipco-item")
+	var info = templHolder.querySelector(".skipco-info")
+	var empt = templHolder.querySelector(".skipco-empty")
+
+	var seq = container.querySelector(".skipco-seq")
+
+	{
+		let x = makeItem(e + 1, info)
+		if (e >= te) {
+			x.classList.add("faded")
+		//{{#Ordinal End}}
+		} else if (e - s > 3) {
+			seq.appendChild(empt.cloneNode(true))
+		//{{/Ordinal End}}
+		}
+		seq.appendChild(x)
+	}
+
+	//{{^Ordinal End}}
+	seq.appendChild(makeItem(s, item))
+	//{{/Ordinal End}}
+
+	{
+		//{{#Ordinal End}}
+		let c = seq.childElementCount
+		for (let i = e; i >= s; i--) {
+			if (!(++c % 7)) {
+				seq.appendChild(empt.cloneNode(true))
+				seq.appendChild(empt.cloneNode(true))
+				c++; c++
+			}
+			seq.appendChild(makeItem(i, item));
+		}
+		//{{/Ordinal End}}
+
+		if (s == 1) {
+			let x = makeItem(0, item)
+			x.classList.add("faded")
+			seq.appendChild(x)
+		} else if (s) {
+			let x = makeItem(s - 1, info)
+			//{{#Ordinal End}}
+			if (!(++c % 7)) {
+				seq.appendChild(empt.cloneNode(true))
+				seq.appendChild(empt.cloneNode(true))
+			}
+			//{{/Ordinal End}}
+			seq.appendChild(x)
+		}
+	}
+
+	//{{#Group Offset}}
+	var skipOffsetTitle = container.querySelector(".skipco-off-title")
+	if (!o) {
+		skipOffsetTitle.classList.add("hidden")
+	}
+	//{{/Group Offset}}
+}
+
+// ---
+
+{
+	let excl = new Set(container.querySelectorAll(".cloze-p .cloze"))
+	container.querySelectorAll(".cloze-p, .cloze").forEach(el => {
+		if (excl.has(el)) return
+		el.ondblclick = ev => toggleCloze(el, undefined, ev)
+		el.onmousedown = ev => preventDblClickSelect(ev)
+	})
+}
+
+document.onkeydown = function(e) {
+	// Handle only if no other modifier keys are held except SHIFT
+	if (e.ctrlKey || e.altKey || e.metaKey) {
+		return
+	}
+	switch (e.key) {
+		case 'q': case 'Q':
+		case 'a': case 'A': {
+			e.preventDefault()
+			let q = container.querySelectorAll(".cloze.revealed.last")
+			if (!q.length)
+				q = container.querySelectorAll(".cloze.revealed")
+			q = q[q.length-1]
+			if (q) toggleCloze(q.closest(".cloze-p") || q, false)
+			break
+		}
+		case 'w': case 'W':
+		case 'd': case 'D': {
+			e.preventDefault()
+			let q = container.querySelector(".cloze:not(.revealed):not(.last)")
+			if (!q) q = container.querySelector(".cloze:not(.revealed)")
+			if (q) toggleCloze(q.closest(".cloze-p") || q, true)
+			break
+		}
+	}
+}
+
+function toggleCloze(el, force, ev) {
+	if (!el) return
+	if (ev) {
+		if (ev.ctrlKey) return
+		ev.preventDefault()
+	}
+	if (el.classList.contains("cloze"))
+		el.classList.toggle("revealed", force)
+	if (el.classList.contains("cloze-p"))
+		el.querySelectorAll(".cloze")
+			.forEach(cel => cel.classList.toggle("revealed", force))
+}
+
+function preventDblClickSelect(e) {
+	// Prevents double click selection
+	// See, https://stackoverflow.com/a/43321596/1906724
+	if (e.detail > 1 && !e.ctrlKey)
+		e.preventDefault()
+}
+</script>

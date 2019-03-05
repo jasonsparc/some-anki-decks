@@ -1,6 +1,8 @@
 Serial
+Operation
 Group
 Group Offset
 Ordinal Start
 Ordinal End
+Terminal End
 Default Due
