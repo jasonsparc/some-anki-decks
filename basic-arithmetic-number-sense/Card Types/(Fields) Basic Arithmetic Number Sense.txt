@@ -1,4 +1,4 @@
-Serial
+﻿Serial
 Operation
 Group
 Group Offset
