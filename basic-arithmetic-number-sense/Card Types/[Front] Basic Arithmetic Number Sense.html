@@ -5,8 +5,7 @@
 		<span class="arith-q"></span> = <span class="arith-a"></span>
 	</div>
 	<div class="arith arith-item">
-		<span class="arith-q"></span> = <b class="arith-a ans cloze"
-			title="Press 'Q' or 'W'"><span class="hint">?</span></b>
+		<span class="arith-q"></span> = <b class="arith-a ans cloze"><span class="hint">?</span></b>
 	</div>
 </div>
 
@@ -27,8 +26,7 @@
 		<br class="skipco-intro-br">
 		<div class="skipco-seq"></div>
 	</div>
-	<div class="skipco skipco-item cloze-p"
-			title="Press 'Q' or 'W'">
+	<div class="skipco skipco-item cloze-p">
 		<div class="skipco-rv">
 			<b class="skipco-v cloze ans"><span class="hint">&hellip;</span></b><span class="skipco-delim">&hairsp;,</span>
 		</div>
@@ -341,7 +339,10 @@ function makeBackwardsSkipCounting(makeContent) {
 {
 	let excl = new Set(container.querySelectorAll(".cloze-p .cloze"))
 	container.querySelectorAll(".cloze-p, .cloze").forEach(el => {
-		if (excl.has(el)) return
+		if (el.classList.contains("cloze")) {
+			setUpClozeTooltip(el)
+			if (excl.has(el)) return
+		}
 		el.ondblclick = ev => toggleCloze(el, undefined, ev)
 		el.onmousedown = ev => preventDblClickSelect(ev)
 	})
@@ -353,23 +354,33 @@ document.onkeydown = function(e) {
 		return
 	}
 	switch (e.key) {
-		case 'q': case 'Q': {
-			e.preventDefault()
+	// The '~' key
+	case '`': case '~':
+	// The 'Q' key
+	case 'q': case 'Q':
+	// The 'W' key
+	case 'w': case 'W':
+		e.preventDefault()
+		if (e.shiftKey) {
 			let q = container.querySelectorAll(".cloze.revealed.last")
 			if (!q.length)
 				q = container.querySelectorAll(".cloze.revealed")
 			q = q[q.length-1]
 			if (q) toggleCloze(q.closest(".cloze-p") || q, false)
-			break
-		}
-		case 'w': case 'W': {
-			e.preventDefault()
+		} else {
 			let q = container.querySelector(".cloze:not(.revealed):not(.last)")
 			if (!q) q = container.querySelector(".cloze:not(.revealed)")
 			if (q) toggleCloze(q.closest(".cloze-p") || q, true)
-			break
 		}
+		break
 	}
+}
+
+function setUpClozeTooltip(el) {
+	if (document.getElementById("answer"))
+		return
+	el.setAttribute("title", el.classList.contains("revealed")
+		? "Press 'Shift+Q'" : "Press 'Q'")
 }
 
 function toggleCloze(el, force, ev) {
@@ -378,11 +389,16 @@ function toggleCloze(el, force, ev) {
 		if (ev.ctrlKey) return
 		ev.preventDefault()
 	}
-	if (el.classList.contains("cloze"))
+	if (el.classList.contains("cloze")) {
 		el.classList.toggle("revealed", force)
-	if (el.classList.contains("cloze-p"))
-		el.querySelectorAll(".cloze")
-			.forEach(cel => cel.classList.toggle("revealed", force))
+		setUpClozeTooltip(el)
+	}
+	if (el.classList.contains("cloze-p")) {
+		el.querySelectorAll(".cloze").forEach(el => {
+			el.classList.toggle("revealed", force)
+			setUpClozeTooltip(el)
+		})
+	}
 }
 
 function preventDblClickSelect(e) {
