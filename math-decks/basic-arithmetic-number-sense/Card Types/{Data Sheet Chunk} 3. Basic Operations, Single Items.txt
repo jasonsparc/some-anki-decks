@@ -1,402 +1,402 @@
 ﻿	Operation	Group	Group Offset	Ordinal Start	Ordinal End	Terminal End	Default Due	Tags	Op Index	Due Shift		Configs	Value
 													
-arith_add_g01_00_o01	Addition	1		1		10	801	single o01_to_04 o01_to_05	1	-		Due Increments	1
-arith_add_g01_00_o02	Addition	1		2		10	802	single o01_to_04 o01_to_05	1			Max Ordinal	10
-arith_add_g01_00_o03	Addition	1		3		10	803	single o01_to_04 o01_to_05	1				
-arith_add_g01_00_o04	Addition	1		4		10	804	single o01_to_04 o01_to_05 o04_to_07	1			Operations	Serial
-arith_add_g01_00_o05	Addition	1		5		10	805	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			Addition	add
-arith_add_g01_00_o06	Addition	1		6		10	806	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			Subtraction	sub
-arith_add_g01_00_o07	Addition	1		7		10	807	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			Multiplication	mul
-arith_add_g01_00_o08	Addition	1		8		10	808	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			Division	div
-arith_add_g01_00_o09	Addition	1		9		10	809	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g01_00_o01	Addition	1		1	1	10	801	single o01_to_04 o01_to_05	1	-		Due Increments	1
+arith_add_g01_00_o02	Addition	1		2	2	10	802	single o01_to_04 o01_to_05	1			Max Ordinal	10
+arith_add_g01_00_o03	Addition	1		3	3	10	803	single o01_to_04 o01_to_05	1				
+arith_add_g01_00_o04	Addition	1		4	4	10	804	single o01_to_04 o01_to_05 o04_to_07	1			Operations	Serial
+arith_add_g01_00_o05	Addition	1		5	5	10	805	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1			Addition	add
+arith_add_g01_00_o06	Addition	1		6	6	10	806	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1			Subtraction	sub
+arith_add_g01_00_o07	Addition	1		7	7	10	807	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1			Multiplication	mul
+arith_add_g01_00_o08	Addition	1		8	8	10	808	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1			Division	div
+arith_add_g01_00_o09	Addition	1		9	9	10	809	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 		-	-	-	-	-							
-arith_add_g02_00_o01	Addition	2	0	1		10	810	single o01_to_04 o01_to_05	1				
-arith_add_g02_00_o02	Addition	2	0	2		10	811	single o01_to_04 o01_to_05	1				
-arith_add_g02_00_o03	Addition	2	0	3		10	812	single o01_to_04 o01_to_05	1				
-arith_add_g02_00_o04	Addition	2	0	4		10	813	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g02_00_o05	Addition	2	0	5		10	814	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g02_00_o06	Addition	2	0	6		10	815	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g02_00_o07	Addition	2	0	7		10	816	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g02_00_o08	Addition	2	0	8		10	817	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g02_00_o09	Addition	2	0	9		10	818	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g02_00_o01	Addition	2	0	1	1	10	810	single o01_to_04 o01_to_05	1				
+arith_add_g02_00_o02	Addition	2	0	2	2	10	811	single o01_to_04 o01_to_05	1				
+arith_add_g02_00_o03	Addition	2	0	3	3	10	812	single o01_to_04 o01_to_05	1				
+arith_add_g02_00_o04	Addition	2	0	4	4	10	813	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g02_00_o05	Addition	2	0	5	5	10	814	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g02_00_o06	Addition	2	0	6	6	10	815	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g02_00_o07	Addition	2	0	7	7	10	816	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g02_00_o08	Addition	2	0	8	8	10	817	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g02_00_o09	Addition	2	0	9	9	10	818	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g03_00_o01	Addition	3	0	1		10	819	single o01_to_04 o01_to_05	1				
-arith_add_g03_00_o02	Addition	3	0	2		10	820	single o01_to_04 o01_to_05	1				
-arith_add_g03_00_o03	Addition	3	0	3		10	821	single o01_to_04 o01_to_05	1				
-arith_add_g03_00_o04	Addition	3	0	4		10	822	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g03_00_o05	Addition	3	0	5		10	823	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g03_00_o06	Addition	3	0	6		10	824	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g03_00_o07	Addition	3	0	7		10	825	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g03_00_o08	Addition	3	0	8		10	826	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g03_00_o09	Addition	3	0	9		10	827	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g03_00_o01	Addition	3	0	1	1	10	819	single o01_to_04 o01_to_05	1				
+arith_add_g03_00_o02	Addition	3	0	2	2	10	820	single o01_to_04 o01_to_05	1				
+arith_add_g03_00_o03	Addition	3	0	3	3	10	821	single o01_to_04 o01_to_05	1				
+arith_add_g03_00_o04	Addition	3	0	4	4	10	822	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g03_00_o05	Addition	3	0	5	5	10	823	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g03_00_o06	Addition	3	0	6	6	10	824	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g03_00_o07	Addition	3	0	7	7	10	825	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g03_00_o08	Addition	3	0	8	8	10	826	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g03_00_o09	Addition	3	0	9	9	10	827	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g04_00_o01	Addition	4	0	1		10	828	single o01_to_04 o01_to_05	1				
-arith_add_g04_00_o02	Addition	4	0	2		10	829	single o01_to_04 o01_to_05	1				
-arith_add_g04_00_o03	Addition	4	0	3		10	830	single o01_to_04 o01_to_05	1				
-arith_add_g04_00_o04	Addition	4	0	4		10	831	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g04_00_o05	Addition	4	0	5		10	832	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g04_00_o06	Addition	4	0	6		10	833	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g04_00_o07	Addition	4	0	7		10	834	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g04_00_o08	Addition	4	0	8		10	835	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g04_00_o09	Addition	4	0	9		10	836	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g04_00_o01	Addition	4	0	1	1	10	828	single o01_to_04 o01_to_05	1				
+arith_add_g04_00_o02	Addition	4	0	2	2	10	829	single o01_to_04 o01_to_05	1				
+arith_add_g04_00_o03	Addition	4	0	3	3	10	830	single o01_to_04 o01_to_05	1				
+arith_add_g04_00_o04	Addition	4	0	4	4	10	831	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g04_00_o05	Addition	4	0	5	5	10	832	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g04_00_o06	Addition	4	0	6	6	10	833	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g04_00_o07	Addition	4	0	7	7	10	834	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g04_00_o08	Addition	4	0	8	8	10	835	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g04_00_o09	Addition	4	0	9	9	10	836	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g05_00_o01	Addition	5	0	1		10	837	single o01_to_04 o01_to_05	1				
-arith_add_g05_00_o02	Addition	5	0	2		10	838	single o01_to_04 o01_to_05	1				
-arith_add_g05_00_o03	Addition	5	0	3		10	839	single o01_to_04 o01_to_05	1				
-arith_add_g05_00_o04	Addition	5	0	4		10	840	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g05_00_o05	Addition	5	0	5		10	841	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g05_00_o06	Addition	5	0	6		10	842	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g05_00_o07	Addition	5	0	7		10	843	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g05_00_o08	Addition	5	0	8		10	844	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g05_00_o09	Addition	5	0	9		10	845	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g05_00_o01	Addition	5	0	1	1	10	837	single o01_to_04 o01_to_05	1				
+arith_add_g05_00_o02	Addition	5	0	2	2	10	838	single o01_to_04 o01_to_05	1				
+arith_add_g05_00_o03	Addition	5	0	3	3	10	839	single o01_to_04 o01_to_05	1				
+arith_add_g05_00_o04	Addition	5	0	4	4	10	840	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g05_00_o05	Addition	5	0	5	5	10	841	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g05_00_o06	Addition	5	0	6	6	10	842	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g05_00_o07	Addition	5	0	7	7	10	843	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g05_00_o08	Addition	5	0	8	8	10	844	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g05_00_o09	Addition	5	0	9	9	10	845	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g06_00_o01	Addition	6	0	1		10	846	single o01_to_04 o01_to_05	1				
-arith_add_g06_00_o02	Addition	6	0	2		10	847	single o01_to_04 o01_to_05	1				
-arith_add_g06_00_o03	Addition	6	0	3		10	848	single o01_to_04 o01_to_05	1				
-arith_add_g06_00_o04	Addition	6	0	4		10	849	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g06_00_o05	Addition	6	0	5		10	850	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g06_00_o06	Addition	6	0	6		10	851	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g06_00_o07	Addition	6	0	7		10	852	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g06_00_o08	Addition	6	0	8		10	853	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g06_00_o09	Addition	6	0	9		10	854	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g06_00_o01	Addition	6	0	1	1	10	846	single o01_to_04 o01_to_05	1				
+arith_add_g06_00_o02	Addition	6	0	2	2	10	847	single o01_to_04 o01_to_05	1				
+arith_add_g06_00_o03	Addition	6	0	3	3	10	848	single o01_to_04 o01_to_05	1				
+arith_add_g06_00_o04	Addition	6	0	4	4	10	849	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g06_00_o05	Addition	6	0	5	5	10	850	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g06_00_o06	Addition	6	0	6	6	10	851	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g06_00_o07	Addition	6	0	7	7	10	852	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g06_00_o08	Addition	6	0	8	8	10	853	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g06_00_o09	Addition	6	0	9	9	10	854	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g07_00_o01	Addition	7	0	1		10	855	single o01_to_04 o01_to_05	1				
-arith_add_g07_00_o02	Addition	7	0	2		10	856	single o01_to_04 o01_to_05	1				
-arith_add_g07_00_o03	Addition	7	0	3		10	857	single o01_to_04 o01_to_05	1				
-arith_add_g07_00_o04	Addition	7	0	4		10	858	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g07_00_o05	Addition	7	0	5		10	859	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g07_00_o06	Addition	7	0	6		10	860	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g07_00_o07	Addition	7	0	7		10	861	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g07_00_o08	Addition	7	0	8		10	862	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g07_00_o09	Addition	7	0	9		10	863	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g07_00_o01	Addition	7	0	1	1	10	855	single o01_to_04 o01_to_05	1				
+arith_add_g07_00_o02	Addition	7	0	2	2	10	856	single o01_to_04 o01_to_05	1				
+arith_add_g07_00_o03	Addition	7	0	3	3	10	857	single o01_to_04 o01_to_05	1				
+arith_add_g07_00_o04	Addition	7	0	4	4	10	858	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g07_00_o05	Addition	7	0	5	5	10	859	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g07_00_o06	Addition	7	0	6	6	10	860	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g07_00_o07	Addition	7	0	7	7	10	861	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g07_00_o08	Addition	7	0	8	8	10	862	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g07_00_o09	Addition	7	0	9	9	10	863	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g08_00_o01	Addition	8	0	1		10	864	single o01_to_04 o01_to_05	1				
-arith_add_g08_00_o02	Addition	8	0	2		10	865	single o01_to_04 o01_to_05	1				
-arith_add_g08_00_o03	Addition	8	0	3		10	866	single o01_to_04 o01_to_05	1				
-arith_add_g08_00_o04	Addition	8	0	4		10	867	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g08_00_o05	Addition	8	0	5		10	868	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g08_00_o06	Addition	8	0	6		10	869	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g08_00_o07	Addition	8	0	7		10	870	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g08_00_o08	Addition	8	0	8		10	871	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g08_00_o09	Addition	8	0	9		10	872	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g08_00_o01	Addition	8	0	1	1	10	864	single o01_to_04 o01_to_05	1				
+arith_add_g08_00_o02	Addition	8	0	2	2	10	865	single o01_to_04 o01_to_05	1				
+arith_add_g08_00_o03	Addition	8	0	3	3	10	866	single o01_to_04 o01_to_05	1				
+arith_add_g08_00_o04	Addition	8	0	4	4	10	867	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g08_00_o05	Addition	8	0	5	5	10	868	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g08_00_o06	Addition	8	0	6	6	10	869	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g08_00_o07	Addition	8	0	7	7	10	870	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g08_00_o08	Addition	8	0	8	8	10	871	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g08_00_o09	Addition	8	0	9	9	10	872	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g09_00_o01	Addition	9	0	1		10	873	single o01_to_04 o01_to_05	1				
-arith_add_g09_00_o02	Addition	9	0	2		10	874	single o01_to_04 o01_to_05	1				
-arith_add_g09_00_o03	Addition	9	0	3		10	875	single o01_to_04 o01_to_05	1				
-arith_add_g09_00_o04	Addition	9	0	4		10	876	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g09_00_o05	Addition	9	0	5		10	877	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g09_00_o06	Addition	9	0	6		10	878	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g09_00_o07	Addition	9	0	7		10	879	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g09_00_o08	Addition	9	0	8		10	880	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g09_00_o09	Addition	9	0	9		10	881	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g09_00_o01	Addition	9	0	1	1	10	873	single o01_to_04 o01_to_05	1				
+arith_add_g09_00_o02	Addition	9	0	2	2	10	874	single o01_to_04 o01_to_05	1				
+arith_add_g09_00_o03	Addition	9	0	3	3	10	875	single o01_to_04 o01_to_05	1				
+arith_add_g09_00_o04	Addition	9	0	4	4	10	876	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g09_00_o05	Addition	9	0	5	5	10	877	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g09_00_o06	Addition	9	0	6	6	10	878	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g09_00_o07	Addition	9	0	7	7	10	879	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g09_00_o08	Addition	9	0	8	8	10	880	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g09_00_o09	Addition	9	0	9	9	10	881	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_add_g10_00_o01	Addition	10	0	1		10	882	single o01_to_04 o01_to_05	1				
-arith_add_g10_00_o02	Addition	10	0	2		10	883	single o01_to_04 o01_to_05	1				
-arith_add_g10_00_o03	Addition	10	0	3		10	884	single o01_to_04 o01_to_05	1				
-arith_add_g10_00_o04	Addition	10	0	4		10	885	single o01_to_04 o01_to_05 o04_to_07	1				
-arith_add_g10_00_o05	Addition	10	0	5		10	886	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
-arith_add_g10_00_o06	Addition	10	0	6		10	887	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
-arith_add_g10_00_o07	Addition	10	0	7		10	888	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
-arith_add_g10_00_o08	Addition	10	0	8		10	889	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
-arith_add_g10_00_o09	Addition	10	0	9		10	890	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g10_00_o01	Addition	10	0	1	1	10	882	single o01_to_04 o01_to_05	1				
+arith_add_g10_00_o02	Addition	10	0	2	2	10	883	single o01_to_04 o01_to_05	1				
+arith_add_g10_00_o03	Addition	10	0	3	3	10	884	single o01_to_04 o01_to_05	1				
+arith_add_g10_00_o04	Addition	10	0	4	4	10	885	single o01_to_04 o01_to_05 o04_to_07	1				
+arith_add_g10_00_o05	Addition	10	0	5	5	10	886	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	1				
+arith_add_g10_00_o06	Addition	10	0	6	6	10	887	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	1				
+arith_add_g10_00_o07	Addition	10	0	7	7	10	888	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	1				
+arith_add_g10_00_o08	Addition	10	0	8	8	10	889	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
+arith_add_g10_00_o09	Addition	10	0	9	9	10	890	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	1				
 													
-arith_sub_g01_00_o01	Subtraction	1	0	1		10	891	single o01_to_04 o01_to_05	2				
-arith_sub_g01_00_o02	Subtraction	1	0	2		10	892	single o01_to_04 o01_to_05	2				
-arith_sub_g01_00_o03	Subtraction	1	0	3		10	893	single o01_to_04 o01_to_05	2				
-arith_sub_g01_00_o04	Subtraction	1	0	4		10	894	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g01_00_o05	Subtraction	1	0	5		10	895	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g01_00_o06	Subtraction	1	0	6		10	896	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g01_00_o07	Subtraction	1	0	7		10	897	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g01_00_o08	Subtraction	1	0	8		10	898	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g01_00_o09	Subtraction	1	0	9		10	899	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g01_00_o01	Subtraction	1	0	1	1	10	891	single o01_to_04 o01_to_05	2				
+arith_sub_g01_00_o02	Subtraction	1	0	2	2	10	892	single o01_to_04 o01_to_05	2				
+arith_sub_g01_00_o03	Subtraction	1	0	3	3	10	893	single o01_to_04 o01_to_05	2				
+arith_sub_g01_00_o04	Subtraction	1	0	4	4	10	894	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g01_00_o05	Subtraction	1	0	5	5	10	895	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g01_00_o06	Subtraction	1	0	6	6	10	896	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g01_00_o07	Subtraction	1	0	7	7	10	897	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g01_00_o08	Subtraction	1	0	8	8	10	898	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g01_00_o09	Subtraction	1	0	9	9	10	899	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g02_00_o01	Subtraction	2	0	1		10	900	single o01_to_04 o01_to_05	2				
-arith_sub_g02_00_o02	Subtraction	2	0	2		10	901	single o01_to_04 o01_to_05	2				
-arith_sub_g02_00_o03	Subtraction	2	0	3		10	902	single o01_to_04 o01_to_05	2				
-arith_sub_g02_00_o04	Subtraction	2	0	4		10	903	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g02_00_o05	Subtraction	2	0	5		10	904	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g02_00_o06	Subtraction	2	0	6		10	905	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g02_00_o07	Subtraction	2	0	7		10	906	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g02_00_o08	Subtraction	2	0	8		10	907	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g02_00_o09	Subtraction	2	0	9		10	908	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g02_00_o01	Subtraction	2	0	1	1	10	900	single o01_to_04 o01_to_05	2				
+arith_sub_g02_00_o02	Subtraction	2	0	2	2	10	901	single o01_to_04 o01_to_05	2				
+arith_sub_g02_00_o03	Subtraction	2	0	3	3	10	902	single o01_to_04 o01_to_05	2				
+arith_sub_g02_00_o04	Subtraction	2	0	4	4	10	903	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g02_00_o05	Subtraction	2	0	5	5	10	904	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g02_00_o06	Subtraction	2	0	6	6	10	905	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g02_00_o07	Subtraction	2	0	7	7	10	906	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g02_00_o08	Subtraction	2	0	8	8	10	907	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g02_00_o09	Subtraction	2	0	9	9	10	908	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g03_00_o01	Subtraction	3	0	1		10	909	single o01_to_04 o01_to_05	2				
-arith_sub_g03_00_o02	Subtraction	3	0	2		10	910	single o01_to_04 o01_to_05	2				
-arith_sub_g03_00_o03	Subtraction	3	0	3		10	911	single o01_to_04 o01_to_05	2				
-arith_sub_g03_00_o04	Subtraction	3	0	4		10	912	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g03_00_o05	Subtraction	3	0	5		10	913	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g03_00_o06	Subtraction	3	0	6		10	914	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g03_00_o07	Subtraction	3	0	7		10	915	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g03_00_o08	Subtraction	3	0	8		10	916	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g03_00_o09	Subtraction	3	0	9		10	917	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g03_00_o01	Subtraction	3	0	1	1	10	909	single o01_to_04 o01_to_05	2				
+arith_sub_g03_00_o02	Subtraction	3	0	2	2	10	910	single o01_to_04 o01_to_05	2				
+arith_sub_g03_00_o03	Subtraction	3	0	3	3	10	911	single o01_to_04 o01_to_05	2				
+arith_sub_g03_00_o04	Subtraction	3	0	4	4	10	912	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g03_00_o05	Subtraction	3	0	5	5	10	913	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g03_00_o06	Subtraction	3	0	6	6	10	914	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g03_00_o07	Subtraction	3	0	7	7	10	915	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g03_00_o08	Subtraction	3	0	8	8	10	916	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g03_00_o09	Subtraction	3	0	9	9	10	917	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g04_00_o01	Subtraction	4	0	1		10	918	single o01_to_04 o01_to_05	2				
-arith_sub_g04_00_o02	Subtraction	4	0	2		10	919	single o01_to_04 o01_to_05	2				
-arith_sub_g04_00_o03	Subtraction	4	0	3		10	920	single o01_to_04 o01_to_05	2				
-arith_sub_g04_00_o04	Subtraction	4	0	4		10	921	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g04_00_o05	Subtraction	4	0	5		10	922	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g04_00_o06	Subtraction	4	0	6		10	923	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g04_00_o07	Subtraction	4	0	7		10	924	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g04_00_o08	Subtraction	4	0	8		10	925	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g04_00_o09	Subtraction	4	0	9		10	926	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g04_00_o01	Subtraction	4	0	1	1	10	918	single o01_to_04 o01_to_05	2				
+arith_sub_g04_00_o02	Subtraction	4	0	2	2	10	919	single o01_to_04 o01_to_05	2				
+arith_sub_g04_00_o03	Subtraction	4	0	3	3	10	920	single o01_to_04 o01_to_05	2				
+arith_sub_g04_00_o04	Subtraction	4	0	4	4	10	921	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g04_00_o05	Subtraction	4	0	5	5	10	922	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g04_00_o06	Subtraction	4	0	6	6	10	923	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g04_00_o07	Subtraction	4	0	7	7	10	924	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g04_00_o08	Subtraction	4	0	8	8	10	925	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g04_00_o09	Subtraction	4	0	9	9	10	926	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g05_00_o01	Subtraction	5	0	1		10	927	single o01_to_04 o01_to_05	2				
-arith_sub_g05_00_o02	Subtraction	5	0	2		10	928	single o01_to_04 o01_to_05	2				
-arith_sub_g05_00_o03	Subtraction	5	0	3		10	929	single o01_to_04 o01_to_05	2				
-arith_sub_g05_00_o04	Subtraction	5	0	4		10	930	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g05_00_o05	Subtraction	5	0	5		10	931	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g05_00_o06	Subtraction	5	0	6		10	932	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g05_00_o07	Subtraction	5	0	7		10	933	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g05_00_o08	Subtraction	5	0	8		10	934	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g05_00_o09	Subtraction	5	0	9		10	935	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g05_00_o01	Subtraction	5	0	1	1	10	927	single o01_to_04 o01_to_05	2				
+arith_sub_g05_00_o02	Subtraction	5	0	2	2	10	928	single o01_to_04 o01_to_05	2				
+arith_sub_g05_00_o03	Subtraction	5	0	3	3	10	929	single o01_to_04 o01_to_05	2				
+arith_sub_g05_00_o04	Subtraction	5	0	4	4	10	930	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g05_00_o05	Subtraction	5	0	5	5	10	931	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g05_00_o06	Subtraction	5	0	6	6	10	932	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g05_00_o07	Subtraction	5	0	7	7	10	933	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g05_00_o08	Subtraction	5	0	8	8	10	934	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g05_00_o09	Subtraction	5	0	9	9	10	935	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g06_00_o01	Subtraction	6	0	1		10	936	single o01_to_04 o01_to_05	2				
-arith_sub_g06_00_o02	Subtraction	6	0	2		10	937	single o01_to_04 o01_to_05	2				
-arith_sub_g06_00_o03	Subtraction	6	0	3		10	938	single o01_to_04 o01_to_05	2				
-arith_sub_g06_00_o04	Subtraction	6	0	4		10	939	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g06_00_o05	Subtraction	6	0	5		10	940	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g06_00_o06	Subtraction	6	0	6		10	941	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g06_00_o07	Subtraction	6	0	7		10	942	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g06_00_o08	Subtraction	6	0	8		10	943	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g06_00_o09	Subtraction	6	0	9		10	944	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g06_00_o01	Subtraction	6	0	1	1	10	936	single o01_to_04 o01_to_05	2				
+arith_sub_g06_00_o02	Subtraction	6	0	2	2	10	937	single o01_to_04 o01_to_05	2				
+arith_sub_g06_00_o03	Subtraction	6	0	3	3	10	938	single o01_to_04 o01_to_05	2				
+arith_sub_g06_00_o04	Subtraction	6	0	4	4	10	939	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g06_00_o05	Subtraction	6	0	5	5	10	940	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g06_00_o06	Subtraction	6	0	6	6	10	941	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g06_00_o07	Subtraction	6	0	7	7	10	942	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g06_00_o08	Subtraction	6	0	8	8	10	943	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g06_00_o09	Subtraction	6	0	9	9	10	944	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g07_00_o01	Subtraction	7	0	1		10	945	single o01_to_04 o01_to_05	2				
-arith_sub_g07_00_o02	Subtraction	7	0	2		10	946	single o01_to_04 o01_to_05	2				
-arith_sub_g07_00_o03	Subtraction	7	0	3		10	947	single o01_to_04 o01_to_05	2				
-arith_sub_g07_00_o04	Subtraction	7	0	4		10	948	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g07_00_o05	Subtraction	7	0	5		10	949	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g07_00_o06	Subtraction	7	0	6		10	950	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g07_00_o07	Subtraction	7	0	7		10	951	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g07_00_o08	Subtraction	7	0	8		10	952	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g07_00_o09	Subtraction	7	0	9		10	953	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g07_00_o01	Subtraction	7	0	1	1	10	945	single o01_to_04 o01_to_05	2				
+arith_sub_g07_00_o02	Subtraction	7	0	2	2	10	946	single o01_to_04 o01_to_05	2				
+arith_sub_g07_00_o03	Subtraction	7	0	3	3	10	947	single o01_to_04 o01_to_05	2				
+arith_sub_g07_00_o04	Subtraction	7	0	4	4	10	948	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g07_00_o05	Subtraction	7	0	5	5	10	949	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g07_00_o06	Subtraction	7	0	6	6	10	950	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g07_00_o07	Subtraction	7	0	7	7	10	951	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g07_00_o08	Subtraction	7	0	8	8	10	952	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g07_00_o09	Subtraction	7	0	9	9	10	953	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g08_00_o01	Subtraction	8	0	1		10	954	single o01_to_04 o01_to_05	2				
-arith_sub_g08_00_o02	Subtraction	8	0	2		10	955	single o01_to_04 o01_to_05	2				
-arith_sub_g08_00_o03	Subtraction	8	0	3		10	956	single o01_to_04 o01_to_05	2				
-arith_sub_g08_00_o04	Subtraction	8	0	4		10	957	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g08_00_o05	Subtraction	8	0	5		10	958	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g08_00_o06	Subtraction	8	0	6		10	959	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g08_00_o07	Subtraction	8	0	7		10	960	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g08_00_o08	Subtraction	8	0	8		10	961	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g08_00_o09	Subtraction	8	0	9		10	962	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g08_00_o01	Subtraction	8	0	1	1	10	954	single o01_to_04 o01_to_05	2				
+arith_sub_g08_00_o02	Subtraction	8	0	2	2	10	955	single o01_to_04 o01_to_05	2				
+arith_sub_g08_00_o03	Subtraction	8	0	3	3	10	956	single o01_to_04 o01_to_05	2				
+arith_sub_g08_00_o04	Subtraction	8	0	4	4	10	957	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g08_00_o05	Subtraction	8	0	5	5	10	958	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g08_00_o06	Subtraction	8	0	6	6	10	959	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g08_00_o07	Subtraction	8	0	7	7	10	960	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g08_00_o08	Subtraction	8	0	8	8	10	961	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g08_00_o09	Subtraction	8	0	9	9	10	962	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g09_00_o01	Subtraction	9	0	1		10	963	single o01_to_04 o01_to_05	2				
-arith_sub_g09_00_o02	Subtraction	9	0	2		10	964	single o01_to_04 o01_to_05	2				
-arith_sub_g09_00_o03	Subtraction	9	0	3		10	965	single o01_to_04 o01_to_05	2				
-arith_sub_g09_00_o04	Subtraction	9	0	4		10	966	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g09_00_o05	Subtraction	9	0	5		10	967	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g09_00_o06	Subtraction	9	0	6		10	968	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g09_00_o07	Subtraction	9	0	7		10	969	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g09_00_o08	Subtraction	9	0	8		10	970	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g09_00_o09	Subtraction	9	0	9		10	971	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g09_00_o01	Subtraction	9	0	1	1	10	963	single o01_to_04 o01_to_05	2				
+arith_sub_g09_00_o02	Subtraction	9	0	2	2	10	964	single o01_to_04 o01_to_05	2				
+arith_sub_g09_00_o03	Subtraction	9	0	3	3	10	965	single o01_to_04 o01_to_05	2				
+arith_sub_g09_00_o04	Subtraction	9	0	4	4	10	966	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g09_00_o05	Subtraction	9	0	5	5	10	967	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g09_00_o06	Subtraction	9	0	6	6	10	968	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g09_00_o07	Subtraction	9	0	7	7	10	969	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g09_00_o08	Subtraction	9	0	8	8	10	970	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g09_00_o09	Subtraction	9	0	9	9	10	971	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_sub_g10_00_o01	Subtraction	10	0	1		10	972	single o01_to_04 o01_to_05	2				
-arith_sub_g10_00_o02	Subtraction	10	0	2		10	973	single o01_to_04 o01_to_05	2				
-arith_sub_g10_00_o03	Subtraction	10	0	3		10	974	single o01_to_04 o01_to_05	2				
-arith_sub_g10_00_o04	Subtraction	10	0	4		10	975	single o01_to_04 o01_to_05 o04_to_07	2				
-arith_sub_g10_00_o05	Subtraction	10	0	5		10	976	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
-arith_sub_g10_00_o06	Subtraction	10	0	6		10	977	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
-arith_sub_g10_00_o07	Subtraction	10	0	7		10	978	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
-arith_sub_g10_00_o08	Subtraction	10	0	8		10	979	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
-arith_sub_g10_00_o09	Subtraction	10	0	9		10	980	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g10_00_o01	Subtraction	10	0	1	1	10	972	single o01_to_04 o01_to_05	2				
+arith_sub_g10_00_o02	Subtraction	10	0	2	2	10	973	single o01_to_04 o01_to_05	2				
+arith_sub_g10_00_o03	Subtraction	10	0	3	3	10	974	single o01_to_04 o01_to_05	2				
+arith_sub_g10_00_o04	Subtraction	10	0	4	4	10	975	single o01_to_04 o01_to_05 o04_to_07	2				
+arith_sub_g10_00_o05	Subtraction	10	0	5	5	10	976	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	2				
+arith_sub_g10_00_o06	Subtraction	10	0	6	6	10	977	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	2				
+arith_sub_g10_00_o07	Subtraction	10	0	7	7	10	978	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	2				
+arith_sub_g10_00_o08	Subtraction	10	0	8	8	10	979	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
+arith_sub_g10_00_o09	Subtraction	10	0	9	9	10	980	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 													
-arith_mul_g01_00_o01	Multiplication	1	0	1		10	1521	single o01_to_04 o01_to_05	3	540			
-arith_mul_g01_00_o02	Multiplication	1	0	2		10	1522	single o01_to_04 o01_to_05	3				
-arith_mul_g01_00_o03	Multiplication	1	0	3		10	1523	single o01_to_04 o01_to_05	3				
-arith_mul_g01_00_o04	Multiplication	1	0	4		10	1524	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g01_00_o05	Multiplication	1	0	5		10	1525	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g01_00_o06	Multiplication	1	0	6		10	1526	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g01_00_o07	Multiplication	1	0	7		10	1527	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g01_00_o08	Multiplication	1	0	8		10	1528	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g01_00_o09	Multiplication	1	0	9		10	1529	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g01_00_o01	Multiplication	1	0	1	1	10	1521	single o01_to_04 o01_to_05	3	540			
+arith_mul_g01_00_o02	Multiplication	1	0	2	2	10	1522	single o01_to_04 o01_to_05	3				
+arith_mul_g01_00_o03	Multiplication	1	0	3	3	10	1523	single o01_to_04 o01_to_05	3				
+arith_mul_g01_00_o04	Multiplication	1	0	4	4	10	1524	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g01_00_o05	Multiplication	1	0	5	5	10	1525	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g01_00_o06	Multiplication	1	0	6	6	10	1526	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g01_00_o07	Multiplication	1	0	7	7	10	1527	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g01_00_o08	Multiplication	1	0	8	8	10	1528	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g01_00_o09	Multiplication	1	0	9	9	10	1529	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g02_00_o01	Multiplication	2	0	1		10	1530	single o01_to_04 o01_to_05	3				
-arith_mul_g02_00_o02	Multiplication	2	0	2		10	1531	single o01_to_04 o01_to_05	3				
-arith_mul_g02_00_o03	Multiplication	2	0	3		10	1532	single o01_to_04 o01_to_05	3				
-arith_mul_g02_00_o04	Multiplication	2	0	4		10	1533	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g02_00_o05	Multiplication	2	0	5		10	1534	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g02_00_o06	Multiplication	2	0	6		10	1535	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g02_00_o07	Multiplication	2	0	7		10	1536	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g02_00_o08	Multiplication	2	0	8		10	1537	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g02_00_o09	Multiplication	2	0	9		10	1538	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g02_00_o01	Multiplication	2	0	1	1	10	1530	single o01_to_04 o01_to_05	3				
+arith_mul_g02_00_o02	Multiplication	2	0	2	2	10	1531	single o01_to_04 o01_to_05	3				
+arith_mul_g02_00_o03	Multiplication	2	0	3	3	10	1532	single o01_to_04 o01_to_05	3				
+arith_mul_g02_00_o04	Multiplication	2	0	4	4	10	1533	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g02_00_o05	Multiplication	2	0	5	5	10	1534	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g02_00_o06	Multiplication	2	0	6	6	10	1535	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g02_00_o07	Multiplication	2	0	7	7	10	1536	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g02_00_o08	Multiplication	2	0	8	8	10	1537	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g02_00_o09	Multiplication	2	0	9	9	10	1538	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g03_00_o01	Multiplication	3	0	1		10	1539	single o01_to_04 o01_to_05	3				
-arith_mul_g03_00_o02	Multiplication	3	0	2		10	1540	single o01_to_04 o01_to_05	3				
-arith_mul_g03_00_o03	Multiplication	3	0	3		10	1541	single o01_to_04 o01_to_05	3				
-arith_mul_g03_00_o04	Multiplication	3	0	4		10	1542	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g03_00_o05	Multiplication	3	0	5		10	1543	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g03_00_o06	Multiplication	3	0	6		10	1544	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g03_00_o07	Multiplication	3	0	7		10	1545	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g03_00_o08	Multiplication	3	0	8		10	1546	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g03_00_o09	Multiplication	3	0	9		10	1547	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g03_00_o01	Multiplication	3	0	1	1	10	1539	single o01_to_04 o01_to_05	3				
+arith_mul_g03_00_o02	Multiplication	3	0	2	2	10	1540	single o01_to_04 o01_to_05	3				
+arith_mul_g03_00_o03	Multiplication	3	0	3	3	10	1541	single o01_to_04 o01_to_05	3				
+arith_mul_g03_00_o04	Multiplication	3	0	4	4	10	1542	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g03_00_o05	Multiplication	3	0	5	5	10	1543	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g03_00_o06	Multiplication	3	0	6	6	10	1544	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g03_00_o07	Multiplication	3	0	7	7	10	1545	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g03_00_o08	Multiplication	3	0	8	8	10	1546	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g03_00_o09	Multiplication	3	0	9	9	10	1547	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g04_00_o01	Multiplication	4	0	1		10	1548	single o01_to_04 o01_to_05	3				
-arith_mul_g04_00_o02	Multiplication	4	0	2		10	1549	single o01_to_04 o01_to_05	3				
-arith_mul_g04_00_o03	Multiplication	4	0	3		10	1550	single o01_to_04 o01_to_05	3				
-arith_mul_g04_00_o04	Multiplication	4	0	4		10	1551	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g04_00_o05	Multiplication	4	0	5		10	1552	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g04_00_o06	Multiplication	4	0	6		10	1553	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g04_00_o07	Multiplication	4	0	7		10	1554	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g04_00_o08	Multiplication	4	0	8		10	1555	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g04_00_o09	Multiplication	4	0	9		10	1556	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g04_00_o01	Multiplication	4	0	1	1	10	1548	single o01_to_04 o01_to_05	3				
+arith_mul_g04_00_o02	Multiplication	4	0	2	2	10	1549	single o01_to_04 o01_to_05	3				
+arith_mul_g04_00_o03	Multiplication	4	0	3	3	10	1550	single o01_to_04 o01_to_05	3				
+arith_mul_g04_00_o04	Multiplication	4	0	4	4	10	1551	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g04_00_o05	Multiplication	4	0	5	5	10	1552	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g04_00_o06	Multiplication	4	0	6	6	10	1553	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g04_00_o07	Multiplication	4	0	7	7	10	1554	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g04_00_o08	Multiplication	4	0	8	8	10	1555	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g04_00_o09	Multiplication	4	0	9	9	10	1556	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g05_00_o01	Multiplication	5	0	1		10	1557	single o01_to_04 o01_to_05	3				
-arith_mul_g05_00_o02	Multiplication	5	0	2		10	1558	single o01_to_04 o01_to_05	3				
-arith_mul_g05_00_o03	Multiplication	5	0	3		10	1559	single o01_to_04 o01_to_05	3				
-arith_mul_g05_00_o04	Multiplication	5	0	4		10	1560	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g05_00_o05	Multiplication	5	0	5		10	1561	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g05_00_o06	Multiplication	5	0	6		10	1562	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g05_00_o07	Multiplication	5	0	7		10	1563	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g05_00_o08	Multiplication	5	0	8		10	1564	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g05_00_o09	Multiplication	5	0	9		10	1565	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g05_00_o01	Multiplication	5	0	1	1	10	1557	single o01_to_04 o01_to_05	3				
+arith_mul_g05_00_o02	Multiplication	5	0	2	2	10	1558	single o01_to_04 o01_to_05	3				
+arith_mul_g05_00_o03	Multiplication	5	0	3	3	10	1559	single o01_to_04 o01_to_05	3				
+arith_mul_g05_00_o04	Multiplication	5	0	4	4	10	1560	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g05_00_o05	Multiplication	5	0	5	5	10	1561	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g05_00_o06	Multiplication	5	0	6	6	10	1562	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g05_00_o07	Multiplication	5	0	7	7	10	1563	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g05_00_o08	Multiplication	5	0	8	8	10	1564	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g05_00_o09	Multiplication	5	0	9	9	10	1565	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g06_00_o01	Multiplication	6	0	1		10	1566	single o01_to_04 o01_to_05	3				
-arith_mul_g06_00_o02	Multiplication	6	0	2		10	1567	single o01_to_04 o01_to_05	3				
-arith_mul_g06_00_o03	Multiplication	6	0	3		10	1568	single o01_to_04 o01_to_05	3				
-arith_mul_g06_00_o04	Multiplication	6	0	4		10	1569	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g06_00_o05	Multiplication	6	0	5		10	1570	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g06_00_o06	Multiplication	6	0	6		10	1571	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g06_00_o07	Multiplication	6	0	7		10	1572	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g06_00_o08	Multiplication	6	0	8		10	1573	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g06_00_o09	Multiplication	6	0	9		10	1574	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g06_00_o01	Multiplication	6	0	1	1	10	1566	single o01_to_04 o01_to_05	3				
+arith_mul_g06_00_o02	Multiplication	6	0	2	2	10	1567	single o01_to_04 o01_to_05	3				
+arith_mul_g06_00_o03	Multiplication	6	0	3	3	10	1568	single o01_to_04 o01_to_05	3				
+arith_mul_g06_00_o04	Multiplication	6	0	4	4	10	1569	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g06_00_o05	Multiplication	6	0	5	5	10	1570	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g06_00_o06	Multiplication	6	0	6	6	10	1571	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g06_00_o07	Multiplication	6	0	7	7	10	1572	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g06_00_o08	Multiplication	6	0	8	8	10	1573	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g06_00_o09	Multiplication	6	0	9	9	10	1574	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g07_00_o01	Multiplication	7	0	1		10	1575	single o01_to_04 o01_to_05	3				
-arith_mul_g07_00_o02	Multiplication	7	0	2		10	1576	single o01_to_04 o01_to_05	3				
-arith_mul_g07_00_o03	Multiplication	7	0	3		10	1577	single o01_to_04 o01_to_05	3				
-arith_mul_g07_00_o04	Multiplication	7	0	4		10	1578	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g07_00_o05	Multiplication	7	0	5		10	1579	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g07_00_o06	Multiplication	7	0	6		10	1580	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g07_00_o07	Multiplication	7	0	7		10	1581	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g07_00_o08	Multiplication	7	0	8		10	1582	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g07_00_o09	Multiplication	7	0	9		10	1583	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g07_00_o01	Multiplication	7	0	1	1	10	1575	single o01_to_04 o01_to_05	3				
+arith_mul_g07_00_o02	Multiplication	7	0	2	2	10	1576	single o01_to_04 o01_to_05	3				
+arith_mul_g07_00_o03	Multiplication	7	0	3	3	10	1577	single o01_to_04 o01_to_05	3				
+arith_mul_g07_00_o04	Multiplication	7	0	4	4	10	1578	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g07_00_o05	Multiplication	7	0	5	5	10	1579	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g07_00_o06	Multiplication	7	0	6	6	10	1580	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g07_00_o07	Multiplication	7	0	7	7	10	1581	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g07_00_o08	Multiplication	7	0	8	8	10	1582	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g07_00_o09	Multiplication	7	0	9	9	10	1583	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g08_00_o01	Multiplication	8	0	1		10	1584	single o01_to_04 o01_to_05	3				
-arith_mul_g08_00_o02	Multiplication	8	0	2		10	1585	single o01_to_04 o01_to_05	3				
-arith_mul_g08_00_o03	Multiplication	8	0	3		10	1586	single o01_to_04 o01_to_05	3				
-arith_mul_g08_00_o04	Multiplication	8	0	4		10	1587	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g08_00_o05	Multiplication	8	0	5		10	1588	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g08_00_o06	Multiplication	8	0	6		10	1589	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g08_00_o07	Multiplication	8	0	7		10	1590	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g08_00_o08	Multiplication	8	0	8		10	1591	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g08_00_o09	Multiplication	8	0	9		10	1592	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g08_00_o01	Multiplication	8	0	1	1	10	1584	single o01_to_04 o01_to_05	3				
+arith_mul_g08_00_o02	Multiplication	8	0	2	2	10	1585	single o01_to_04 o01_to_05	3				
+arith_mul_g08_00_o03	Multiplication	8	0	3	3	10	1586	single o01_to_04 o01_to_05	3				
+arith_mul_g08_00_o04	Multiplication	8	0	4	4	10	1587	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g08_00_o05	Multiplication	8	0	5	5	10	1588	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g08_00_o06	Multiplication	8	0	6	6	10	1589	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g08_00_o07	Multiplication	8	0	7	7	10	1590	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g08_00_o08	Multiplication	8	0	8	8	10	1591	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g08_00_o09	Multiplication	8	0	9	9	10	1592	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g09_00_o01	Multiplication	9	0	1		10	1593	single o01_to_04 o01_to_05	3				
-arith_mul_g09_00_o02	Multiplication	9	0	2		10	1594	single o01_to_04 o01_to_05	3				
-arith_mul_g09_00_o03	Multiplication	9	0	3		10	1595	single o01_to_04 o01_to_05	3				
-arith_mul_g09_00_o04	Multiplication	9	0	4		10	1596	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g09_00_o05	Multiplication	9	0	5		10	1597	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g09_00_o06	Multiplication	9	0	6		10	1598	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g09_00_o07	Multiplication	9	0	7		10	1599	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g09_00_o08	Multiplication	9	0	8		10	1600	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g09_00_o09	Multiplication	9	0	9		10	1601	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g09_00_o01	Multiplication	9	0	1	1	10	1593	single o01_to_04 o01_to_05	3				
+arith_mul_g09_00_o02	Multiplication	9	0	2	2	10	1594	single o01_to_04 o01_to_05	3				
+arith_mul_g09_00_o03	Multiplication	9	0	3	3	10	1595	single o01_to_04 o01_to_05	3				
+arith_mul_g09_00_o04	Multiplication	9	0	4	4	10	1596	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g09_00_o05	Multiplication	9	0	5	5	10	1597	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g09_00_o06	Multiplication	9	0	6	6	10	1598	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g09_00_o07	Multiplication	9	0	7	7	10	1599	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g09_00_o08	Multiplication	9	0	8	8	10	1600	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g09_00_o09	Multiplication	9	0	9	9	10	1601	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_mul_g10_00_o01	Multiplication	10	0	1		10	1602	single o01_to_04 o01_to_05	3				
-arith_mul_g10_00_o02	Multiplication	10	0	2		10	1603	single o01_to_04 o01_to_05	3				
-arith_mul_g10_00_o03	Multiplication	10	0	3		10	1604	single o01_to_04 o01_to_05	3				
-arith_mul_g10_00_o04	Multiplication	10	0	4		10	1605	single o01_to_04 o01_to_05 o04_to_07	3				
-arith_mul_g10_00_o05	Multiplication	10	0	5		10	1606	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
-arith_mul_g10_00_o06	Multiplication	10	0	6		10	1607	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
-arith_mul_g10_00_o07	Multiplication	10	0	7		10	1608	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
-arith_mul_g10_00_o08	Multiplication	10	0	8		10	1609	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
-arith_mul_g10_00_o09	Multiplication	10	0	9		10	1610	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g10_00_o01	Multiplication	10	0	1	1	10	1602	single o01_to_04 o01_to_05	3				
+arith_mul_g10_00_o02	Multiplication	10	0	2	2	10	1603	single o01_to_04 o01_to_05	3				
+arith_mul_g10_00_o03	Multiplication	10	0	3	3	10	1604	single o01_to_04 o01_to_05	3				
+arith_mul_g10_00_o04	Multiplication	10	0	4	4	10	1605	single o01_to_04 o01_to_05 o04_to_07	3				
+arith_mul_g10_00_o05	Multiplication	10	0	5	5	10	1606	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	3				
+arith_mul_g10_00_o06	Multiplication	10	0	6	6	10	1607	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	3				
+arith_mul_g10_00_o07	Multiplication	10	0	7	7	10	1608	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	3				
+arith_mul_g10_00_o08	Multiplication	10	0	8	8	10	1609	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
+arith_mul_g10_00_o09	Multiplication	10	0	9	9	10	1610	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	3				
 													
-arith_div_g01_00_o01	Division	1	0	1		10	1611	single o01_to_04 o01_to_05	4				
-arith_div_g01_00_o02	Division	1	0	2		10	1612	single o01_to_04 o01_to_05	4				
-arith_div_g01_00_o03	Division	1	0	3		10	1613	single o01_to_04 o01_to_05	4				
-arith_div_g01_00_o04	Division	1	0	4		10	1614	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g01_00_o05	Division	1	0	5		10	1615	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g01_00_o06	Division	1	0	6		10	1616	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g01_00_o07	Division	1	0	7		10	1617	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g01_00_o08	Division	1	0	8		10	1618	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g01_00_o09	Division	1	0	9		10	1619	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g01_00_o01	Division	1	0	1	1	10	1611	single o01_to_04 o01_to_05	4				
+arith_div_g01_00_o02	Division	1	0	2	2	10	1612	single o01_to_04 o01_to_05	4				
+arith_div_g01_00_o03	Division	1	0	3	3	10	1613	single o01_to_04 o01_to_05	4				
+arith_div_g01_00_o04	Division	1	0	4	4	10	1614	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g01_00_o05	Division	1	0	5	5	10	1615	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g01_00_o06	Division	1	0	6	6	10	1616	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g01_00_o07	Division	1	0	7	7	10	1617	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g01_00_o08	Division	1	0	8	8	10	1618	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g01_00_o09	Division	1	0	9	9	10	1619	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g02_00_o01	Division	2	0	1		10	1620	single o01_to_04 o01_to_05	4				
-arith_div_g02_00_o02	Division	2	0	2		10	1621	single o01_to_04 o01_to_05	4				
-arith_div_g02_00_o03	Division	2	0	3		10	1622	single o01_to_04 o01_to_05	4				
-arith_div_g02_00_o04	Division	2	0	4		10	1623	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g02_00_o05	Division	2	0	5		10	1624	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g02_00_o06	Division	2	0	6		10	1625	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g02_00_o07	Division	2	0	7		10	1626	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g02_00_o08	Division	2	0	8		10	1627	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g02_00_o09	Division	2	0	9		10	1628	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g02_00_o01	Division	2	0	1	1	10	1620	single o01_to_04 o01_to_05	4				
+arith_div_g02_00_o02	Division	2	0	2	2	10	1621	single o01_to_04 o01_to_05	4				
+arith_div_g02_00_o03	Division	2	0	3	3	10	1622	single o01_to_04 o01_to_05	4				
+arith_div_g02_00_o04	Division	2	0	4	4	10	1623	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g02_00_o05	Division	2	0	5	5	10	1624	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g02_00_o06	Division	2	0	6	6	10	1625	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g02_00_o07	Division	2	0	7	7	10	1626	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g02_00_o08	Division	2	0	8	8	10	1627	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g02_00_o09	Division	2	0	9	9	10	1628	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g03_00_o01	Division	3	0	1		10	1629	single o01_to_04 o01_to_05	4				
-arith_div_g03_00_o02	Division	3	0	2		10	1630	single o01_to_04 o01_to_05	4				
-arith_div_g03_00_o03	Division	3	0	3		10	1631	single o01_to_04 o01_to_05	4				
-arith_div_g03_00_o04	Division	3	0	4		10	1632	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g03_00_o05	Division	3	0	5		10	1633	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g03_00_o06	Division	3	0	6		10	1634	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g03_00_o07	Division	3	0	7		10	1635	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g03_00_o08	Division	3	0	8		10	1636	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g03_00_o09	Division	3	0	9		10	1637	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g03_00_o01	Division	3	0	1	1	10	1629	single o01_to_04 o01_to_05	4				
+arith_div_g03_00_o02	Division	3	0	2	2	10	1630	single o01_to_04 o01_to_05	4				
+arith_div_g03_00_o03	Division	3	0	3	3	10	1631	single o01_to_04 o01_to_05	4				
+arith_div_g03_00_o04	Division	3	0	4	4	10	1632	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g03_00_o05	Division	3	0	5	5	10	1633	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g03_00_o06	Division	3	0	6	6	10	1634	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g03_00_o07	Division	3	0	7	7	10	1635	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g03_00_o08	Division	3	0	8	8	10	1636	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g03_00_o09	Division	3	0	9	9	10	1637	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g04_00_o01	Division	4	0	1		10	1638	single o01_to_04 o01_to_05	4				
-arith_div_g04_00_o02	Division	4	0	2		10	1639	single o01_to_04 o01_to_05	4				
-arith_div_g04_00_o03	Division	4	0	3		10	1640	single o01_to_04 o01_to_05	4				
-arith_div_g04_00_o04	Division	4	0	4		10	1641	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g04_00_o05	Division	4	0	5		10	1642	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g04_00_o06	Division	4	0	6		10	1643	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g04_00_o07	Division	4	0	7		10	1644	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g04_00_o08	Division	4	0	8		10	1645	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g04_00_o09	Division	4	0	9		10	1646	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g04_00_o01	Division	4	0	1	1	10	1638	single o01_to_04 o01_to_05	4				
+arith_div_g04_00_o02	Division	4	0	2	2	10	1639	single o01_to_04 o01_to_05	4				
+arith_div_g04_00_o03	Division	4	0	3	3	10	1640	single o01_to_04 o01_to_05	4				
+arith_div_g04_00_o04	Division	4	0	4	4	10	1641	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g04_00_o05	Division	4	0	5	5	10	1642	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g04_00_o06	Division	4	0	6	6	10	1643	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g04_00_o07	Division	4	0	7	7	10	1644	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g04_00_o08	Division	4	0	8	8	10	1645	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g04_00_o09	Division	4	0	9	9	10	1646	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g05_00_o01	Division	5	0	1		10	1647	single o01_to_04 o01_to_05	4				
-arith_div_g05_00_o02	Division	5	0	2		10	1648	single o01_to_04 o01_to_05	4				
-arith_div_g05_00_o03	Division	5	0	3		10	1649	single o01_to_04 o01_to_05	4				
-arith_div_g05_00_o04	Division	5	0	4		10	1650	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g05_00_o05	Division	5	0	5		10	1651	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g05_00_o06	Division	5	0	6		10	1652	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g05_00_o07	Division	5	0	7		10	1653	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g05_00_o08	Division	5	0	8		10	1654	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g05_00_o09	Division	5	0	9		10	1655	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g05_00_o01	Division	5	0	1	1	10	1647	single o01_to_04 o01_to_05	4				
+arith_div_g05_00_o02	Division	5	0	2	2	10	1648	single o01_to_04 o01_to_05	4				
+arith_div_g05_00_o03	Division	5	0	3	3	10	1649	single o01_to_04 o01_to_05	4				
+arith_div_g05_00_o04	Division	5	0	4	4	10	1650	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g05_00_o05	Division	5	0	5	5	10	1651	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g05_00_o06	Division	5	0	6	6	10	1652	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g05_00_o07	Division	5	0	7	7	10	1653	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g05_00_o08	Division	5	0	8	8	10	1654	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g05_00_o09	Division	5	0	9	9	10	1655	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g06_00_o01	Division	6	0	1		10	1656	single o01_to_04 o01_to_05	4				
-arith_div_g06_00_o02	Division	6	0	2		10	1657	single o01_to_04 o01_to_05	4				
-arith_div_g06_00_o03	Division	6	0	3		10	1658	single o01_to_04 o01_to_05	4				
-arith_div_g06_00_o04	Division	6	0	4		10	1659	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g06_00_o05	Division	6	0	5		10	1660	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g06_00_o06	Division	6	0	6		10	1661	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g06_00_o07	Division	6	0	7		10	1662	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g06_00_o08	Division	6	0	8		10	1663	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g06_00_o09	Division	6	0	9		10	1664	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g06_00_o01	Division	6	0	1	1	10	1656	single o01_to_04 o01_to_05	4				
+arith_div_g06_00_o02	Division	6	0	2	2	10	1657	single o01_to_04 o01_to_05	4				
+arith_div_g06_00_o03	Division	6	0	3	3	10	1658	single o01_to_04 o01_to_05	4				
+arith_div_g06_00_o04	Division	6	0	4	4	10	1659	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g06_00_o05	Division	6	0	5	5	10	1660	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g06_00_o06	Division	6	0	6	6	10	1661	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g06_00_o07	Division	6	0	7	7	10	1662	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g06_00_o08	Division	6	0	8	8	10	1663	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g06_00_o09	Division	6	0	9	9	10	1664	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g07_00_o01	Division	7	0	1		10	1665	single o01_to_04 o01_to_05	4				
-arith_div_g07_00_o02	Division	7	0	2		10	1666	single o01_to_04 o01_to_05	4				
-arith_div_g07_00_o03	Division	7	0	3		10	1667	single o01_to_04 o01_to_05	4				
-arith_div_g07_00_o04	Division	7	0	4		10	1668	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g07_00_o05	Division	7	0	5		10	1669	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g07_00_o06	Division	7	0	6		10	1670	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g07_00_o07	Division	7	0	7		10	1671	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g07_00_o08	Division	7	0	8		10	1672	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g07_00_o09	Division	7	0	9		10	1673	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g07_00_o01	Division	7	0	1	1	10	1665	single o01_to_04 o01_to_05	4				
+arith_div_g07_00_o02	Division	7	0	2	2	10	1666	single o01_to_04 o01_to_05	4				
+arith_div_g07_00_o03	Division	7	0	3	3	10	1667	single o01_to_04 o01_to_05	4				
+arith_div_g07_00_o04	Division	7	0	4	4	10	1668	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g07_00_o05	Division	7	0	5	5	10	1669	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g07_00_o06	Division	7	0	6	6	10	1670	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g07_00_o07	Division	7	0	7	7	10	1671	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g07_00_o08	Division	7	0	8	8	10	1672	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g07_00_o09	Division	7	0	9	9	10	1673	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g08_00_o01	Division	8	0	1		10	1674	single o01_to_04 o01_to_05	4				
-arith_div_g08_00_o02	Division	8	0	2		10	1675	single o01_to_04 o01_to_05	4				
-arith_div_g08_00_o03	Division	8	0	3		10	1676	single o01_to_04 o01_to_05	4				
-arith_div_g08_00_o04	Division	8	0	4		10	1677	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g08_00_o05	Division	8	0	5		10	1678	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g08_00_o06	Division	8	0	6		10	1679	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g08_00_o07	Division	8	0	7		10	1680	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g08_00_o08	Division	8	0	8		10	1681	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g08_00_o09	Division	8	0	9		10	1682	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g08_00_o01	Division	8	0	1	1	10	1674	single o01_to_04 o01_to_05	4				
+arith_div_g08_00_o02	Division	8	0	2	2	10	1675	single o01_to_04 o01_to_05	4				
+arith_div_g08_00_o03	Division	8	0	3	3	10	1676	single o01_to_04 o01_to_05	4				
+arith_div_g08_00_o04	Division	8	0	4	4	10	1677	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g08_00_o05	Division	8	0	5	5	10	1678	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g08_00_o06	Division	8	0	6	6	10	1679	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g08_00_o07	Division	8	0	7	7	10	1680	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g08_00_o08	Division	8	0	8	8	10	1681	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g08_00_o09	Division	8	0	9	9	10	1682	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g09_00_o01	Division	9	0	1		10	1683	single o01_to_04 o01_to_05	4				
-arith_div_g09_00_o02	Division	9	0	2		10	1684	single o01_to_04 o01_to_05	4				
-arith_div_g09_00_o03	Division	9	0	3		10	1685	single o01_to_04 o01_to_05	4				
-arith_div_g09_00_o04	Division	9	0	4		10	1686	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g09_00_o05	Division	9	0	5		10	1687	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g09_00_o06	Division	9	0	6		10	1688	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g09_00_o07	Division	9	0	7		10	1689	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g09_00_o08	Division	9	0	8		10	1690	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g09_00_o09	Division	9	0	9		10	1691	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g09_00_o01	Division	9	0	1	1	10	1683	single o01_to_04 o01_to_05	4				
+arith_div_g09_00_o02	Division	9	0	2	2	10	1684	single o01_to_04 o01_to_05	4				
+arith_div_g09_00_o03	Division	9	0	3	3	10	1685	single o01_to_04 o01_to_05	4				
+arith_div_g09_00_o04	Division	9	0	4	4	10	1686	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g09_00_o05	Division	9	0	5	5	10	1687	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g09_00_o06	Division	9	0	6	6	10	1688	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g09_00_o07	Division	9	0	7	7	10	1689	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g09_00_o08	Division	9	0	8	8	10	1690	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g09_00_o09	Division	9	0	9	9	10	1691	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 													
-arith_div_g10_00_o01	Division	10	0	1		10	1692	single o01_to_04 o01_to_05	4				
-arith_div_g10_00_o02	Division	10	0	2		10	1693	single o01_to_04 o01_to_05	4				
-arith_div_g10_00_o03	Division	10	0	3		10	1694	single o01_to_04 o01_to_05	4				
-arith_div_g10_00_o04	Division	10	0	4		10	1695	single o01_to_04 o01_to_05 o04_to_07	4				
-arith_div_g10_00_o05	Division	10	0	5		10	1696	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
-arith_div_g10_00_o06	Division	10	0	6		10	1697	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
-arith_div_g10_00_o07	Division	10	0	7		10	1698	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
-arith_div_g10_00_o08	Division	10	0	8		10	1699	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
-arith_div_g10_00_o09	Division	10	0	9		10	1700	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g10_00_o01	Division	10	0	1	1	10	1692	single o01_to_04 o01_to_05	4				
+arith_div_g10_00_o02	Division	10	0	2	2	10	1693	single o01_to_04 o01_to_05	4				
+arith_div_g10_00_o03	Division	10	0	3	3	10	1694	single o01_to_04 o01_to_05	4				
+arith_div_g10_00_o04	Division	10	0	4	4	10	1695	single o01_to_04 o01_to_05 o04_to_07	4				
+arith_div_g10_00_o05	Division	10	0	5	5	10	1696	single o05_to_07 o01_to_05 o04_to_07 o05_to_10	4				
+arith_div_g10_00_o06	Division	10	0	6	6	10	1697	single o05_to_07 o06_to_10 o04_to_07 o05_to_10	4				
+arith_div_g10_00_o07	Division	10	0	7	7	10	1698	single o05_to_07 o06_to_10 o04_to_07 o05_to_10 o07_to_10	4				
+arith_div_g10_00_o08	Division	10	0	8	8	10	1699	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
+arith_div_g10_00_o09	Division	10	0	9	9	10	1700	single o08_to_10 o06_to_10 o07_to_10 o05_to_10	4				
 										-			
