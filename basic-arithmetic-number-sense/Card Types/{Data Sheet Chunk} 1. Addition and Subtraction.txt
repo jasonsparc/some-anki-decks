@@ -219,4 +219,4 @@ arith_sub_g10_00_o07_08	Subtraction	10	0	7	8	10	197	o05_to_07 o06_to_10 o04_to_0
 arith_sub_g10_00_o08_09	Subtraction	10	0	8	9	10	198	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 arith_sub_g10_00_o09_10	Subtraction	10	0	9	10	10	199	o08_to_10 o06_to_10 o07_to_10 o05_to_10	2				
 arith_sub_g10_00_o10	Subtraction	10	0	10		10	200	o08_to_10 o06_to_10 o07_to_10 o05_to_10 o10_to_15	2				
-													
+										-			
