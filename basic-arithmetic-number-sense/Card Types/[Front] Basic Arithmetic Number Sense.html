@@ -408,3 +408,47 @@ function preventDblClickSelect(e) {
 		e.preventDefault()
 }
 </script>
+
+<!-- Font Randomization Script -->
+<script>
+String.prototype.hashCode = function() {
+	var hash = 0, i, chr;
+	if (this.length === 0) return hash;
+	for (i = 0; i < this.length; i++) {
+		chr = this.charCodeAt(i);
+		hash = ((hash << 5) - hash) + chr;
+		hash |= 0; // Convert to 32bit integer
+	}
+	return hash;
+};
+
+(() => {
+	var targetHash = `${op}::${g},${o}:${s},${e}:${te}`.hashCode()
+
+	var minuteInMillis = 1000 * 60
+	var minutesPerFontChange = 12 * minuteInMillis
+
+	var hashPerFontChange = Date.now() / minutesPerFontChange
+	hashPerFontChange ^= hashPerFontChange / Math.pow(2, 32) // Simulate `long` bit shift
+	hashPerFontChange ^= targetHash
+	hashPerFontChange &= 0x7fffffff // Make it positive only
+
+	var fontClasses = [
+		'sans-serif-1','sans-serif-1','sans-serif-1',
+		'sans-serif-2','sans-serif-2',
+
+		'serif-1','serif-1','serif-1',
+		'serif-2',
+
+		'cursive-1',
+		'cursive-2',
+
+		'monospace-1',
+		'monospace-2',
+	]
+	var fontClass = fontClasses[hashPerFontChange % fontClasses.length]
+
+	container.classList.add(fontClass)
+})()
+
+</script>
