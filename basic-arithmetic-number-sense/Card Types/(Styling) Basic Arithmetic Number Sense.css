@@ -1,12 +1,11 @@
 ﻿@import url("https://fontlibrary.org/face/carlito");
-@import url("https://fontlibrary.org/face/caladea");
-@import url('https://fonts.googleapis.com/css?family=Arimo|Tinos|Cousine|Nova+Mono|Itim:400,400i,700,700i');
 
 html, body, #content { margin: 0; padding: 0; }
 
 * { box-sizing: border-box; }
 
 .card {
+	font-family: "Segoe UI",Carlito,Geneva,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 	font-size: 20px;
 	line-height: 1.5;
 	text-align: center;
@@ -14,17 +13,6 @@ html, body, #content { margin: 0; padding: 0; }
 	background-color: #FFF;
 	color: rgba(0,0,0,0.87);
 }
-
-/* Font Randomization */
-.card,
-.sans-serif-1 { font-family: "Segoe UI",Arimo,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.sans-serif-2 { font-family: Calibri,Carlito,Geneva,Tahoma,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.serif-1 { font-family: "Cambria Math",Caladea,Georgia,serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.serif-2 { font-family: Tinos,Georgia,serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.cursive-1 { font-family: "Lucida Calligraphy",cursive,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.cursive-2 { font-family: "Itim",cursive,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.monospace-1 { font-family: "Courier New",Courier,Cousine,monospace,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
-.monospace-2 { font-family: "Nova Mono",Consolas,Cousine,monospace,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
 
 /* Auxiliary Styles */
 
