@@ -344,7 +344,7 @@ function makeBackwardsSkipCounting(makeContent) {
 			if (excl.has(el)) return
 		}
 		el.ondblclick = ev => toggleCloze(el, undefined, ev)
-		el.onmousedown = ev => preventDblClickSelect(ev)
+		el.onmousedown = preventDblClickSelect
 	})
 }
 
