@@ -338,13 +338,17 @@ function makeBackwardsSkipCounting(makeContent) {
 
 {
 	let excl = new Set(container.querySelectorAll(".cloze-p .cloze"))
+	let toggleFn = function(ev) { toggleCloze(this, undefined, ev) }
+	let eventAssigner = document.querySelector(".mobile")
+		? el => el.onclick = toggleFn
+		: el => el.ondblclick = toggleFn
 	container.querySelectorAll(".cloze-p, .cloze").forEach(el => {
 		if (el.classList.contains("cloze")) {
 			setUpClozeTooltip(el)
 			if (excl.has(el)) return
 		}
-		el.ondblclick = ev => toggleCloze(el, undefined, ev)
 		el.onmousedown = preventDblClickSelect
+		eventAssigner(el)
 	})
 }
 
