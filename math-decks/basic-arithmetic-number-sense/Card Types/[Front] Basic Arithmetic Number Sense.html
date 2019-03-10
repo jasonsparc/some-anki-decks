@@ -75,41 +75,41 @@ switch (op.trim().toLowerCase()) {
 	case "+": case "plus":
 	case "add": case "addition":
 		makeArithmeticTest(o
-			? i => [`${i} + ${g} + ${o}`, i+g+o]
-			: i => [`${i} + ${g}`, i+g])
+			? i => [`${o} + ${g} + ${i}`, o+g+i]
+			: i => [`${g} + ${i}`, g+i])
 		break
 	case "-": case "−": case "minus":
 	case "sub": case "subtraction":
 		makeArithmeticTest(o
-			? i => [`${i+g+o} &minus; ${g} &minus; ${o}`, i]
-			: i => [`${i+g} &minus; ${g}`, i])
+			? i => [`${o+g+i} &minus; ${g} &minus; ${o}`, i]
+			: i => [`${g+i} &minus; ${g}`, i])
 		break
 	case "*": case "×": case "times":
 	case "mul": case "multiplication": {
 		makeArithmeticTest(o
-			? i => [`${i} &times; ${g}`+'<span class="pale"> + '+o+'</span>', i*g+o]
-			: i => [`${i} &times; ${g}`, i*g])
+			? i => ['<span class="pale"> + '+o+'</span>'+`${g} &times; ${i}`, o+g*i]
+			: i => [`${g} &times; ${i}`, g*i])
 		break
 	}
 	case "/": case "÷": case "divide":
 	case "div": case "division":
 		makeArithmeticTest(o
-			? i => [`${i*g+o} &div; ${g}`, `${i}, r ${o}`]
-			: i => [`${i*g} &div; ${g}`, i])
+			? i => [`${o+g*i} &div; ${g}`, `${i}, r ${o}`]
+			: i => [`${g*i} &div; ${g}`, i])
 		break
 	case "skip": case "skipco":
 	case "skip counting":
 		makeSkipCounting(o
-			? i => [i*g+o, i]
-			: i => [i*g, i])
+			? i => [o+g*i, i]
+			: i => [g*i, i])
 		break
 	case "skipb": case "skipcob": case "bskip": case "bskipco":
 	case "skipbw": case "skipcobw": case "bwskip": case "bwskipco":
 	case "skipback": case "skipcoback": case "backskip": case "backskipco":
 	case "skip counting backwards": case "backwards skip counting":
 		makeBackwardsSkipCounting(o
-			? i => [i*g+o, '<br>']
-			: i => [i*g, '<br>'])
+			? i => [o+g*i, '<br>']
+			: i => [g*i, '<br>'])
 		break
 	default:
 		document.getElementById("error-op").classList.remove("gone")
