@@ -17,3 +17,12 @@ complex repositioning queries.
 
 After all that, if you want to, you can set the "Sort Field" back to "Serial"
 -- the first field.
+
+## Creation Date Fix
+
+This fixes the "Date Added" metadata so that it would respect our "Default Due"
+ordering when used in filtered decks.
+
+Basically, after importing all notes, export the entire deck as "Plain Text",
+open the exported text file in Excel to re-sort, delete all notes in the deck,
+and then re-import that exported text file.
