@@ -7,6 +7,10 @@ Both the desktop version and mobile app implementation of “Functional Ear Trai
 
 The ordering of the cards has been pre-randomized, but the sequence of introduction for each card is still faithful to the original desktop program (i.e., you'll get ear training for chapter 3,1/5 first then 3,2/5 and so on...)
 
+<b>Shortcut Keys for “Play Resolution”</b>
+
+You can install the add-on “<a href="https://ankiweb.net/shared/info/1642550423">Refocus Card when Reviewing (2.1)</a>” to enable a handful of shortcut keys that I included in each card type's code, such as pressing the <kbd>Q</kbd> key or even <kbd>CTRL+Space</kbd> (check out the code for each card type, as there are conveniently more) so that you can play the tonic resolution without having to reach for your mouse.
+
 <b>Recommended Deck Options</b>
 
 I recommend <b>Pimsleur's graduated-interval recall</b> for a much better learning experience, in which the learning intervals are, 5 seconds, 25 seconds, 2 minutes, 10 minutes, 1 hour, 5 hours, …
