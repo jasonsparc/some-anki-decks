@@ -3,7 +3,7 @@
 
 Both the desktop version and mobile app implementation of “Functional Ear Trainer” is great but it lacks an SRS component. This deck allows you to further optimize your ear training via Anki's SRS.
 
-<b>NOTE:</b> This deck utilizes HTML5 and Javascript for the custom Tonic Resolution Audio playing. It therefore doesn't work fully with Anki 2 Desktop (i.e., the back side will not play a resolution audio) but works great with the current version of AnkiDroid and possibly in the upcoming Anki 2.1 (Beta).
+<b>NOTE:</b> This deck utilizes HTML5 and Javascript for the custom Tonic Resolution Audio playing. It therefore doesn't work fully with Anki 2.0 Desktop (i.e., the back side will not play a resolution audio) but works great with the current version of AnkiDroid and Anki 2.1 Desktop (Windows). Also, not tested on Mac and iOS, and may therefore not fully work on those platforms.
 
 The ordering of the cards has been pre-randomized, but the sequence of introduction for each card is still faithful to the original desktop program (i.e., you'll get ear training for chapter 3,1/5 first then 3,2/5 and so on...)
 
