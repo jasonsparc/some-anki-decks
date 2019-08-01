@@ -17,7 +17,7 @@ This ensures that the card is marked empty if there isn't a tone file.
 
 <script>if (window.Audio == undefined) document.body.className += " no-audio"</script>
 
-<div style="white-space: nowrap">
+<div id="scale" style="white-space: nowrap">
 {{^Is Minor}}
 	<div id=chromatics>
 		<div class=tones>
@@ -35,7 +35,7 @@ This ensures that the card is marked empty if there isn't a tone file.
 		</div>
 	</div>
 
-	<div>
+	<div id="diatonic">
 		<div class=tones>
 			<button>
 			1</button><button>
@@ -69,7 +69,7 @@ This ensures that the card is marked empty if there isn't a tone file.
 		</div>
 	</div>
 
-	<div>
+	<div id="diatonic">
 		<div class=tones>
 			<button>
 			1</button><button>
@@ -89,9 +89,7 @@ This ensures that the card is marked empty if there isn't a tone file.
 
 <script>
 var isBack = !!document.getElementById("back");
-var buttons = document.querySelectorAll
-	? document.querySelectorAll(".tones button")
-	: document.getElementsByTagName("button")
+var buttons = document.getElementById("scale").getElementsByTagName("button");
 var hasAccidentals = toneNumber.charAt(0) == "#" || toneNumber.charAt(0) == "b"
 
 if (!useChromatics) {
