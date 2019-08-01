@@ -9,7 +9,7 @@ The ordering of the cards has been pre-randomized, but the sequence of introduct
 
 <b>Shortcut Keys for “Play Resolution”</b>
 
-You can install the add-on “<a href="https://ankiweb.net/shared/info/1642550423">Refocus Card when Reviewing (2.1)</a>” to enable a handful of shortcut keys that I included in each card type's code, such as pressing the <kbd>Q</kbd> key or even <kbd>CTRL+Space</kbd> (check out the code for each card type, as there are conveniently more) so that you can play the tonic resolution without having to reach for your mouse.
+You can install the add-on “<a href="https://ankiweb.net/shared/info/1642550423">Refocus Card when Reviewing (2.1)</a>” to enable a handful of shortcut keys that I included in each card type's code, such as pressing the <kbd>Q</kbd> key or even <kbd>CTRL+Space</kbd> (check out the code for each card type, as there are conveniently more) so that you can play the tonic resolution without having to reach for the mouse.
 
 <b>Recommended Deck Options</b>
 
