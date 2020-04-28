@@ -11,7 +11,7 @@
 
 <div class="template" id="template-skipco">
 	<div class="skipco-container">
-		<div class="skipco-mul-title pale">Skip Count by <b class="ans">{{text:Group}}</b>'s</div>
+		<div class="skipco-mul-title pale cloze-p">Skip Count by <b class="ans cloze"><span class="hint">#</span>{{text:Group}}</b>'s</div>
 		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden{{/Group Offset}}">
 			Starting at <b>{{text:Group Offset}}</b>
 		</div>
@@ -87,7 +87,7 @@ switch (op.trim().toLowerCase()) {
 	case "*": case "×": case "times":
 	case "mul": case "multiplication": {
 		makeArithmeticTest(o
-			? i => ['<span class="pale"> + '+o+'</span>'+`${g} &times; ${i}`, o+g*i]
+			? i => ['<span class="pale">'+o+' + </span>'+`${g} &times; ${i}`, o+g*i]
 			: i => [`${g} &times; ${i}`, g*i])
 		break
 	}
@@ -260,6 +260,8 @@ function makeSkipCounting(makeContent) {
 		skipOffsetTitle.classList.add("cloze", "last")
 	}
 	//{{/Group Offset}}
+	if (s < 2)
+		toggleCloze(container.querySelector(".skipco-mul-title"), true)
 }
 
 function makeBackwardsSkipCounting(makeContent) {
