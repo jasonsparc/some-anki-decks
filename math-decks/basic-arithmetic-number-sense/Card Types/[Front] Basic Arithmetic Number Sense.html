@@ -12,7 +12,7 @@
 <div class="template" id="template-skipco">
 	<div class="skipco-container">
 		<div class="skipco-mul-title pale cloze-p">Skip Count by <b class="ans cloze last"><span class="hint">#</span>{{text:Group}}</b>'s</div>
-		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden{{/Group Offset}} cloze last">
+		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden locked{{/Group Offset}} cloze last">
 			Starting at <b>{{text:Group Offset}}</b>
 		</div>
 		<br class="skipco-intro-br">
@@ -20,7 +20,7 @@
 	</div>
 	<div class="bwskipco-container">
 		<div class="skipco-mul-title pale"><small>Repeatedly</small> subtract <b class="ans">{{text:Group}}</b></div>
-		<div class="skipco-off-title pale sublabel-s {{^Group Offset}}hidden{{/Group Offset}} cloze last">
+		<div class="skipco-off-title pale sublabel-s {{^Group Offset}}hidden locked{{/Group Offset}} cloze last">
 			Till <b>{{text:Group Offset}}</b> is reached
 		</div>
 		<br class="skipco-intro-br">
@@ -251,18 +251,23 @@ function makeSkipCounting(makeContent) {
 	//{{#Group Offset}}
 	var skipOffsetTitle = container.querySelector(".skipco-off-title")
 	if (!o) {
-		skipOffsetTitle.classList.add("hidden")
+		skipOffsetTitle.classList.add("hidden", "locked")
 	} else if (s <= 1
 		/*{{#Ordinal End}}*/
 		&& e >= te
 		/*{{/Ordinal End}}*/
 	) {
 		toggleCloze(skipOffsetTitle, true) // Reveal
+		skipOffsetTitle.classList.add("locked")
 	}
 	//{{/Group Offset}}
 
-	if (s < 2)
-		toggleCloze(container.querySelector(".skipco-mul-title"), true)
+	if (s < 2) {
+		let skipMulTitle = container.querySelector(".skipco-mul-title")
+		toggleCloze(skipMulTitle, true) // Reveal
+		skipMulTitle.querySelectorAll(".cloze")
+			.forEach(el => el.classList.add("locked"))
+	}
 }
 
 function makeBackwardsSkipCounting(makeContent) {
@@ -332,7 +337,7 @@ function makeBackwardsSkipCounting(makeContent) {
 	//{{#Group Offset}}
 	var skipOffsetTitle = container.querySelector(".skipco-off-title")
 	if (!o) {
-		skipOffsetTitle.classList.add("hidden")
+		skipOffsetTitle.classList.add("hidden", "locked")
 	}
 	//{{/Group Offset}}
 }
@@ -369,14 +374,14 @@ document.onkeydown = function(e) {
 	case 'w': case 'W':
 		e.preventDefault()
 		if (e.shiftKey) {
-			let q = container.querySelectorAll(".cloze.revealed.last")
+			let q = container.querySelectorAll(".cloze:not(.locked).revealed.last")
 			if (!q.length)
-				q = container.querySelectorAll(".cloze.revealed")
+				q = container.querySelectorAll(".cloze:not(.locked).revealed")
 			q = q[q.length-1]
 			if (q) toggleCloze(q.closest(".cloze-p") || q, false)
 		} else {
-			let q = container.querySelector(".cloze:not(.revealed):not(.last)")
-			if (!q) q = container.querySelector(".cloze:not(.revealed)")
+			let q = container.querySelector(".cloze:not(.locked):not(.revealed):not(.last)")
+			if (!q) q = container.querySelector(".cloze:not(.locked):not(.revealed)")
 			if (q) toggleCloze(q.closest(".cloze-p") || q, true)
 		}
 		break
@@ -397,11 +402,13 @@ function toggleCloze(el, force, ev) {
 		ev.preventDefault()
 	}
 	if (el.classList.contains("cloze")) {
+		if (el.classList.contains("locked")) return
 		el.classList.toggle("revealed", force)
 		setUpClozeTooltip(el)
 	}
 	if (el.classList.contains("cloze-p")) {
 		el.querySelectorAll(".cloze").forEach(el => {
+			if (el.classList.contains("locked")) return
 			el.classList.toggle("revealed", force)
 			setUpClozeTooltip(el)
 		})
