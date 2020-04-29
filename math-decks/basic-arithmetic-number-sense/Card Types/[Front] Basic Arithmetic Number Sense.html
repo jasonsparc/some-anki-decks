@@ -11,8 +11,8 @@
 
 <div class="template" id="template-skipco">
 	<div class="skipco-container">
-		<div class="skipco-mul-title pale cloze-p">Skip Count by <b class="ans cloze"><span class="hint">#</span>{{text:Group}}</b>'s</div>
-		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden{{/Group Offset}}">
+		<div class="skipco-mul-title pale cloze-p">Skip Count by <b class="ans cloze last"><span class="hint">#</span>{{text:Group}}</b>'s</div>
+		<div class="skipco-off-title pale sublabel {{^Group Offset}}hidden{{/Group Offset}} cloze last">
 			Starting at <b>{{text:Group Offset}}</b>
 		</div>
 		<br class="skipco-intro-br">
@@ -252,14 +252,15 @@ function makeSkipCounting(makeContent) {
 	var skipOffsetTitle = container.querySelector(".skipco-off-title")
 	if (!o) {
 		skipOffsetTitle.classList.add("hidden")
-	} else if (s > 1
+	} else if (s <= 1
 		/*{{#Ordinal End}}*/
-		|| e < te
+		&& e >= te
 		/*{{/Ordinal End}}*/
 	) {
-		skipOffsetTitle.classList.add("cloze", "last")
+		toggleCloze(skipOffsetTitle, true) // Reveal
 	}
 	//{{/Group Offset}}
+
 	if (s < 2)
 		toggleCloze(container.querySelector(".skipco-mul-title"), true)
 }
